@@ -1,427 +1,2119 @@
-#EXTM3U
-#EXTINF:-1,ES:LA 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/110.ts
-#EXTINF:-1,ES:LA 1 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/489.ts
-#EXTINF:-1,ES:LA 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/109.ts
-#EXTINF:-1,ES:ANTENA 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/111.ts
-#EXTINF:-1,ES:ANTENA 3 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/500.ts
-#EXTINF:-1,ES:LA CUATRO
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/88.ts
-#EXTINF:-1,ES:LA CUATRO HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/497.ts
-#EXTINF:-1,ES:TELECINCO
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/496.ts
-#EXTINF:-1,ES:TELECINCO HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/79.ts
-#EXTINF:-1,ES:LA SEXTA OPCION 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/478.ts
-#EXTINF:-1,ES:AXN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/18.ts
-#EXTINF:-1,ES:AXN HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/494.ts
-#EXTINF:-1,ES:AXN  WHITE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/19.ts
-#EXTINF:-1,ES:AXN WHITE HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/479.ts
-#EXTINF:-1,ES:AMC
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/29.ts
-#EXTINF:-1,ES:AMC HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/493.ts
-#EXTINF:-1,ES:FOX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/28.ts
-#EXTINF:-1,ES:FOX HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/495.ts
-#EXTINF:-1,ES:FOX LIFE HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/637.ts
-#EXTINF:-1,ES:FOX LIFE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/20.ts
-#EXTINF:-1,ES:TNT
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/30.ts
-#EXTINF:-1,ES:TNT HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/492.ts
-#EXTINF:-1,ES: HOLLYWOOD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/23.ts
-#EXTINF:-1,ES:HOLLYWOOD HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/491.ts
-#EXTINF:-1,ES:CALLE 13 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/631.ts
-#EXTINF:-1,ES:CALLE 13
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/24.ts
-#EXTINF:-1,ES:SYFY HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/638.ts
-#EXTINF:-1,ES:SYFY
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/15.ts
-#EXTINF:-1,ES:COSMOPOLITAN  HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/2.ts
-#EXTINF:-1,ES:COSMOS
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/629.ts
-#EXTINF:-1,XTREM
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/827.ts
-#EXTINF:-1,ES:COMEDY  CENTRAL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/26.ts
-#EXTINF:-1,ES:PARAMOUNT CHANNEL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/86.ts
-#EXTINF:-1,ES:TCM HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/652.ts
-#EXTINF:-1,ES:TCM
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/45.ts
-#EXTINF:-1,ES: DIVINITY
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/80.ts
-#EXTINF:-1,ES:NEOX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/41.ts
-#EXTINF:-1,ES:NEOX OP2
+EXTM3U
+#EXTINF:-1,#0 Series
+http://edge3.telesport.pw/live/plus1/index.m3u8
+#EXTINF:-1,#0 Series
+http://edge3501.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
+#EXTINF:-1,(31) TOP LATINO TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1,1 HD MUSIC TELEVISION
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+#EXTINF:-1,100+
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+#EXTINF:-1,101 España
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1,324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1,8 TV España
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1,A&E
+http://edge5204.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
+#EXTINF:-1,A&E
+http://edge5204.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
+#EXTINF:-1,A&E
+http://edge5202.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
+#EXTINF:-1,A&E
+http://wowza2.mysoltv.com:1992/Latino_A&E_HD/index.m3u8
+#EXTINF:-1,A&E
+http://thepk.co:2095/live/husham/isaplayer/1127.ts
+#EXTINF:-1,A&E
+ttp://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2417.ts
+#EXTINF:-1,A+
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:-1,A1
+http://109.236.91.150:8080/a1espanmahiryahsattv/playlist.m3u8
+#EXTINF:-1,A3SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,A3SERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ABC
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-p.m3u8
+#EXTINF:-1,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1,AE
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AMC
+http://edge4.telesport.pw/live/amc/index.m3u8
+#EXTINF:-1,AMC
+http://wowza2.mysoltv.com:1992/Latino_AMC/index.m3u8
+#EXTINF:-1,AMC
+http://edge8.telesport.pw/live/amc/index.m3u8
+#EXTINF:-1,AMC
+http://edge5203.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
+#EXTINF:-1,AMC
+http://wowza2.mysoltv.com:1992/Latino_AMC/index.m3u8
+#EXTINF:-1,AMC
+http://thepk.co:2095/live/husham/isaplayer/1630.ts
+#EXTINF:-1,AMERICA TV
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8
+#EXTINF:-1,ANTENA3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,ARENA SPORT1
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1431.ts
+#EXTINF:-1,ARENA SPORT1
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1431.ts
+#EXTINF:-1,ARENA SPORT2
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1432.ts
+#EXTINF:-1,ARENA SPORT2
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1432.ts
+#EXTINF:-1,ARENA SPORT3
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1433.ts
+#EXTINF:-1,ARENA SPORT3
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1433.ts
+#EXTINF:-1,ARENA SPORT4
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1434.ts
+#EXTINF:-1,ARENA SPORT4
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1434.ts
+#EXTINF:-1,ARENA SPORT5
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1435.ts
+#EXTINF:-1,ARENA SPORT5
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1435.ts
+#EXTINF:-1,ATOMIC TV
+http://5.154.185.153/hls/live.m3u8
+#EXTINF:-1,ATXN (Austin)
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8
+#EXTINF:-1,AXN
+http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,AXN
+http://edge5.telesport.pw/live/axn/index.m3u8
+#EXTINF:-1,AXN
+http://edge5201.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+#EXTINF:-1,AXN
+http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,AXN
+http://wowza2.mysoltv.com:1992/Latino_AXN_HD/index.m3u8
+#EXTINF:-1,AXN White
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3277.ts
+#EXTINF:-1,AXN White
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3363.m3u8
+#EXTINF:-1,AZ HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AZTECA CINEMA
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3101.ts
+#EXTINF:-1,Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:-1,All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,América TV
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/1.m3u8
+#EXTINF:-1,América TV
+http://ar.watcha.live/ch3/hi.m3u8
+#EXTINF:-1,Andalucia TV
+http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
+#EXTINF:-1,Animal Planet
+http://wowza2.mysoltv.com:1992/Latino_Animal_Planet/index.m3u8
+#EXTINF:-1,Animal Planet
+http://thepk.co:2095/live/husham/isaplayer/1126.ts
+#EXTINF:-1,Animal Planet
+http://thepk.co:2095/live/husham/isaplayer/1631.ts
+#EXTINF:-1,Animation
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,Antena 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
+#EXTINF:-1,AragonTv
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,Aristegui
+https://vod.livestream.com/events/00000000006147c6/42a5ebd3-9d01-4ab5-ba7b-f6b01afb7752_1756.m3u8?token=0_595a9bd5_aa2ebcad66b28c4fc4b122ab115e3d6b5bd98b3e&start=106&end=14498
+#EXTINF:-1,Aristegui NOTICIAS
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5418.ts
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,Atreseries Español
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,Axn
+http://edge1.telesport.pw/live/axn/index.m3u8
+#EXTINF:-1,AyM Sports
+http://adryanlist.jl.serv.net.mx/adryanlist.php?c=180&p=3&k=AdryanListisAdryanlist&f=.m3u8
+#EXTINF:-1,Az Clic
+http://wowza2.mysoltv.com:1992/Latino_Az_Click_HD/index.m3u8
+#EXTINF:-1,Az Clic
+http://wowza2.mysoltv.com:1992/Latino_Az_Click_HD/index.m3u8
+#EXTINF:-1,Az Clic
+http://wowza2.mysoltv.com:1992/Latino_Az_Click_HD/index.m3u8
+#EXTINF:-1,Az Corazon
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5331.ts
+#EXTINF:-1,Az Mundo
+ttp://nitrotv.for-the.biz:25461/live/gary1/gary1/3100.ts
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,Azteca 13
+http://209.126.116.177:2086/113azteca13/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Azteca 7
+http://wowza2.mysoltv.com:1992/Latino_AZTECA_7/index.m3u8
+#EXTINF:-1,Azteca 7
+http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+#EXTINF:-1,Azteca 7
+http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Azteca NOTICIAS
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Azteca trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Azteca trese
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
+#EXTINF:-1,Azteca+ Plus
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:-1,Azteca+ Plus
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:-1,Azteca+ Plus
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
+#EXTINF:-1,BBC 1
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1310.ts
+#EXTINF:-1,BBC 2
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1311.ts
+#EXTINF:-1,BBC 3
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3451.ts
+#EXTINF:-1,BBC America
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1277.ts
+#EXTINF:-1,BBC Arabic Televison
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+#EXTINF:-1,BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1,BOX NATION
+http://edge3502.livesports.pw/live/verboxnation20d6009b83e8f/index.m3u8
+#EXTINF:-1,BOX NATION
+http://edge3504.livesports.pw/live/verboxnation20d6009b83e8f/index.m3u8
+#EXTINF:-1,BRAVO
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2432.ts
+#EXTINF:-1,BT Espn
+http://185.142.239.164:3135/BT/Espn/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/602.ts
+#EXTINF:-1,BT Sport Extra 2
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/601.ts
+#EXTINF:-1,BT Sport Extra 3
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/600.ts
+#EXTINF:-1,BT Sport-ESPN
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/599.ts
+#EXTINF:-1,BT Sports 1
+http://185.142.239.164:3135/BT/1/playlist.m3u8
+#EXTINF:-1,BT Sports 2
+http://185.142.239.164:3135/BT/2/playlist.m3u8
+#EXTINF:-1,BT Sports 3
+http://185.142.239.164:3135/BT/3/playlist.m3u8
+#EXTINF:-1,Baby TV
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3360.m3u8
+#EXTINF:-1,Banda Ancha TV
+https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
+#EXTINF:-1,Bandamax
+http://wowza2.mysoltv.com:1992/Latino_BANDAMAX/index.m3u8
+#EXTINF:-1,Bandamax
+http://wowza2.mysoltv.com:1992/Latino_BANDAMAX/index.m3u8
+#EXTINF:-1,Barca Tv
+http://edge12.verliga.me/live/barca/index.m3u8
+#EXTINF:-1,Bayern Munchen TV
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8
+#EXTINF:-1,Be Mad
+http://cdn2.shurs.xyz/verdirectotv/14/playlist.m3u8
+#EXTINF:-1,Bein Sports
+http://edge3503.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
+#EXTINF:-1,Bein Sports
+http://edge3502.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8
+#EXTINF:-1,Bein Sports
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3357.m3u8
+#EXTINF:-1,Benfica TV
+http://newtv.dyndns.org:25461/live/toze/moreira/22.ts
+#EXTINF:-1,Betis Tv
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1,Betis tv
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1,Bike Channel
+http://system.fpiptv.com:8080/live/12345/12345/3224.ts
+#EXTINF:-1,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Boing
+http://edge3505.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
+#EXTINF:-1,Boing
+https://cdn.opencable.es/hls/live/boing/index.m3u8
+#EXTINF:-1,Boomerang
+http://wowza2.mysoltv.com:1992/Latino_BOOMERANG/index.m3u8
+#EXTINF:-1,C&I
+http://edge5204.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,CANAL 3 XHBC MEXICALI
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/UGEKI-1011001010110111010110000101110-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYW1leGljYWxpLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
+#EXTINF:-1,CANAL 4 GDL
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/UGEKI-1011001010110111010110000101110-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYWd1YWRhbGFqYXJhLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
+#EXTINF:-1,CANAL COCINA
+http://cdn2.shurs.xyz/verliga/6/playlist.m3u8
+#EXTINF:-1,CANAL COCINA
+http://edge5204.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8
+#EXTINF:-1,CANAL DECASA
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3331.m3u8
+#EXTINF:-1,CANAL I
+http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
+#EXTINF:-1,CANAL SUR ANDALUCIA
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone/main.m3u8
+#EXTINF:-1,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1,CAPITAL 21
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,CAPITAL 21 CDMX
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,CAPITAL 21 CDMX
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,CAPITAL 21 CDMX
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,CBN NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,CBN NEWS
+http://cbsNEWShd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1,CBS
+http://system.fpiptv.com:8080/live/12345/12345/441.ts
+#EXTINF:-1,CBS SPORTS
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/220.ts
+#EXTINF:-1,CDF Premium
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3088.ts
+#EXTINF:-1,CDN Sports Max
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+#EXTINF:-1,CDO Premium
+http://tvnet.iptvsur.com:25461/live/IPTVPREMIUN/12345/3681.ts
+#EXTINF:-1,CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1,CHV
+http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/1.m3u8
+#EXTINF:-1,CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,CINE Latino
+http://104.245.96.214:8000/live/PATRICIO APRAEZUBE/12345/1898.ts
+#EXTINF:-1,CINE ON DEMAND
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
+#EXTINF:-1,CINEMAX
+http://cdn2.shurs.xyz/verliga/4/playlist.m3u8
+#EXTINF:-1,CINEcanal
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/Y2luZWNhbmFs/visita-exabytetv.m3u8
+#EXTINF:-1,CINEcanal
+http://wowza2.mysoltv.com:1992/Latino_Cinecanal_HD/index.m3u8
+#EXTINF:-1,CINEma Dinamita
+http://104.245.96.214:8000/live/PATRICIO APRAEZUBE/12345/1899.ts
+#EXTINF:-1,CINEmax
+http://cdn2.shurs.xyz/verliga/4/playlist.m3u8
+#EXTINF:-1,CINEmax
+http://cdn3.shurs.xyz/verliga/4/playlist.m3u8
+#EXTINF:-1,CINEmax
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/Y2luZW1heA==/visita-exabytetv.m3u8
+#EXTINF:-1,CINEmax
+http://wowza2.mysoltv.com:1992/Latino_CINEMAX/index.m3u8
+#EXTINF:-1,CINEmax
+http://thepk.co:2095/live/husham/isaplayer/1621.ts
+#EXTINF:-1,CLARO SPORTS
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,CLASS TV MODA
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+#EXTINF:-1,CLASSICA
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/531.ts
+#EXTINF:-1,CNN CHILE
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1,CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1,CNN International
+http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
+#EXTINF:-1,CNN Turk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,CNN en Español
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3072.ts
+#EXTINF:-1,CNT SPORT
+http://104.245.96.214:8000/live/PATRICIO APRAEZUBE/12345/989.ts
+#EXTINF:-1,COLOMBIA El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,COOKING CHANNEL
+http://thepk.co:2095/live/husham/isaplayer/1627.ts
+#EXTINF:-1,COSMO TV
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3300.ts
+#EXTINF:-1,COSMO TV
+https://cdn.opencable.es/hls/live/cosmopolitan/index.m3u8
+#EXTINF:-1,COSMOVISION
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1,CRIMEN INVESTIGACION
+http://edge6.telesport.pw/live/canalcrimen/index.m3u8
+#EXTINF:-1,CSTAR
+http://www.mytvonline.org/fra/d17.m3u8
+#EXTINF:-1,CUBAVISION
+http://system.fpiptv.com:8080/live/12345/12345/869.ts
+#EXTINF:-1,CYLTV
+http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:-1,Cable NOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1,Calle 13
+http://edge8.telesport.pw/live/calle13/index.m3u8
+#EXTINF:-1,Calle 13
+http://edge5203.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
+#EXTINF:-1,Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,Canal 10 Sabinas
+http://192.163.250.253:1935/live/canal10/playlist.m3u8
+#EXTINF:-1,Canal 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
+#EXTINF:-1,Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1,Canal 4 Jujuy
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,Canal 4 Jujuy
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,Canal 4 Monclova
+http://192.163.250.253:1935/live/canal4/playlist.m3u8
+#EXTINF:-1,Canal 4 XHBC Mexicali
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYW1leGljYWxpLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
+#EXTINF:-1,Canal 44 De Mexico En Vivo
+http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_1000k_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Canal 5
+http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Canal 5
+http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Canal 6 Saltillo
+http://192.163.250.253:1935/live/canal6/playlist.m3u8
+#EXTINF:-1,Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/index_250k_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1,Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1,Canal BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1,Canal Capital:
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+#EXTINF:-1,Canal Claro
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+#EXTINF:-1,Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1,Canal Latina
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
+#EXTINF:-1,Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+#EXTINF:-1,Canal Panda
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/486.ts
+#EXTINF:-1,Canal Parlamento (Madrid)
+http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8?DVR&m3u8
+#EXTINF:-1,Canal UNO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1,Canal Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,Canal Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:-1,Canal-44 Juarez
+http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_1000k_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Capital Tv MUSICAL
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Caracol
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?&dnt=true&ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html
+#EXTINF:-1,Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?dl=1
+#EXTINF:-1,Caracol - Colombia
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
+#EXTINF:-1,Cartoon Network
+http://thepk.co:2095/live/husham/isaplayer/1123.m3u8
+#EXTINF:-1,Cartoon Network
+http://thepk.co:2095/live/husham/isaplayer/1123.m3u8
+#EXTINF:-1,Cartoon Network
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+https://live10.userapi.com/620011/live/t8eGhhBAfwxbFOsx/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Caza y Pezca
+http://edge5.telesport.pw/live/cazaypesca/index.m3u8
+#EXTINF:-1,Caza y Pezca
+http://edge5.telesport.pw/live/cazaypesca/index.m3u8
+#EXTINF:-1,Caza y Pezca
+http://edge5201.livesports.pw/live/vercazaypesca65b3f60d9f53/index.m3u8
+#EXTINF:-1,Channel NEWS Asia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1,China CCTV 13
+http://61.155.167.11/live/cctv13.m3u8
+#EXTINF:-1,Cine AR
+http://ar.watcha.live/ch17/hi.m3u8
+#EXTINF:-1,City Radio TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1,City Radio TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1,City Radio TV [SD]
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1,City TV
+http://jdm:society@o12teamus.tk:9981/stream/channelid/326702078?ticket=8339AA1F88FFF95C193084485B5A196467EEEBFC&profile=pass
+#EXTINF:-1,Clan TVE
+http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/22159.m3u8
+#EXTINF:-1,Clan TVE
+https://cdn.opencable.es/hls/live/clan/index.m3u8
+#EXTINF:-1,Claro Sports
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,ClaroSports
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Class TV Moda
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+#EXTINF:-1,Colosal
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8
+#EXTINF:-1,Colosal TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1,Combate
+http://5.79.68.138:8081/look/combate/playlist.m3u8
+#EXTINF:-1,Combate
+http://5.79.68.138:8081/look/combate/playlist.m3u8
+#EXTINF:-1,Comedy Central
+http://cdn1.shurs.xyz/verdirectotv/8/playlist.m3u8
+#EXTINF:-1,Comedy Central
+http://edge5203.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+#EXTINF:-1,Comedy Central
+http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Cool 103.7 HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1,Cool HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1,Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1,Crimen investigacion
+http://edge7.telesport.pw/live/canalcrimen/index.m3u8
+#EXTINF:-1,Crimen investigacion
+http://edge5204.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
+#EXTINF:-1,DCINE Español
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3296.ts
+#EXTINF:-1,DCINE Español
+http://bit.ly/2sX0gUg
+#EXTINF:-1,DE PELICULA
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/6069/visita-exabytetv.m3u8
+#EXTINF:-1,DESTINATION AMERICA
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/425.ts
+#EXTINF:-1,DISCOBERY
+http://cdn2.shurs.xyz/verdirectotv/11/playlist.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://edge5203.livesports.pw/live/verdiscoverychannelff096b/index.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://edge5201.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+#EXTINF:-1,DKISS
+http://edge2.telesport.pw/live/dkiss/index.m3u8
+#EXTINF:-1,DMAX - España
+http://149.100.19.147:8000/play/a00z
+#EXTINF:-1,DMAX España
+http://edge7.telesport.pw/live/dmax/index.m3u8
+#EXTINF:-1,DW LATINOAMERICA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,DW LATINOAMERICA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,DW LATINOAMéRICA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,DW Latinoamerica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,DW Latinoamerica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,DW Latinoamérica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1,DW USA
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+#EXTINF:-1,Dark
+http://edge5201.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+#EXTINF:-1,DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+#EXTINF:-1,DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+#EXTINF:-1,Deport Tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8#erwin
+#EXTINF:-1,Dinosaurios
+http://158.69.226.108:8000/live/carlo/carlo1/5618.ts
+#EXTINF:-1,DirectTV Sports
+https://live68.vkuserlive.com/639912/live/0xhZ4rlAf6VQnzQE/playlist.m3u8
+#EXTINF:-1,Discovery
+http://cdn2.shurs.xyz/verdirectotv/11/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://cdn2.shurs.xyz/verdirectotv/11/chunks.m3u8
+#EXTINF:-1,Discovery Channel
+http://edge5202.livesports.pw/live/verdiscoverychannelff096b/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://wowza2.mysoltv.com:1992/Latino_Discovery_Channel/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/6061.ts
+#EXTINF:-1,Discovery Channel
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/255.ts
+#EXTINF:-1,Discovery Civilization
+http://wowza2.mysoltv.com:1992/Latino_Discovery_Civilization/index.m3u8
+#EXTINF:-1,Discovery Civilization
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2994.ts
+#EXTINF:-1,Discovery DMAX
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3195.ts
+#EXTINF:-1,Discovery Familia
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/6066.ts
+#EXTINF:-1,Discovery History
+http://thepk.co:2095/live/husham/isaplayer/1637.ts
+#EXTINF:-1,Discovery Home and Health
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Discovery Kids
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Discovery Kids
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Discovery Science
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3098.ts
+#EXTINF:-1,Discovery Science
+http://thepk.co:2095/live/husham/isaplayer/1651.ts
+#EXTINF:-1,Discovery Shed
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2062.ts
+#EXTINF:-1,Discovery Theater
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/42.ts
+#EXTINF:-1,Discovery Turbo
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2992.ts
+#EXTINF:-1,Discovery Turbo
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2061.ts
+#EXTINF:-1,Discovery World
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3050.ts
+#EXTINF:-1,Disney Channel
+http://wowza2.mysoltv.com:1992/Latino_Disney/index.m3u8
+#EXTINF:-1,Disney Channel
+http://edge5201.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+#EXTINF:-1,Disney Jr
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Disney Jr
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Distrito Comedia
+http://wowza2.mysoltv.com:1992/Latino_DISTRITO_COMEDIA/index.m3u8
+#EXTINF:-1,Divinity
+http://cdn2.shurs.xyz/verdirectotv/3/playlist.m3u8
+#EXTINF:-1,Divinity
+http://edge5204.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
+#EXTINF:-1,Doce TV Hermosillo
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYWhlcm1vc2lsbG8udHYvdmlkZW8tZW4tdml2bw==/visita-exabytetv.m3u8
+#EXTINF:-1,E! Entertainment
+http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,E! Entertainment
+http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,E! Entertainment
+http://wowza2.mysoltv.com:1992/Latino_CINELATINO/index.m3u8
+#EXTINF:-1,EARTH TV
+http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
+#EXTINF:-1,ECO TV
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-720p/chunks.m3u8
+#EXTINF:-1,ECO TV
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-720p/chunks.m3u8
+#EXTINF:-1,EFEKTOTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1,EITB.EUS
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1,EL DÍA TV España
+http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
+#EXTINF:-1,EL GOURMET
+http://cdn2.shurs.xyz/verliga/6/playlist.m3u8
+#EXTINF:-1,EL Rey Network
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1272.ts
+#EXTINF:-1,EL TIEMPO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,EL VENEZOLANO TV
+http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
+#EXTINF:-1,ESPN
+http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
+#EXTINF:-1,ESPN
+http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
+#EXTINF:-1,ESPN
+http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
+#EXTINF:-1,ESPN
+http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,ESPN
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/256.ts
+#EXTINF:-1,ESPN
+http://185.142.239.164:3135/Espn/1/playlist.m3u8
+#EXTINF:-1,ESPN 2
+http://wowza2.mysoltv.com:1992/Latino_ESPN_2/tracks-v1a1/index.m3u8
+#EXTINF:-1,ESPN 2
+http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,ESPN 2
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/343.ts
+#EXTINF:-1,ESPN 2 Argentina
+https://live62.vkuserlive.com/637605/live/1kYH5yNAfz-wm4Yz/playlist.m3u8
+#EXTINF:-1,ESPN 3
+http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,ESPN 3 Argentina
+https://live75.vkuserlive.com/637602/live/CJ7fOVNAf08zQQ8v/playlist.m3u8
+#EXTINF:-1,ESPN Argentina
+https://live10.userapi.com/637601/live/1gJD5yNAfz8Y-Icl/playlist.m3u8
+#EXTINF:-1,ESPN CLASSIC
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/475.ts
+#EXTINF:-1,ESPN DEPORTES
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1108.ts
+#EXTINF:-1,ESPN DEPORTES
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3685.ts
+#EXTINF:-1,ESPN NEWS
+http://thepk.co:2095/live/husham/isaplayer/1634.ts
+#EXTINF:-1,ESPN+
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/6115/visita-exabytetv.m3u8
+#EXTINF:-1,ESPN+
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2987.ts
+#EXTINF:-1,ESPN2
+http://185.142.239.164:3135/Espn/2/playlist.m3u8
+#EXTINF:-1,ESTRELLA TV
+http://system.fpiptv.com:8080/live/12345/12345/493.ts
+#EXTINF:-1,ESTRENOS
+http://edge5203.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+#EXTINF:-1,EURO SPORT 1
+http://185.142.239.164:3135/Euro/1/playlist.m3u8
+#EXTINF:-1,EURO SPORT 2
+http://185.142.239.164:3135/Euro/2/playlist.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
+#EXTINF:-1,EXTREMADURA TV
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1,Earth TV
+http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
+#EXTINF:-1,Earth TV
+http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
+#EXTINF:-1,Ecuavisa
+http://104.245.96.214:8000/live/PATRICIO APRAEZUBE/12345/974.ts
+#EXTINF:-1,Efekto TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+#EXTINF:-1,Efekto TV HD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1,Ei Maxx
+http://5.79.68.138:8081/look/eimax/playlist.m3u8
+#EXTINF:-1,El 13
+http://ar.watcha.live/ch7/hi.m3u8
+#EXTINF:-1,El Correo TV
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:-1,El Financiero Bloomberg
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/7597/visita-exabytetv.m3u8
+#EXTINF:-1,El Financiero Bloomberg
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3051.ts
+#EXTINF:-1,El Gourmet
+http://wowza2.mysoltv.com:1992/Latino_Gourmet/index.m3u8
+#EXTINF:-1,El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+#EXTINF:-1,El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,Energy
+http://edge3502.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
+#EXTINF:-1,Energy
+https://cdn.opencable.es/hls/live/energy/index.m3u8
+#EXTINF:-1,Espn Brasil
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5848.ts
+#EXTINF:-1,Eurochannel
+http://s1.iptv66.tv/live/1114123412333/1114123412333/211.ts
+#EXTINF:-1,Euronews en Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1,Europa Europa
+http://s1.iptv66.tv/live/1114123412333/1114123412333/212.ts
+#EXTINF:-1,Eurosport 1
+http://edge9.verliga.me/live/eurosport/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://edge3506.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://edge14.verliga.me/live/eurosport2/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://edge3504.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8
+#EXTINF:-1,Eurosports
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,FDF
+http://edge7.telesport.pw/live/fdf/index.m3u8
+#EXTINF:-1,FDF
+https://cdn.opencable.es/hls/live/fdf/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://thepk.co:2095/live/husham/isaplayer/1623.ts
+#EXTINF:-1,FORO TV (OP2)
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1,FOX
+http://edge3.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1,FOX
+http://edge5204.livesports.pw/live/verfoxespana247756767558f1/index.m3u8
+#EXTINF:-1,FOX 25 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
+#EXTINF:-1,FOX 30 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:-1,FOX 59 NEWS
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1,FOX Deportes
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5889.ts
+#EXTINF:-1,FOX LIFE
+http://edge7.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1,FOX Life
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,FOX Life
+http://edge2.telesport.pw/live/foxlife/index.m3u8
+#EXTINF:-1,FOX Life
+https://cdn.opencable.es/hls/live/foxlife/index.m3u8
+#EXTINF:-1,FOX Life
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,FOX Life
+http://wowza2.mysoltv.com:1992/Latino_FOX_LIFE/index.m3u8
+#EXTINF:-1,FOX NEWS 23
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:-1,FOX Sports 1 (FS1)
+http://185.142.239.164:3135/1/FOX/playlist.m3u8
+#EXTINF:-1,FOX Sports 2 (FS2)
+http://185.142.239.164:3135/2/FOX/playlist.m3u8
+#EXTINF:-1,FREEFORM
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/320.ts
+#EXTINF:-1,FX
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,FX
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,FX
+http://wowza2.mysoltv.com:1992/Latino_FX/index.m3u8
+#EXTINF:-1,FX
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/324.ts
+#EXTINF:-1,FXX
+http://thepk.co:2095/live/husham/isaplayer/1635.ts
+#EXTINF:-1,Fashion TV
+http://prepublish.f.qaotic.net/a06/ngrp:ftv_live01-100083_all/chunklist_b1596000.m3u8
+#EXTINF:-1,Film & Arts Latinoamerica
+http://s1.iptv66.tv/live/1114123412333/1114123412333/213.ts
+#EXTINF:-1,Film Zone
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/ZmlsbXpvbmU=/visita-exabytetv.m3u8
+#EXTINF:-1,Formula 1
+http://edge3502.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
+#EXTINF:-1,Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1,Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?/MartinRTNEWS.m3u8
+#EXTINF:-1,Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_259_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Fox
+http://edge3.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1,Fox
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox
+http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
+#EXTINF:-1,Fox
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/318.ts
+#EXTINF:-1,Fox Action
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3045.ts
+#EXTINF:-1,Fox Action
+http://wowza2.mysoltv.com:1992/Latino_Fox_Action_HD/index.m3u8
+#EXTINF:-1,Fox Cinema
+http://wowza2.mysoltv.com:1992/Latino_Fox_Cinema_HD/index.m3u8
+#EXTINF:-1,Fox Cinema
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2988.ts
+#EXTINF:-1,Fox Classics
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3044.ts
+#EXTINF:-1,Fox Comedy
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5842.ts
+#EXTINF:-1,Fox Family
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5841.ts
+#EXTINF:-1,Fox Movies
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/58.ts
+#EXTINF:-1,Fox Premium Series
+http://wowza2.mysoltv.com:1992/Latino_Fox_1_HD/index.m3u8
+#EXTINF:-1,Fox Premium Series
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/54.ts
+#EXTINF:-1,Fox Series
+http://wowza2.mysoltv.com:1992/Latino_Fox_1_HD/index.m3u8
+#EXTINF:-1,Fox Sports
+http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports
+http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports
+http://wowza2.mysoltv.com:1992/Latino_Fox_Sports/tracks-v1a1/index.m3u8
+#EXTINF:-1,Fox Sports
+http://thepk.co:2095/live/husham/isaplayer/1632.ts
+#EXTINF:-1,Fox Sports
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1172.ts
+#EXTINF:-1,Fox Sports 2
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+https://live96.vkuserlive.com/639901/live/CEgJOXJAf279xd8a/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://185.142.239.164:3135/2/FOX/playlist.m3u8
+#EXTINF:-1,Fox Sports 2 Argentina
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 2 Argentina
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 2 Argentina
+https://live70.vkuserlive.com/620008/live/CEgJOXJAf24igD8O/playlist.m3u8
+#EXTINF:-1,Fox Sports 3
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 3
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports 3 Argentina
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Fox Sports Argentina
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:-1,Fox Sports Brazil
+http://system.fpiptv.com:8080/live/12345/12345/3372.ts
+#EXTINF:-1,Fox Sports Chile
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:-1,Fox Sports Colombia
+http://link.theplatform.com/s/flac/ODdQRdZBcbNG?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:-1,Fox Sports HD
+http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:-1,Fox Sports Mexico [HD]
+http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:-1,Fox Sports Uruguay
+http://link.theplatform.com/s/flac/ZjzhEtSIuERv?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:-1,Fox series
+http://wowza2.mysoltv.com:1992/Latino_Fox_1_HD/index.m3u8
+#EXTINF:-1,France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:-1,GOLDEN MULTIPLEX
+http://system.fpiptv.com:8080/live/12345/12345/577.ts
+#EXTINF:-1,GOLF CHANNEL
+http://system.fpiptv.com:8080/live/12345/12345/2958.ts
+#EXTINF:-1,GUATEVISION
+http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8
+#EXTINF:-1,Gala TV
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2986.ts
+#EXTINF:-1,Gala TV
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2986.ts
+#EXTINF:-1,Gala TV (Acapulco)
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/aHR0cDovL3d3dy5nYWxhdHZhY2FwdWxjby50di92aWRlby1lbi12aXZv/visita-exabytetv.m3u8
+#EXTINF:-1,Gala TV (Cancun)
+http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
+#EXTINF:-1,Gala TV (Morelos)
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/aHR0cDovL3d3dy5nYWxhdHZtb3JlbG9zLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
+#EXTINF:-1,Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2083015700_b798000_slspa.m3u8
+#EXTINF:-1,Genial Tv
+http://v1.tustreaming.cl:1935/genialtv/genialtv/playlist.m3u8
+#EXTINF:-1,Glitz
+http://wowza2.mysoltv.com:1992/Latino_Glitz/index.m3u8
+#EXTINF:-1,Gol Peru
+https://live11.userapi.com/639915/live/EVsaICVAfzlXiNMn/playlist.m3u8
+#EXTINF:-1,Gol TV España
+http://edge3504.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8
+#EXTINF:-1,Gol TV España
+https://cdn.opencable.es/hls/live/goltv/index.m3u8
+#EXTINF:-1,Golden Edge
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/63.ts
+#EXTINF:-1,Golden Edge
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2984.ts
+#EXTINF:-1,Golden HD
+http://wowza2.mysoltv.com:1992/Latino_Golden_HD/index.m3u8
+#EXTINF:-1,Golden Premier
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5798.ts
+#EXTINF:-1,Golden Premier 2
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5799.ts
+#EXTINF:-1,Gravity Falls
+http://stream.latino-webtv.com/series/gravityfalls.mp4
+#EXTINF:-1,GreenTV
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
+#EXTINF:-1,GreenTV HD
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,H2
+http://wowza2.mysoltv.com:1992/Latino_H2/index.m3u8
+#EXTINF:-1,H2
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2983.ts
+#EXTINF:-1,H2 USA
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/309.ts
+#EXTINF:-1,HBO
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2982.ts
+#EXTINF:-1,HBO
+http://thepk.co:2095/live/husham/isaplayer/1634.ts
+#EXTINF:-1,HBO 2
+http://198.199.83.184:8081/hbo2hd/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2981.ts
+#EXTINF:-1,HBO 2
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/174.ts
+#EXTINF:-1,HBO COMEDY
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/173.ts
+#EXTINF:-1,HBO Family
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3040.ts
+#EXTINF:-1,HBO Family
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/172.ts
+#EXTINF:-1,HBO Plus
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3039.ts
+#EXTINF:-1,HBO Signature
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2980.ts
+#EXTINF:-1,HBO Signature
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/340.ts
+#EXTINF:-1,HBO ZONE
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/321.ts
+#EXTINF:-1,HISTORY
+http://edge6.telesport.pw/live/historia/index.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/UGEKI-1011001010110111010110000101110-ExabyteTV-holis/aGlzdG9yeS1jaGFubmVs/visita-exabytetv.m3u8
+#EXTINF:-1,HMX
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5800.ts
+#EXTINF:-1,HOLLYWOOD
+http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://edge5201.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
+#EXTINF:-1,Hard Life [SD]
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?hd=10&amp;rebase=on
+#EXTINF:-1,HispanTV
+http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
+#EXTINF:-1,HispanTV
+http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
+#EXTINF:-1,Histori
+https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/playlist.m3u8
+#EXTINF:-1,Historia
+http://edge7.telesport.pw/live/historia/index.m3u8
+#EXTINF:-1,Historia
+http://edge5204.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8
+#EXTINF:-1,History
+https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/playlist.m3u8
+#EXTINF:-1,History
+https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/playlist.m3u8
+#EXTINF:-1,History
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/70.ts
+#EXTINF:-1,History
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/251.ts
+#EXTINF:-1,Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:-1,Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
+#EXTINF:-1,Hola TV
+http://xtream.swiftiptv.com:6500/live/lumn19/wrz3ash9/15963.ts
+#EXTINF:-1,Hollywood
+http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8
+#EXTINF:-1,Hollywood
+http://edge5201.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
+#EXTINF:-1,Home and Health
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Htx tv hd
+http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_1000k_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,HuelvaTv
+http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
+#EXTINF:-1,ION
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1625.ts
+#EXTINF:-1,IPE
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1,ITV
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3207.ts
+#EXTINF:-1,ITV2
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3206.ts
+#EXTINF:-1,ITV3
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3205.ts
+#EXTINF:-1,Inter Channel
+http://xtream.swiftiptv.com:6500/live/lumn19/wrz3ash9/17370.ts
+#EXTINF:-1,Investigation Discovery
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1095.ts
+#EXTINF:-1,Investigation Discovery
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1095.ts
+#EXTINF:-1,Investigation Discovery
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/339.ts
+#EXTINF:-1,Isat
+http://wowza2.mysoltv.com:1992/Latino_I_SAT/index.m3u8
+#EXTINF:-1,Juventus Channel
+http://xtream.swiftiptv.com:6500/live/lumn19/wrz3ash9/17630.ts
+#EXTINF:-1,KTV Sport Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+#EXTINF:-1,Katy HD Movies
+http://live-ord.vaughnsoft.net:1935/live/_definst_/live_katyhd/playlist.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,LEVANTE TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+#EXTINF:-1,LFC TV
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3371.ts
+#EXTINF:-1,LIFE TV
+http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
+#EXTINF:-1,La 1
+http://edge4.telesport.pw/live/tve1/index.m3u8
+#EXTINF:-1,La 1
+http://edge5201.livesports.pw/live/verlaunotelefivegb3264628423ff/index.m3u8
+#EXTINF:-1,La 2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live/stream3.m3u8
+#EXTINF:-1,La 2
+http://edge5204.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
+#EXTINF:-1,La Cuatro
+http://cdn2.shurs.xyz/verdirectotv/2/playlist.m3u8
+#EXTINF:-1,La Cuatro
+http://edge5202.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
+#EXTINF:-1,La Liga TV
+http://edge3505.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
+#EXTINF:-1,La Liga TV
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3358.m3u8
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,La Sexta - España
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,Las Estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1,Las Estrellas 2
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?tecnotv.info?.m3u
+#EXTINF:-1,Las Estrellas HD
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1,Las Estrellas HD
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1,Las Estrellas Latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,Las Estrellas Latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,Latina TV
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
+#EXTINF:-1,Latina TV
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+#EXTINF:-1,Latina TV
+https://live3.userapi.com/639913/live/ySZn-LhAf6SouRQy/playlist.m3u8
+#EXTINF:-1,Life Design
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1,Lifedesign
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1,Lifedesign
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1,Lifetime
+http://wowza2.mysoltv.com:1992/Latino_LIFETIME/index.m3u8
+#EXTINF:-1,Lifetime
+http://wowza2.mysoltv.com:1992/Latino_LIFETIME/index.m3u8
+#EXTINF:-1,Lifetime
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/300.ts
+#EXTINF:-1,Locomotion
+http://jagfiles.xyz/locomotion/hls/index.m3u8
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1,Los Simpson 24/7
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:-1,Los Simpson 24/7
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:-1,Los Simpsons 24/7
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:-1,Los Simpsons Random
+http://stream.latino-webtv.com/series/simpsons.mp4
+#EXTINF:-1,Los Simpsons Random
+http://stream.latino-webtv.com/series/simpsons.mp4
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,M2O TV [SD]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,MC
+http://s1.iptv66.tv/live/1114123412333/1114123412333/431.ts
+#EXTINF:-1,MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,MEDITERRANEO
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
+#EXTINF:-1,MEGA - España
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1,MEGA ESPANA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-1,MEGA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,MILENIO
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:-1,MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MOVISTARACCION
+http://edge5202.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+#EXTINF:-1,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MTV
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/6160/visita-exabytetv.m3u8
+#EXTINF:-1,MTV
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19zdAwLGu5nDfr8WuW51eV0Mz9LBfjFuhHCs%2FRe%2FU53tuWDDxsUxjoeZ0AHsSe%2FCZg8TAno8k0mdQ%3D%3D
+#EXTINF:-1,MTV HITS
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/6161/visita-exabytetv.m3u8
+#EXTINF:-1,MTV LIVE
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/6159/visita-exabytetv.m3u8
+#EXTINF:-1,MUTV
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1337.ts
+#EXTINF:-1,MVS NOTICIAS
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1,MVS NOTICIAS
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1,MVS Noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1,Marbella TV
+http://cls.provideo.es/marbellatv/livestream/chunklist.m3u8
+#EXTINF:-1,Max
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5803.ts
+#EXTINF:-1,Max Prime
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5804.ts
+#EXTINF:-1,Max Up
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5806.ts
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,Mega TV
+ttp://104.245.96.214:8000/live/PATRICIO APRAEZUBE/12345/865.ts
+#EXTINF:-1,Megavision
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3080.ts
+#EXTINF:-1,Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1,Mexicana
+http://thepk.co:2095/live/husham/isaplayer/841.ts
+#EXTINF:-1,Mexico Travel Channel
+http://live10.cdnmedia.tv/mtchlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Mexico Travel Channel
+http://live10.cdnmedia.tv/mtchlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Mezzo Live
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3312.m3u8
+#EXTINF:-1,Mi Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1,Milan Channel
+http://xtream.swiftiptv.com:6500/live/lumn19/wrz3ash9/17629.ts
+#EXTINF:-1,Milenio TV
+https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
+#EXTINF:-1,Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,Moto Gp
+http://edge9.verliga1.pw/live/verliga4/index.m3u8
+#EXTINF:-1,Moto Gp
+http://edge3504.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8
+#EXTINF:-1,Movistar Accion
+http://edge8.telesport.pw/live/plusaccion/index.m3u8
+#EXTINF:-1,Movistar Accion
+http://edge5202.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+#EXTINF:-1,Movistar Comedia
+http://cdn2.shurs.xyz/verliga/1/playlist.m3u8
+#EXTINF:-1,Movistar Comedia
+http://edge3506.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+#EXTINF:-1,Movistar DCINE
+http://cdn1.shurs.xyz/verliga/3/playlist.m3u8
+#EXTINF:-1,Movistar DCINE
+http://edge5202.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+#EXTINF:-1,Movistar Deportes 1
+http://edge16.verliga.me/live/plusdeportes/index.m3u8
+#EXTINF:-1,Movistar Deportes 1
+http://edge3504.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8
+#EXTINF:-1,Movistar Deportes 2
+http://edge12.verliga1.pw/live/plusdeportes2/index.m3u8
+#EXTINF:-1,Movistar Deportes 2
+http://edge3506.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8
+#EXTINF:-1,Movistar Estrenos
+http://edge1.telesport.pw/live/plusestrenos/index.m3u8
+#EXTINF:-1,Movistar Estrenos
+http://edge6.telesport.pw/live/plusestrenos/index.m3u8
+#EXTINF:-1,Movistar Estrenos
+http://edge5203.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+#EXTINF:-1,Movistar Futbol
+http://edge3501.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+#EXTINF:-1,Movistar Futbol
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3343.m3u8
+#EXTINF:-1,Movistar GOLF
+http://edge1.telesport.pw/live/golf/index.m3u8
+#EXTINF:-1,Movistar GOLF
+http://edge3504.livesports.pw/live/vergolfespef14708285db183/index.m3u8
+#EXTINF:-1,Movistar Series
+http://edge5202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+#EXTINF:-1,Movistar Series
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3339.m3u8
+#EXTINF:-1,Movistar Series Xtra
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3338.m3u8
+#EXTINF:-1,Movistar Series Xtra
+http://edge5201.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
+#EXTINF:-1,Movistar Xtra
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3337.m3u8
+#EXTINF:-1,Movistar Xtra
+http://edge3505.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8
+#EXTINF:-1,MultiPremier
+http://104.245.96.214:8000/live/PATRICIO APRAEZUBE/12345/1954.ts
+#EXTINF:-1,Multimedios
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?
+#EXTINF:-1,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1,Mundo Fox
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5818.ts
+#EXTINF:-1,Más Chic
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/7790/visita-exabytetv.m3u8
+#EXTINF:-1,NASA TV
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/UGEKI-1011001010110111010110000101110-ExabyteTV-holis/bmF0LWdlby13aWxk/visita-exabytetv.m3u8
+#EXTINF:-1,NBA TV
+http://edge3506.livesports.pw/live/vernbatvbacad13168a4762e0/index.m3u8
+#EXTINF:-1,NBA TV
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3724.ts
+#EXTINF:-1,NBA TV
+http://edge3505.livesports.pw/live/vernbatvbacad13168a4762e0/index.m3u8
+#EXTINF:-1,NBC
+http://thepk.co:2095/live/husham/isaplayer/1662.ts
+#EXTINF:-1,NBC Universo
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/6071.ts
+#EXTINF:-1,NBCSN
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/149.ts
+#EXTINF:-1,NEOX HD
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,ES: NOVA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/42.ts
-#EXTINF:-1,ES:NOVA op 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/503.ts
-#EXTINF:-1,ES: FDF
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/46.ts
-#EXTINF:-1,ES: ENERGY
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/72.ts
-#EXTINF:-1,ES:MEGA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/43.ts
-#EXTINF:-1,ES:DARK
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/628.ts
-#EXTINF:-1,ES:MOVISTAR  0#
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/1.ts
-#EXTINF:-1,ES:MOVISTAR 0# HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/480.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/17.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/482.ts
-#EXTINF:-1,ES:MOVISTAR  ACCION
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/21.ts
-#EXTINF:-1,ES:MOVISTAR ACCION HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/483.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/22.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/484.ts
-#EXTINF:-1,ES:MOVISTAR  DCINE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/14.ts
-#EXTINF:-1,ES:MOVISTAR DCINE HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/485.ts
-#EXTINF:-1,ES:MOVISTAR DCINE  Ñ
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/48.ts
-#EXTINF:-1,ES:MOVISTAR XTRA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/13.ts
-#EXTINF:-1,ES:MOVISTAR SERIES HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/633.ts
-#EXTINF:-1,ES:MOVISTAR  SERIES
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/32.ts
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/626.ts
-#EXTINF:-1,ES:MOVISTAR  SERIES XTRA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/33.ts
-#EXTINF:-1,ES:MOVISTAR  TOROS TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/35.ts
-#EXTINF:-1,ES:TOROS HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/582.ts
-#EXTINF:-1,ES:BARCA  TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/25.ts
-#EXTINF:-1,ES:PANDA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/55.ts
-#EXTINF:-1,ES: BOING
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/36.ts
-#EXTINF:-1,ES:DISNEY  XD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/44.ts
-#EXTINF:-1,ES:DISNEY  JUNIOR
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/8.ts
-#EXTINF:-1,ES:DISNEY CHANNEL HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/661.ts
-#EXTINF:-1,ES:DISNEY  CHANNEL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/6.ts
-#EXTINF:-1,ES:CLAN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/4.ts
-#EXTINF:-1,ES:BABY  TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/5.ts
-#EXTINF:-1,ES:NICKELODEON HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/627.ts
-#EXTINF:-1,ES:NICKELODEON
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/70.ts
-#EXTINF:-1,ES:NICK JR
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/481.ts
-#EXTINF:-1,ES:NAT GEO
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/37.ts
-#EXTINF:-1,ES:NAT GEO HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/583.ts
-#EXTINF:-1,ES:NAT GEO WILD HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/651.ts
-#EXTINF:-1,ES:NAT GEO  WILD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/34.ts
-#EXTINF:-1,ES:HISTORIA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/52.ts
-#EXTINF:-1,ES:A&E
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/27.ts
-#EXTINF:-1,ES:CI
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/40.ts
-#EXTINF:-1,ES:VIAJAR HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/632.ts
-#EXTINF:-1,ES: Viajar
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/56.ts
-#EXTINF:-1,ES:CAZA  Y PESCA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/11.ts
-#EXTINF:-1,ES:CAZA Y PESCA HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/499.ts
-#EXTINF:-1,ES:DISCOVERY  CHANNEL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/9.ts
-#EXTINF:-1,ES: ODISEA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/31.ts
-#EXTINF:-1,ES:COCINA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/117.ts
-#EXTINF:-1,ES:MTV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/7.ts
-#EXTINF:-1,ES:CASA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/449.ts
-#EXTINF:-1,ES:Non Stop People
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/507.ts
-#EXTINF:-1,ES:SUR ANDALUCIA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/498.ts
-#EXTINF:-1,ES:MOVISTAR  DEPORTE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/77.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/487.ts
-#EXTINF:-1,ES:MOVISTAR  DEPORTE 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/78.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE 2 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/488.ts
-#EXTINF:-1,ES:BEIN  LALIGA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/50.ts
-#EXTINF:-1,ES:BEIN LALIGA HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/505.ts
-#EXTINF:-1,ES:Bein Sport ESPAÑA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/49.ts
-#EXTINF:-1,ES:Bein Sport HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/486.ts
-#EXTINF:-1,ES:MOVISTAR FUTBOL HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/636.ts
-#EXTINF:-1,ES:MOVISTAR  FUTBOL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/39.ts
-#EXTINF:-1,ES:PARTIDAZOS
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/118.ts
-#EXTINF:-1,ES:PARTIDAZOS HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/504.ts
-#EXTINF:-1,ES:MOVISTAR F1 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/630.ts
-#EXTINF:-1,ES:MOVISTAR  F1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/53.ts
-#EXTINF:-1,ES:MOTO GP HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/819.ts
-#EXTINF:-1,ES:MOVISTAR  MOTO GP
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/54.ts
-#EXTINF:-1,ES:MOVISTAR  GOLF
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/16.ts
-#EXTINF:-1,ES:MOVISTAR GOLF HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/826.ts
-#EXTINF:-1,ES:EUROSPORT  ES
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/83.ts
-#EXTINF:-1,ES:Eurosport  2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/47.ts
-#EXTINF:-1,ES:BEIN LALIGA 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/245.ts
-#EXTINF:-1,ES:BEIN  LALIGA 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/246.ts
-#EXTINF:-1,ES: BEIN  LALIGA 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/247.ts
-#EXTINF:-1,ES: BEIN  LALIGA 4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/248.ts
-#EXTINF:-1,ES: BEIN  LALIGA 5
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/249.ts
-#EXTINF:-1,ES:BEIN  LALIGA 6
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/250.ts
-#EXTINF:-1,ES:BEIN LALIGA 7
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/251.ts
-#EXTINF:-1,ES:Bein Sports MAX 1  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/252.ts
-#EXTINF:-1,ES:Bein Sports MAX 2  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/253.ts
-#EXTINF:-1,ES:Bein Sports MAX 3  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/254.ts
-#EXTINF:-1,ES:Bein Sports MAX 4  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/255.ts
-#EXTINF:-1,ES:Bein Sports MAX 5  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/256.ts
-#EXTINF:-1,ES:Bein Sports MAX 6  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/257.ts
-#EXTINF:-1,ES:Bein Sports MAX 7  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/258.ts
-#EXTINF:-1,ES:MULTIDEPORTE  1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/268.ts
-#EXTINF:-1,ES:MULTIDEPORTE  2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/269.ts
-#EXTINF:-1,ES:MULTIDEPORTE  3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/270.ts
-#EXTINF:-1,ES:MULTIDEPORTE  4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/271.ts
-#EXTINF:-1,ES:MULTIDEPORTE  5
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/272.ts
-#EXTINF:-1,ES:MULTIDEPORTE  6
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/273.ts
-#EXTINF:-1,ES:MULTIDEPORTE  7
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/274.ts
-#EXTINF:-1,ES:MULTIFUTBOL  1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/260.ts
-#EXTINF:-1,ES:MULTIFUTBOL  2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/261.ts
-#EXTINF:-1,ES:MULTIFUTBOL  3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/262.ts
-#EXTINF:-1,ES:MULTIFUTBOL  4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/263.ts
-#EXTINF:-1,ES:MULTIFUTBOL  5
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/264.ts
-#EXTINF:-1,ES:MULTIFUTBOL  6
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/265.ts
-#EXTINF:-1,ES:MULTIFUTBOL  7
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/266.ts
-#EXTINF:-1,ES:MULTIFUTBOL  8
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/267.ts
-#EXTINF:-1,ES:GOL TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/76.ts
-#EXTINF:-1,ES:LIGATV BAR
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/454.ts
-#EXTINF:-1,ES:TELEDEPORTE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/451.ts
-#EXTINF:-1,ES:REAL MADRID TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/545.ts
-#EXTINF:-1,*********** [UK SPORT CHANNEL] ***********
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/184.ts
-#EXTINF:-1,UK: Sky Sports Main Event
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/93.ts
-#EXTINF:-1,UK:Sky Sport Cricket
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/94.ts
-#EXTINF:-1,UK:Sky Sport Action
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/95.ts
-#EXTINF:-1,UK:Sky  Sports 4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/96.ts
-#EXTINF:-1,UK: Sky Sport Premier League
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/97.ts
-#EXTINF:-1,UK:Sky  Sports  F1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/848.ts
-#EXTINF:-1,UK:BT Sports  1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/100.ts
-#EXTINF:-1,UK:BT  Sports 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/101.ts
-#EXTINF:-1,UK:BT  Sports 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/187.ts
-#EXTINF:-1,UK: Disney Channel
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/712.ts
-#EXTINF:-1,UK: Disney Junior
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/713.ts
-#EXTINF:-1,UK: Disney XD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/714.ts
-#EXTINF:-1,UK: ESPN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/716.ts
-#EXTINF:-1,UK: FOX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/719.ts
-#EXTINF:-1,UK: MTV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/728.ts
-#EXTINF:-1,UK: Setanta Sports 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/734.ts
-#EXTINF:-1,UK: Sky Sport News
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/745.ts
-#EXTINF:-1,UK:BBC 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/815.ts
-#EXTINF:-1,UK:BBC 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/816.ts
-#EXTINF:-1,UK:BBC 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/817.ts
-#EXTINF:-1,UK:BBC 4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/818.ts
-#EXTINF:-1,UK:EUROSPORT 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/812.ts
-#EXTINF:-1,UK:EUROSPORT 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/813.ts
-#EXTINF:-1,UK:FOX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/814.ts
-#EXTINF:-1,USA:NBA  TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/65.ts
-#EXTINF:-1,USA:Tsn Sport 1 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/238.ts
-#EXTINF:-1,USA:Tsn Sport 2 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/239.ts
-#EXTINF:-1,USA:Tsn  Sport 3 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/240.ts
-#EXTINF:-1,USA:Tsn  Sport 4 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/241.ts
-#EXTINF:-1,USA:Tsn  Sport 5 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/242.ts
-#EXTINF:-1,USA:UFC NETWORK
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/294.ts
-#EXTINF:-1,USA:BOX NATION  HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/292.ts
-#EXTINF:-1,US:WWE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/663.ts
-#EXTINF:-1,US:BEIN SPORT USA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/811.ts
-#EXTINF:-1,US:Fight Sport
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/809.ts
-#EXTINF:-1,US:NFL HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/810.ts
-#EXTINF:-1,USA:HBO
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/884.ts
-#EXTINF:-1,LATINO :SUN CHANNEL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/148.ts
-#EXTINF:-1,LATINO:CLARO SPORT
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/467.ts
-#EXTINF:-1,LATINO:ESPN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/468.ts
-#EXTINF:-1,LATINO:ESPN 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/469.ts
-#EXTINF:-1,LATINO:ESPN 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/470.ts
-#EXTINF:-1,LATINO:FOX SPORT
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/472.ts
-#EXTINF:-1,LATINO:FOX SPORT 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/473.ts
-#EXTINF:-1,LATINO:FOX SPORT 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/662.ts
-#EXTINF:-1,LATINO:AZTECA 7
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/459.ts
-#EXTINF:-1,LATINO:FOX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/460.ts
-#EXTINF:-1,LATINO:TNT
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/465.ts
-#EXTINF:-1,LATINO:UNIVISION TDN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/448.ts
-#EXTINF:-1,LATINO:VTV  URUGAY
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/291.ts
-#EXTINF:-1,LATINO:WIN SPORT HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/466.ts
-#EXTINF:-1,LATINO:AMC
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/558.ts
-#EXTINF:-1,LATINO:AXN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/559.ts
-#EXTINF:-1,LATINO:CINEMAX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/560.ts
-#EXTINF:-1,LATINO:TELEFE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/580.ts
-#EXTINF:-1,LATINO:TELEMUNDO
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/656.ts
-#EXTINF:-1,LATINO:RCN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/658.ts
-#EXTINF:-1,LATINO:BEIN SPORT Ñ
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/659.ts
-#EXTINF:-1,LATINO:Caracol
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/660.ts
-#EXTINF:-1,LATINO:F1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/820.ts
-#EXTINF:-1,LATINO:GOLTV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/821.ts
-#EXTINF:-1,LATINO:HBO 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/883.ts
-#EXTINF:-1,*********** [TURKY SPORT CHANNEL] ***********
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/204.ts
-#EXTINF:-1,TR:Ligtv  1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/203.ts
-#EXTINF:-1,TR:LIGTV 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/220.ts
-#EXTINF:-1,TR:Ligtv 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/221.ts
-#EXTINF:-1,TR:TRT 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/218.ts
+#EXTINF:-1,NEWSMAX TV
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
+#EXTINF:-1,NEX TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1,NFL NETWORK
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/308.ts
+#EXTINF:-1,NFL NETWORK
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/308.ts
+#EXTINF:-1,NFL Network
+http://185.142.239.164:3135/NFL/Network/playlist.m3u8
+#EXTINF:-1,NFL Now
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:-1,NFL Now
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:-1,NHL Network
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/147.ts
+#EXTINF:-1,NHL Network
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/147.ts
+#EXTINF:-1,NICKELODEON
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,NIU TV
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,NM NUMEDIA
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,NOVA  HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,NOVA 7HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,NRJ HITS TV
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
+#EXTINF:-1,NYC Times Square
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+#EXTINF:-1,NYC Times Square (47th & Broadway)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+#EXTINF:-1,NYC Times Square (Crossroads)
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
+#EXTINF:-1,NatGeo
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,NatGeo
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,NatGeo
+http://wowza2.mysoltv.com:1992/Latino_NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1,NatGeo
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/247.ts
+#EXTINF:-1,NatGeo Wild
+http://edge2.telesport.pw/live/nationalwild/index.m3u8
+#EXTINF:-1,NatGeo Wild
+http://edge7.telesport.pw/live/nationalwild/index.m3u8
+#EXTINF:-1,NatGeo Wild
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3309.m3u8
+#EXTINF:-1,NatGeo Wild
+http://thepk.co:2095/live/husham/isaplayer/1094.ts
+#EXTINF:-1,NatGeo Wild
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1094.ts
+#EXTINF:-1,NatGeo Wild
+http://thepk.co:2095/live/husham/isaplayer/1636.ts
+#EXTINF:-1,Natgeo Wild
+http://thepk.co:2095/live/husham/isaplayer/1094.m3u8
+#EXTINF:-1,Nathional Geografic
+http://edge3.telesport.pw/live/nationalgeo/index.m3u8
+#EXTINF:-1,National Geographic España
+http://edge7.telesport.pw/live/nationalgeo/index.m3u8
+#EXTINF:-1,National Geographic España
+http://edge5201.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,Neox - España
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,Neox HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,Nick
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Nick
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Nick JR
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Nick JR
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Nick Toons
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/bmlja2py/visita-exabytetv.m3u8
+#EXTINF:-1,Nigeria TVC News
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,OCHO TV (GDL)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1,ODISEA
+http://edge7.telesport.pw/live/odisea/index.m3u8
+#EXTINF:-1,ODISEA
+http://edge5203.livesports.pw/live/verodiseatelef121d54573d3192a6/index.m3u8
+#EXTINF:-1,OLDIES CLASSIC TV
+http://104.131.55.9:8081/dashtv/holyfieldclassic/playlist.m3u8
+#EXTINF:-1,ONDA AZUL MALAGA
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,ONDA AZUL SEVILLA
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
+#EXTINF:-1,ORBE 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1,Ocho TV (GDL)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1,Olympic Channel
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8
+#EXTINF:-1,Olympic Channel HD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1,Olympic Channel SD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8
+#EXTINF:-1,Oprah Winfrey Network
+http://thepk.co:2095/live/husham/isaplayer/781.ts
+#EXTINF:-1,PANAMERIACANA TV
+https://cdnh15.iblups.com/hls/ptv.m3u8
+#EXTINF:-1,PREMIERE SPORT
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2089.ts
+#EXTINF:-1,PREMIERE SPORT
+http://cdnlive1.win:8080/live/ja1mqWtMFf/ziQhHBAC3u/62.ts
+#EXTINF:-1,PTV Sports
+http://185.142.239.164:3135/Ptv/Sports/playlist.m3u8
+#EXTINF:-1,PX SPORTS
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5810.ts
+#EXTINF:-1,Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1,Pac 12 Arizona
+http://xrxs.net/video/live-p12ariz-4728.m3u8?/MartinRtNEWS.m3u8
+#EXTINF:-1,Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1,Pac 12 Bay Area
+http://xrxs.net/video/live-p12baya-4728.m3u8?/MartinRtNEWS.m3u8
+#EXTINF:-1,Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,Pac 12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8?/MartinRtNEWS.m3u8
+#EXTINF:-1,Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1,Pac 12 Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8?/MartinRtNEWS.m3u8
+#EXTINF:-1,Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1,Pac 12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8?/MartinRtNEWS.m3u8
+#EXTINF:-1,Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,Pac 12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8?/MartinRtNEWS.m3u8
+#EXTINF:-1,PakaPaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1,Paramount Channel
+http://cdn2.shurs.xyz/verdirectotv/5/chunks.m3u8
+#EXTINF:-1,Paramount Channel
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5809.ts
+#EXTINF:-1,Partidazo
+http://edge9.verliga11.pw/live/verliga2/index.m3u8
+#EXTINF:-1,Pat - Bolivia
+http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w640594033.m3u8
+#EXTINF:-1,Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1,Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1,Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:-1,Pop & Country
+http://thepk.co:2095/live/husham/isaplayer/840.ts
+#EXTINF:-1,Pop Hits
+http://thepk.co:2095/live/husham/isaplayer/839.ts
+#EXTINF:-1,Pop Latino
+http://thepk.co:2095/live/husham/isaplayer/843.ts
+#EXTINF:-1,PortalFoxMix Tv
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1,Porto Canal
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1,Premiere Sports
+http://185.142.239.164:3135/Premiere/Sports/playlist.m3u8
+#EXTINF:-1,Press TV
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+#EXTINF:-1,R&B Soul
+http://thepk.co:2095/live/husham/isaplayer/838.ts
+#EXTINF:-1,RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,RAINEWS24
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+#EXTINF:-1,RCG TV COAHUILA
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1,RCG TV1
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1,RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1,RCN - Colombia
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,RCN Colombia
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,RCN HD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
+#EXTINF:-1,RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,RPC
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+#EXTINF:-1,RT DOCUMENTARY
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:-1,RT Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:-1,RT Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:-1,RT Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:-1,RT Español
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
+#EXTINF:-1,RT Español
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:-1,RT en Español
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:-1,RTG Guerrero
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:-1,Radio Montecarlo
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1,Radio one HD
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Redbull TV
+http://elementaldelta.redbull.tv/delay0600.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,Retro Tv MUSICAL
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Ribera TV
+http://188.165.135.22/ribera/livestream/.m3u8
+#EXTINF:-1,Ritmoson Latino
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/6166/visita-exabytetv.m3u8
+#EXTINF:-1,Rock
+http://thepk.co:2095/live/husham/isaplayer/835.ts
+#EXTINF:-1,Roma Channel
+http://xtream.swiftiptv.com:6500/live/lumn19/wrz3ash9/17628.ts
+#EXTINF:-1,Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1,Rusia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:-1,SHOWTIME
+http://edge11.verliga.me/live/plusdeportes/index.m3u8
+#EXTINF:-1,SHOWTIME XTREME
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/331.ts
+#EXTINF:-1,SKY SPORTS NEWS
+http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299//index_3400_av-p.m3u8
+#EXTINF:-1,SKY SPORTS NEWS
+http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299//index_3400_av-p.m3u8
+#EXTINF:-1,SPORT1
+http://193.8.246.110:8880/play/10045
+#EXTINF:-1,SPORTING
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
+#EXTINF:-1,SPORTSNET WORLD
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1215.ts
+#EXTINF:-1,STARZ CINEMA
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/328.ts
+#EXTINF:-1,STARZ ENCORE ACTION
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/344.ts
+#EXTINF:-1,STARZ ENCORE WESTERNS
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/329.ts
+#EXTINF:-1,STARZ KIDS AND FAMILY
+http://thepk.co:2095/live/husham/isaplayer/1620.ts
+#EXTINF:-1,SUNDANCE Channel
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15956.ts
+#EXTINF:-1,SUPER 5 TV
+http://k3.usastreams.com/superC/_definst_/mp4:superC_2/chunklist.m3u8
+#EXTINF:-1,SYFY
+http://edge3.telesport.pw/live/syfy/index.m3u8
+#EXTINF:-1,Setanta Sports
+http://185.142.239.164:3135/Setanta/Sports/playlist.m3u8
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Señales TV
+http://rctvhdstream.ddns.net:5050/rctv/senalestv.stream/playlist.m3u8
+#EXTINF:-1,Showtime
+http://thepk.co:2095/live/husham/isaplayer/1624.ts
+#EXTINF:-1,Silence TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+#EXTINF:-1,Sky NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skyNEWS/1404/live/04.m3u8
+#EXTINF:-1,Sky Sports F1
+http://185.142.239.164:3135/F1/Sports/playlist.m3u8
+#EXTINF:-1,Sky Sports Latinoamerica
+http://system.fpiptv.com:8080/live/12345/12345/160.ts
+#EXTINF:-1,Skysports 1
+http://185.142.239.164:3135/1/Sports/playlist.m3u8
+#EXTINF:-1,Skysports 1
+http://185.142.239.164:3135/1/Sports/playlist.m3u8
+#EXTINF:-1,Skysports 2
+http://185.142.239.164:3135/2/Sports/playlist.m3u8
+#EXTINF:-1,Skysports 2
+http://185.142.239.164:3135/2/Sports/playlist.m3u8
+#EXTINF:-1,Skysports 3
+http://185.142.239.164:3135/3/Sports/playlist.m3u8
+#EXTINF:-1,Skysports 3
+http://185.142.239.164:3135/3/Sports/playlist.m3u8
+#EXTINF:-1,Skysports 4
+http://185.142.239.164:3135/4/Sports/playlist.m3u8
+#EXTINF:-1,Skysports 4
+http://185.142.239.164:3135/4/Sports/playlist.m3u8
+#EXTINF:-1,Skysports 5
+http://185.142.239.164:3135/5/Sports/playlist.m3u8
+#EXTINF:-1,Skysports 5
+http://185.142.239.164:3135/5/Sports/playlist.m3u8
+#EXTINF:-1,Slam! TV
+http://hls2.slamfm.nl/content/slamtv/slamtv_1.m3u8
+#EXTINF:-1,Sony
+http://wowza2.mysoltv.com:1992/Latino_SONY/index.m3u8
+#EXTINF:-1,Sony
+http://wowza2.mysoltv.com:1992/Latino_SONY/index.m3u8
+#EXTINF:-1,Sony
+http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Sony
+http://wowza2.mysoltv.com:1992/Latino_SONY/index.m3u8
+#EXTINF:-1,Space
+http://wowza2.mysoltv.com:1992/Latino_Space_HD/index.m3u8
+#EXTINF:-1,Spike
+http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2428.ts
+#EXTINF:-1,SporTV_1
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3474.ts
+#EXTINF:-1,SporTV_2
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3473.ts
+#EXTINF:-1,SporTV_3
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3472.ts
+#EXTINF:-1,SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,Studio Universal
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Studio Universal
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1,Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1,Super 1
+http://185.142.239.164:3135/Super/1/index.m3u8
+#EXTINF:-1,Super 2
+http://185.142.239.164:3135/Super/2/playlist.m3u8
+#EXTINF:-1,Super 3
+http://185.142.239.164:3135/Super/3/playlist.m3u8
+#EXTINF:-1,Super 4
+http://185.142.239.164:3135/Super/4/playlist.m3u8
+#EXTINF:-1,Super Canal 33 RD
+http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
+#EXTINF:-1,Super Canal RD
+http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
+#EXTINF:-1,SyFy
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,SyFy
+http://edge8.telesport.pw/live/syfy/index.m3u8
+#EXTINF:-1,SyFy
+http://edge5201.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
+#EXTINF:-1,SyFy
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,SyFy
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/245.ts
+#EXTINF:-1,SyFy - España
+http://thepk.co:2095/live/husham/isaplayer/1079.m3u8
+#EXTINF:-1,Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:-1,T V3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:-1,TBS
+http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TBS
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/301.ts
+#EXTINF:-1,TCM
+http://edge3502.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8
+#EXTINF:-1,TCM
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/517.ts
+#EXTINF:-1,TCM
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/cGFnZS10Y20=/visita-exabytetv.m3u8
+#EXTINF:-1,TD TV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,TDN
+http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TDN
+http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TDN
+http://romeo.exabytetv.info/exabytetv-esgratis/gc/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/2191/visita-exabytetv.m3u8
+#EXTINF:-1,TDN
+http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TELEFE
+http://ar.watcha.live/ch6/hi.m3u8
+#EXTINF:-1,TELEFORMULA
+http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b1128000.m3u8
+#EXTINF:-1,TELEFORMULA
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5815.ts
+#EXTINF:-1,TELEMUNDO
+http://edge2501.livesports.pw/live/vertelemundoesb4047ed6f94/index.m3u8
+#EXTINF:-1,TELEMUNDO
+http://edge5.telesport.pw/live/telemundo/index.m3u8
+#EXTINF:-1,TELEMUNDO
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/6064.ts
+#EXTINF:-1,TELEMUNDO
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/6067.ts
+#EXTINF:-1,TELEMUNDO
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/6058.ts
+#EXTINF:-1,TELEMUNDO
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/6060.ts
+#EXTINF:-1,TELEMUNDO PR
+http://104.245.96.214:8000/live/PATRICIO APRAEZUBE/12345/504.ts
+#EXTINF:-1,TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?
+#EXTINF:-1,TELERITMO
+http://tinyurl.com/yd3l4e62
+#EXTINF:-1,TENNIS CHANNEL
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/327.ts
+#EXTINF:-1,THE MOVIE NETWORK
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/7379.ts
+#EXTINF:-1,TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,TL Novelas
+http://104.245.96.214:8000/live/PATRICIO APRAEZUBE/12345/38.ts
+#EXTINF:-1,TLC
+http://wowza2.mysoltv.com:1992/Latino_TLC/index.m3u8
+#EXTINF:-1,TLT
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?time=1485382261151
+#EXTINF:-1,TLT La Tele Tuya
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
+#EXTINF:-1,TNT
+http://edge1.telesport.pw/live/tnt/index.m3u8
+#EXTINF:-1,TNT
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/cGFnZS10bnQ=/visita-exabytetv.m3u8
+#EXTINF:-1,TNT
+http://wowza2.mysoltv.com:1992/Latino_TNT/index.m3u8
+#EXTINF:-1,TNT
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/298.ts
+#EXTINF:-1,TNT España
+http://edge8.telesport.pw/live/tnt/index.m3u8
+#EXTINF:-1,TNT España
+http://edge5201.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
+#EXTINF:-1,TNT Series
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TNT Series
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/dG50LXNlcmllcw==/visita-exabytetv.m3u8
+#EXTINF:-1,TNT Series
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:-1,TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,TSN1
+http://thepk.co:2095/live/husham/isaplayer/1640.ts
+#EXTINF:-1,TSN1
+http://thepk.co:2095/live/husham/isaplayer/1640.ts
+#EXTINF:-1,TSN2
+http://thepk.co:2095/live/husham/isaplayer/1639.ts
+#EXTINF:-1,TSN2
+http://thepk.co:2095/live/husham/isaplayer/1639.ts
+#EXTINF:-1,TSN3
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1076.ts
+#EXTINF:-1,TSN3
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1076.ts
+#EXTINF:-1,TSN4
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1075.ts
+#EXTINF:-1,TSN4
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1075.ts
+#EXTINF:-1,TSN5
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1074.ts
+#EXTINF:-1,TSN5
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/1074.ts
+#EXTINF:-1,TV 538 Live
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
+#EXTINF:-1,TV AZTECA
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,TV CENTRO Honduras
+http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
+#EXTINF:-1,TV COSMOS
+http://wowzaserver.net:1935/ucvsatelital/ucvsatelital/playlist.m3u8
+#EXTINF:-1,TV GALICIA
+http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
+#EXTINF:-1,TV MARTÍ (Cuba)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TV MAX
+http://s1.iptv66.tv/live/1114123412333/1114123412333/443.ts
+#EXTINF:-1,TV MEXIQUENSE
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5354.ts
+#EXTINF:-1,TV MEXIQUENSE
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5354.ts
+#EXTINF:-1,TV Max
+http://50.7.98.234:1935/rtv/videortv/chunklist_w1278592260.m3u8
+#EXTINF:-1,TV Peru
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,TV Red Chile
+http://69.164.193.177:1935/live/myStream/chunklist.m3u8?wowzasessionid=2143164950
+#EXTINF:-1,TV Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:-1,TV UNAM
+http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
+#EXTINF:-1,TV UNAM
+http://api.new.livestream.com/accounts/12380647/events/3843134/videos/132095321.m3u8
+#EXTINF:-1,TV Uno
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,TV3 Puebla
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYXB1ZWJsYS50di92aWRlby1lbi12aXZv/visita-exabytetv.m3u8
+#EXTINF:-1,TVC Deportes
+http://tvnet.iptvsur.com:25461/live/IPTVPREMIUN/12345/3894.ts
+#EXTINF:-1,TVC Noticias
+http://s1.iptv66.tv/live/1114123412333/1114123412333/433.ts
+#EXTINF:-1,TVE
+http://104.245.96.214:8000/live/PATRICIO APRAEZUBE/12345/92.ts
+#EXTINF:-1,TVE 24h
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3366.m3u8
+#EXTINF:-1,TVMAS VERACRUZ
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+#EXTINF:-1,TVN Nicaragua
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1,TVN Panama
+ttp://system.fpiptv.com:8080/live/12345/12345/7542.ts
+#EXTINF:-1,TVP CULIACÁN
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
+#EXTINF:-1,TVP MAZATLÁN
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/chunklist_w829019339_b1428000_sleng.m3u8
+#EXTINF:-1,TVP MOCHIS
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w1854582142_b1428000_sleng.m3u8
+#EXTINF:-1,TVP YAQUI TV
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
+#EXTINF:-1,TVP mexico
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1,TVT Tabasco
+http://tvttabasco-lh.akamaihd.net/i/ch_1@325634/master.m3u8
+#EXTINF:-1,TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Tateti
+http://ar.watcha.live/ch16/hi.m3u8
+#EXTINF:-1,Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1,Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1,Tele Rebelde
+http://system.fpiptv.com:8080/live/12345/12345/2765.ts
+#EXTINF:-1,TeleSUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:-1,Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1,Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1,Telecinco
+http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8
+#EXTINF:-1,Telecinco
+http://edge5201.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
+#EXTINF:-1,Teledeporte
+http://edge4.telesport.pw/live/teledeporte/index.m3u8
+#EXTINF:-1,Teledeporte
+http://edge3506.livesports.pw/live/verteledeporteespa011482c/index.m3u8
+#EXTINF:-1,Telehit
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/6168/visita-exabytetv.m3u8
+#EXTINF:-1,Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+#EXTINF:-1,Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,Telemetro
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8
+#EXTINF:-1,Telemundo
+http://edge5.telesport.pw/live/telemundo/index.m3u8
+#EXTINF:-1,Telemúsica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:-1,Telesur
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:-1,Teletrak
+http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
+#EXTINF:-1,Teletrak
+http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
+#EXTINF:-1,Teleuniverso
+http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
+#EXTINF:-1,Televisa del Golfo
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYWRlbGdvbGZvLnR2L3ZpZGVvLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
+#EXTINF:-1,Telpin HD
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+#EXTINF:-1,Ten
+https://cdn.opencable.es/hls/live/ten/index.m3u8
+#EXTINF:-1,Ten
+http://edge4.telesport.pw/live/ten/index.m3u8
+#EXTINF:-1,Ten Sports 1
+http://185.142.239.164:3135/Ten/1/playlist.m3u8
+#EXTINF:-1,Ten Sports 2
+http://185.142.239.164:3135/Ten/2/playlist.m3u8
+#EXTINF:-1,Ten Sports 3
+http://185.142.239.164:3135/Ten/3/playlist.m3u8
+#EXTINF:-1,The 80s Videomix Volume 1
+https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
+#EXTINF:-1,The 90s EurodanceVideomix
+https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
+#EXTINF:-1,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1,The Voice
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,Tiin
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
+#EXTINF:-1,Tilesport TV
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+#EXTINF:-1,Todo DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,Todo Deportes TV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,Tooncast
+http://104.245.96.214:8000/live/PATRICIO APRAEZUBE/12345/51.ts
+#EXTINF:-1,Toros TV
+http://cdn1.shurs.xyz/verdirectotv/9/playlist.m3u8
+#EXTINF:-1,Toros TV
+http://edge3504.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8
+#EXTINF:-1,Trecevision Yucatán
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
+#EXTINF:-1,Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,Tropicales
+http://thepk.co:2095/live/husham/isaplayer/830.ts
+#EXTINF:-1,TruTV
+http://xtream.swiftiptv.com:6500/live/lumn19/wrz3ash9/15971.ts
+#EXTINF:-1,Tyc Sports
+http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32.m3u8
+#EXTINF:-1,U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+#EXTINF:-1,UFC NETWORK
+http://209.126.116.177:2086/UFCNET/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,UFC NETWORK
+http://thepk.co:2095/live/husham/isaplayer/1633.ts
+#EXTINF:-1,UFC NETWORK
+https://cdn.opencable.es/hls/live/fighttime/index.m3u8
+#EXTINF:-1,UFC NETWORK
+http://thepk.co:2095/live/husham/isaplayer/1633.ts
+#EXTINF:-1,UK:Sky Sports F1
+http://185.142.239.164:3135/F1/Sports/playlist.m3u8
+#EXTINF:-1,UNE TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
+#EXTINF:-1,UNO TV Mexico
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
+#EXTINF:-1,USA
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/242.ts
+#EXTINF:-1,Unicable
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/129.ts
+#EXTINF:-1,Unicable
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/129.ts
+#EXTINF:-1,Unicable
+http://wowza2.mysoltv.com:1992/Latino_Unicable_HD/index.m3u8
+#EXTINF:-1,Unicanal
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+#EXTINF:-1,Unimas
+http://wowza2.mysoltv.com:1992/Latino_UNIMAS_HD/index.m3u8
+#EXTINF:-1,Unimas
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2932.ts
+#EXTINF:-1,Unimas
+https://hls.ssh101.com/live/unimas2/index.m3u8
+#EXTINF:-1,Unimas
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2932.ts
+#EXTINF:-1,Universal Channel
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Universal Channel
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/dW5pdmVyc2FsLWNoYW5uZWw=/visita-exabytetv.m3u8
+#EXTINF:-1,Universal Channel
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Univision
+http://cdnh8.iblups.com/hls/TzfgMY2JVi.m3u8
+#EXTINF:-1,Univision
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2931.ts
+#EXTINF:-1,Univision Deportes
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5312.ts
+#EXTINF:-1,Univision TDN
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
+#EXTINF:-1,Univision TDN
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
+#EXTINF:-1,Univision TDN
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/index_1048_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Univisión Puerto Rico
+https://cdnh8.iblups.com/hls/TzMLT5VhhH.m3u8
+#EXTINF:-1,Univisión Puerto Rico
+https://cdnh8.iblups.com/hls/TzMLT5VhhH.m3u8
+#EXTINF:-1,V PLUS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,VALLEVISION MATAMOROS
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/UGEKI-1011001010110111010110000101110-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYW5vcmVzdGUudHYvdmlkZW8tZW4tdml2bw==/visita-exabytetv.m3u8
+#EXTINF:-1,VE Plus TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1,VH1
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/6282/visita-exabytetv.m3u8
+#EXTINF:-1,VH1 Clasics
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/6162/visita-exabytetv.m3u8
+#EXTINF:-1,VICELAND
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/477.ts
+#EXTINF:-1,VOX TV olds Cool MUSICAL
+https://stream.smcdn.pl/vox-t/vox_360p/chunklist_w1129473971_tkd293emF0b2tlbmVuZHRpbWU9MTQ5NTg4MzcwMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9V1NDc3g4M3VhRlN2Q2hnazZKcVlTb1UzcmFjcVZFeXlLTmZCSXpYcVNLaz0=.m3u8
+#EXTINF:-1,Vallevision Matamoros
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYW5vcmVzdGUudHYvdmlkZW8tZW4tdml2bw==/visita-exabytetv.m3u8
+#EXTINF:-1,Ve plus TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
+#EXTINF:-1,Velocity
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1475.ts
+#EXTINF:-1,Viajar
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/526.ts
+#EXTINF:-1,Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1,Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1,Vitato movie
+http://live-ord.vaughnsoft.net:1935/live/_definst_/live_vitatotv/playlist.m3u8
+#EXTINF:-1,Vmas TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:-1,VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,WOBI TV
+http://romeo.exabytetv.info/exabytetv-esgratis/suavecitotv/YAAIC-1011001011000110110111111010101-ExabyteTV-holis/6050/visita-exabytetv.m3u8
+#EXTINF:-1,WORLD FISHING
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/305.ts
+#EXTINF:-1,WWE Network
+http://dns1.theplayersklub.host:2095/live/tonyc/tonyc/303.ts
+#EXTINF:-1,WWE Network
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3653.ts
+#EXTINF:-1,WWE Network
+http://system.fpiptv.com:8080/live/12345/12345/26.ts
+#EXTINF:-1,Wapa
+http://dcunilive14-lh.akamaihd.net/i/dclive_1@176094/master.m3u8
+#EXTINF:-1,Wapa
+http://dcunilive14-lh.akamaihd.net/i/dclive_1@176094/master.m3u8
+#EXTINF:-1,Warner Channel
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Warner Channel
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1,Warner Channel
+http://wowza2.mysoltv.com:1992/Latino_Warner_HD/index.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation Tv
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Willax TV
+http://m.mediastream.pe/vv_willax/livestream/.m3u8
+#EXTINF:-1,Win Sports
+http://cdn1.shurs.xyz/verliga/5/playlist.m3u8
+#EXTINF:-1,World Fashion
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
+#EXTINF:-1,World Fashion
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
+#EXTINF:-1,XEWT 12 Tijuana
+http://romeo.exabytetv.info/exabytetv-esgratis/totalbit/NYAAIC-1011001011000110110111111010101-ExabyteTV-holis/7819/visita-exabytetv.m3u8
+#EXTINF:-1,Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:-1,Yearmix2010
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+#EXTINF:-1,Yearmix2011
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
+#EXTINF:-1,Yearmix2012
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+#EXTINF:-1,Yearmix2013
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+#EXTINF:-1,Yearmix2014
+https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
+#EXTINF:-1,Yearmix2015
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
+#EXTINF:-1,Yes
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:-1,adn 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+#EXTINF:-1,adn 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,cablenoticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1,canal 101
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+#EXTINF:-1,cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1,caricaturas
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,claro sport
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
+#EXTINF:-1,colosal
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1,cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1,efekto tv hd
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1,explora df
+http://50.7.98.234:1935/rtv/videortv/chunklist_w1278592260.m3u8
+#EXTINF:-1,foro tv
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1,heartv summer
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,la Otra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+#EXTINF:-1,la butaca
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,los simpson
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,tectv
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1,telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1,tlt
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?time=1485382261151
+#EXTINF:-1,unknown277
+http://cecegeek@goo.gl/Gfpbho
+#EXTINF:-1,unknown38
+http://wowza2.mysoltv.com:1992/Latino_I_SAT/index.m3u8
+#EXTINF:-1,unknown43
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1,高清影院 Movies1
+http://dlhls.cdn.zhanqi.tv/zqlive/75885_IvfFq.m3u8
+#EXTINF:-1,高清影院 Movies2
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1,高清影院 Movies3
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:-1,高清影院 Movies4
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
