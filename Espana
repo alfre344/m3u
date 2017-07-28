@@ -1,387 +1,131 @@
 #EXTM3U
-#EXTINF:0,SP: La 1 HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/67.ts
-#EXTINF:0,SP: La 1
-http://iptv.cs2017.info:9090/live/casiy/uyt/66.ts
-#EXTINF:0,SP: LA 2
-http://iptv.cs2017.info:9090/live/casiy/uyt/68.ts
-#EXTINF:0,SP: Antena 3 HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/70.ts
-#EXTINF:0,SP: Antena 3
-http://iptv.cs2017.info:9090/live/casiy/uyt/69.ts
-#EXTINF:0,SP: Cuatro HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/72.ts
-#EXTINF:0,SP: Cuatro
-http://iptv.cs2017.info:9090/live/casiy/uyt/71.ts
-#EXTINF:0,SP: Telecinco HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/74.ts
-#EXTINF:0,SP: Telecinco
-http://iptv.cs2017.info:9090/live/casiy/uyt/73.ts
-#EXTINF:0,SP: La Sexta HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/76.ts
-#EXTINF:0,SP: La Sexta
-http://iptv.cs2017.info:9090/live/casiy/uyt/75.ts
-#EXTINF:0,SP: NEOX
-http://iptv.cs2017.info:9090/live/casiy/uyt/223.ts
-#EXTINF:0,SP: NOVA HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/77.ts
-#EXTINF:0,SP: FDF
-http://iptv.cs2017.info:9090/live/casiy/uyt/79.ts
-#EXTINF:0,SP: Divinity
-http://iptv.cs2017.info:9090/live/casiy/uyt/81.ts
-#EXTINF:0,SP: Energy
-http://iptv.cs2017.info:9090/live/casiy/uyt/80.ts
-#EXTINF:0,SP: Paramount Channel
-http://iptv.cs2017.info:9090/live/casiy/uyt/82.ts
-#EXTINF:0,SP: BeMad TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/215.ts
-#EXTINF:0,SP: MEGA HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/78.ts
-#EXTINF:0,SP: Dkiss
-http://iptv.cs2017.info:9090/live/casiy/uyt/338.ts
-#EXTINF:0,SP: Ten
-http://iptv.cs2017.info:9090/live/casiy/uyt/308.ts
-#EXTINF:0,SP: Canal Sur
-http://iptv.cs2017.info:9090/live/casiy/uyt/309.ts
-#EXTINF:0,SP: 24 Horas
-http://iptv.cs2017.info:9090/live/casiy/uyt/337.ts
-#EXTINF:0,SP:101 MALAGA
-http://iptv.cs2017.info:9090/live/casiy/uyt/343.ts
-#EXTINF:0,SP: #0 HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/85.ts
-#EXTINF:0,SP: #0
-http://iptv.cs2017.info:9090/live/casiy/uyt/84.ts
-#EXTINF:0,SP: Movistar Accion HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/93.ts
-#EXTINF:0,SP: Movistar Accion
-http://iptv.cs2017.info:9090/live/casiy/uyt/94.ts
-#EXTINF:0,SP: Movistar Estrenos HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/86.ts
-#EXTINF:0,SP: Movistar Estrenos
-http://iptv.cs2017.info:9090/live/casiy/uyt/87.ts
-#EXTINF:0,SP: Movistar Comedia HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/90.ts
-#EXTINF:0,SP: Movistar Comedia
-http://iptv.cs2017.info:9090/live/casiy/uyt/91.ts
-#EXTINF:0,SP: Movistar DCine HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/88.ts
-#EXTINF:0,SP: Movistar DCine
-http://iptv.cs2017.info:9090/live/casiy/uyt/89.ts
-#EXTINF:0,SP: Movistar Cine Ñ
-http://iptv.cs2017.info:9090/live/casiy/uyt/92.ts
-#EXTINF:0,SP: Hollywood HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/95.ts
-#EXTINF:0,SP: Hollywood
-http://iptv.cs2017.info:9090/live/casiy/uyt/96.ts
-#EXTINF:0,SP: Cosmo HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/114.ts
-#EXTINF:0,SP: Cosmo
-http://iptv.cs2017.info:9090/live/casiy/uyt/113.ts
-#EXTINF:0,SP: Calle 13 HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/122.ts
-#EXTINF:0,SP: Calle 13
-http://iptv.cs2017.info:9090/live/casiy/uyt/121.ts
-#EXTINF:0,SP: AMC HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/128.ts
-#EXTINF:0,SP: AMC
-http://iptv.cs2017.info:9090/live/casiy/uyt/127.ts
-#EXTINF:0,SP: AXN HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/126.ts
-#EXTINF:0,SP: AXN
-http://iptv.cs2017.info:9090/live/casiy/uyt/125.ts
-#EXTINF:0,SP: AXN White HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/124.ts
-#EXTINF:0,SP: AXN White
-http://iptv.cs2017.info:9090/live/casiy/uyt/123.ts
-#EXTINF:0,SP: FOX HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/112.ts
-#EXTINF:0,SP: FOX
-http://iptv.cs2017.info:9090/live/casiy/uyt/111.ts
-#EXTINF:0,SP: FOX Life HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/97.ts
-#EXTINF:0,SP: FOX Life
-http://iptv.cs2017.info:9090/live/casiy/uyt/98.ts
-#EXTINF:0,SP: TNT HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/100.ts
-#EXTINF:0,SP: TNT
-http://iptv.cs2017.info:9090/live/casiy/uyt/99.ts
-#EXTINF:0,SP: TCM HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/102.ts
-#EXTINF:0,SP: TCM
-http://iptv.cs2017.info:9090/live/casiy/uyt/101.ts
-#EXTINF:0,SP: LIFE TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/307.ts
-#EXTINF:0,SP: XTRM HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/339.ts
-#EXTINF:0,SP: XTRM
-http://iptv.cs2017.info:9090/live/casiy/uyt/119.ts
-#EXTINF:0,DARK TERROR
-http://iptv.cs2017.info:9090/live/casiy/uyt/319.ts
-#EXTINF:0,SP: Canal Dark
-http://iptv.cs2017.info:9090/live/casiy/uyt/120.ts
-#EXTINF:0,SP: Canal SOMOS
-http://iptv.cs2017.info:9090/live/casiy/uyt/118.ts
-#EXTINF:0,SP: Sundance TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/230.ts
-#EXTINF:0,SP: SyFy HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/104.ts
-#EXTINF:0,SP: Syfy
-http://iptv.cs2017.info:9090/live/casiy/uyt/103.ts
-#EXTINF:0,SP: Movistar Series HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/109.ts
-#EXTINF:0,SP: Movistar Series
-http://iptv.cs2017.info:9090/live/casiy/uyt/108.ts
-#EXTINF:0,SP: Movistar Series Xtra HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/110.ts
-#EXTINF:0,SP: Movistar Series Xtra
-http://iptv.cs2017.info:9090/live/casiy/uyt/107.ts
-#EXTINF:0,SP: Movistar Xtra HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/106.ts
-#EXTINF:0,SP: Movistar Xtra
-http://iptv.cs2017.info:9090/live/casiy/uyt/105.ts
-#EXTINF:0,SP: Comedy Central HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/116.ts
-#EXTINF:0,SP: Comedy Central
-http://iptv.cs2017.info:9090/live/casiy/uyt/115.ts
-#EXTINF:0,SP: a3series HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/83.ts
-#EXTINF:0,SP: A&E
-http://iptv.cs2017.info:9090/live/casiy/uyt/216.ts
-#EXTINF:0,SP: Canal Cocina
-http://iptv.cs2017.info:9090/live/casiy/uyt/214.ts
-#EXTINF:0,SP: Canal Decasa
-http://iptv.cs2017.info:9090/live/casiy/uyt/213.ts
-#EXTINF:0,SP: Caza y Pesca HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/211.ts
-#EXTINF:0,SP: Caza y Pesca
-http://iptv.cs2017.info:9090/live/casiy/uyt/212.ts
-#EXTINF:0,SP: Iberalia TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/229.ts
-#EXTINF:0,SP: Odisea
-http://iptv.cs2017.info:9090/live/casiy/uyt/201.ts
-#EXTINF:0,SP: Historia HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/199.ts
-#EXTINF:0,SP: Historia
-http://iptv.cs2017.info:9090/live/casiy/uyt/200.ts
-#EXTINF:0,SP: Discovery Channel HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/208.ts
-#EXTINF:0,SP: Discovery Channel
-http://iptv.cs2017.info:9090/live/casiy/uyt/209.ts
-#EXTINF:0,SP: National Geographic HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/204.ts
-#EXTINF:0,SP: National Geographic
-http://iptv.cs2017.info:9090/live/casiy/uyt/205.ts
-#EXTINF:0,SP: National Geographic Wild HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/202.ts
-#EXTINF:0,SP: National Geographic Wild
-http://iptv.cs2017.info:9090/live/casiy/uyt/203.ts
-#EXTINF:0,SP: Crimen e Investigación
-http://iptv.cs2017.info:9090/live/casiy/uyt/210.ts
-#EXTINF:0,SP: Non Stop People
-http://iptv.cs2017.info:9090/live/casiy/uyt/231.ts
-#EXTINF:0,SP: Viajar HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/217.ts
-#EXTINF:0,SP: Viajar
-http://iptv.cs2017.info:9090/live/casiy/uyt/218.ts
-#EXTINF:0,SP: Canal Orbe 21
-http://iptv.cs2017.info:9090/live/casiy/uyt/233.ts
-#EXTINF:0,SP: DisneyPixar
-http://iptv.cs2017.info:9090/live/casiy/uyt/323.ts
-#EXTINF:0,SP: Disney Channel HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/206.ts
-#EXTINF:0,SP: Disney Channel
-http://iptv.cs2017.info:9090/live/casiy/uyt/207.ts
-#EXTINF:0,SP: Disney Junior
-http://iptv.cs2017.info:9090/live/casiy/uyt/225.ts
-#EXTINF:0,SP: Disney XD
-http://iptv.cs2017.info:9090/live/casiy/uyt/224.ts
-#EXTINF:0,SP: Canal Panda
-http://iptv.cs2017.info:9090/live/casiy/uyt/227.ts
-#EXTINF:0,SP: Nick Junior
-http://iptv.cs2017.info:9090/live/casiy/uyt/222.ts
-#EXTINF:0,SP: Baby TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/228.ts
-#EXTINF:0,SP: Boing
-http://iptv.cs2017.info:9090/live/casiy/uyt/219.ts
-#EXTINF:0,SP: Clan TVE
-http://iptv.cs2017.info:9090/live/casiy/uyt/226.ts
-#EXTINF:0,SP: Nickelodeon HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/221.ts
-#EXTINF:0,SP: Nickelodeon
-http://iptv.cs2017.info:9090/live/casiy/uyt/220.ts
-#EXTINF:0,SP: M.FORMULA1 FULL HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/304.ts
-#EXTINF:0,SP: Movistar F1 HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/155.ts
-#EXTINF:0,SP: Movistar F1
-http://iptv.cs2017.info:9090/live/casiy/uyt/154.ts
-#EXTINF:0,SP: M.MOTOGP FULL HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/305.ts
-#EXTINF:0,SP: Movistar GP HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/149.ts
-#EXTINF:0,SP: Movistar GP
-http://iptv.cs2017.info:9090/live/casiy/uyt/148.ts
-#EXTINF:0,SP: Movistar Deportes 1 HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/192.ts
-#EXTINF:0,SP: Movistar Deportes 1
-http://iptv.cs2017.info:9090/live/casiy/uyt/191.ts
-#EXTINF:0,SP: Movistar Deportes 2 HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/194.ts
-#EXTINF:0,SP: Movistar Deportes 2
-http://iptv.cs2017.info:9090/live/casiy/uyt/193.ts
-#EXTINF:0,SP: Movistar Futbol HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/153.ts
-#EXTINF:0,SP: Movistar Futbol
-http://iptv.cs2017.info:9090/live/casiy/uyt/152.ts
-#EXTINF:0,SP: Movistar Partidazo HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/147.ts
-#EXTINF:0,SP: Movistar Partidazo
-http://iptv.cs2017.info:9090/live/casiy/uyt/146.ts
-#EXTINF:0,SP: LALIGATV BAR FULL HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/303.ts
-#EXTINF:0,SP: LaLigaTV HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/157.ts
-#EXTINF:0,SP: LaLigaTV
-http://iptv.cs2017.info:9090/live/casiy/uyt/156.ts
-#EXTINF:0,SP: beIN La Liga FULL HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/301.ts
-#EXTINF:0,SP: Bein LaLiga HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/177.ts
-#EXTINF:0,SP: Bein LaLiga
-http://iptv.cs2017.info:9090/live/casiy/uyt/176.ts
-#EXTINF:0,SP: Bein LaLiga 1 HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/179.ts
-#EXTINF:0,SP: Bein LaLiga 1
-http://iptv.cs2017.info:9090/live/casiy/uyt/178.ts
-#EXTINF:0,SP: Bein LaLiga 2 HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/181.ts
-#EXTINF:0,SP: Bein LaLiga 2
-http://iptv.cs2017.info:9090/live/casiy/uyt/180.ts
-#EXTINF:0,SP: Bein LaLiga 3
-http://iptv.cs2017.info:9090/live/casiy/uyt/182.ts
-#EXTINF:0,SP: Bein LaLiga 4
-http://iptv.cs2017.info:9090/live/casiy/uyt/183.ts
-#EXTINF:0,SP: Bein LaLiga 5
-http://iptv.cs2017.info:9090/live/casiy/uyt/184.ts
-#EXTINF:0,SP: Bein LaLiga 6
-http://iptv.cs2017.info:9090/live/casiy/uyt/185.ts
-#EXTINF:0,SP: Bein LaLiga 7
-http://iptv.cs2017.info:9090/live/casiy/uyt/186.ts
-#EXTINF:0,SP: beIN SPORTS FULL HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/302.ts
-#EXTINF:0,SP: Bein Sports España HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/165.ts
-#EXTINF:0,SP: Bein Sports España
-http://iptv.cs2017.info:9090/live/casiy/uyt/164.ts
-#EXTINF:0,SP: Bein Sports MAX 1 España HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/167.ts
-#EXTINF:0,SP: Bein Sports MAX 1 España
-http://iptv.cs2017.info:9090/live/casiy/uyt/166.ts
-#EXTINF:0,SP: Bein Sports MAX 2 España HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/169.ts
-#EXTINF:0,SP: Bein Sports MAX 2 España
-http://iptv.cs2017.info:9090/live/casiy/uyt/168.ts
-#EXTINF:0,SP: Bein Sports MAX 3 España
-http://iptv.cs2017.info:9090/live/casiy/uyt/170.ts
-#EXTINF:0,SP: Bein Sports MAX 4 España
-http://iptv.cs2017.info:9090/live/casiy/uyt/171.ts
-#EXTINF:0,SP: Bein Sports MAX 5 España
-http://iptv.cs2017.info:9090/live/casiy/uyt/172.ts
-#EXTINF:0,SP: Bein Sports MAX 6 España
-http://iptv.cs2017.info:9090/live/casiy/uyt/173.ts
-#EXTINF:0,SP: Bein Sports MAX 7 España
-http://iptv.cs2017.info:9090/live/casiy/uyt/174.ts
-#EXTINF:0,SP: Bein Sports MAX 8 España
-http://iptv.cs2017.info:9090/live/casiy/uyt/175.ts
-#EXTINF:0,SP: Gol TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/158.ts
-#EXTINF:0,SP: Movistar Golf HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/151.ts
-#EXTINF:0,SP: Movistar Golf
-http://iptv.cs2017.info:9090/live/casiy/uyt/150.ts
-#EXTINF:0,SP: Teledeporte HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/129.ts
-#EXTINF:0,SP: Eurosport HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/161.ts
-#EXTINF:0,SP: Eurosport
-http://iptv.cs2017.info:9090/live/casiy/uyt/160.ts
-#EXTINF:0,SP: Eurosport 2 HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/163.ts
-#EXTINF:0,SP: Eurosport 2
-http://iptv.cs2017.info:9090/live/casiy/uyt/162.ts
-#EXTINF:0,SP: Barca TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/197.ts
-#EXTINF:0,SP: Real Madrid TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/198.ts
-#EXTINF:0,SP: TOROS TV FULL HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/306.ts
-#EXTINF:0,SP: Toros TV HD
-http://iptv.cs2017.info:9090/live/casiy/uyt/188.ts
-#EXTINF:0,SP: Toros TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/187.ts
-#EXTINF:0,Toros TV SD
-http://iptv.cs2017.info:9090/live/casiy/uyt/313.ts
-#EXTINF:0,BOX NATION
-http://iptv.cs2017.info:9090/live/casiy/uyt/322.ts
-#EXTINF:0,SP: MultiFutbol 1
-http://iptv.cs2017.info:9090/live/casiy/uyt/131.ts
-#EXTINF:0,SP: MultiFutbol 2
-http://iptv.cs2017.info:9090/live/casiy/uyt/132.ts
-#EXTINF:0,SP: MultiFutbol 3
-http://iptv.cs2017.info:9090/live/casiy/uyt/133.ts
-#EXTINF:0,SP: MultiFutbol 4
-http://iptv.cs2017.info:9090/live/casiy/uyt/134.ts
-#EXTINF:0,SP: MultiFutbol 5
-http://iptv.cs2017.info:9090/live/casiy/uyt/135.ts
-#EXTINF:0,SP: MultiFutbol 6
-http://iptv.cs2017.info:9090/live/casiy/uyt/136.ts
-#EXTINF:0,SP: MultiFutbol 7
-http://iptv.cs2017.info:9090/live/casiy/uyt/137.ts
-#EXTINF:0,SP: MultiFutbol 8
-http://iptv.cs2017.info:9090/live/casiy/uyt/138.ts
-#EXTINF:0,SP: MultiDeportes 1
-http://iptv.cs2017.info:9090/live/casiy/uyt/139.ts
-#EXTINF:0,SP: MultiDeportes 2
-http://iptv.cs2017.info:9090/live/casiy/uyt/140.ts
-#EXTINF:0,SP: MultiDeportes 3
-http://iptv.cs2017.info:9090/live/casiy/uyt/141.ts
-#EXTINF:0,SP: MultiDeportes 4
-http://iptv.cs2017.info:9090/live/casiy/uyt/142.ts
-#EXTINF:0,SP: MultiDeportes 5
-http://iptv.cs2017.info:9090/live/casiy/uyt/143.ts
-#EXTINF:0,SP: MultiDeportes 6
-http://iptv.cs2017.info:9090/live/casiy/uyt/144.ts
-#EXTINF:0,SP: MultiDeportes 7
-http://iptv.cs2017.info:9090/live/casiy/uyt/145.ts
-#EXTINF:0,SP: MTV
-http://iptv.cs2017.info:9090/live/casiy/uyt/235.ts
-#EXTINF:0,SP: Mezzo
-http://iptv.cs2017.info:9090/live/casiy/uyt/236.ts
-#EXTINF:0,SP: Classica
-http://iptv.cs2017.info:9090/live/casiy/uyt/232.ts
-#EXTINF:0,VOX TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/347.ts
-#EXTINF:0,Top Latino
-http://iptv.cs2017.info:9090/live/casiy/uyt/344.ts
-#EXTINF:0,Teleritmo
-http://iptv.cs2017.info:9090/live/casiy/uyt/346.ts
-#EXTINF:0,TELERED
-http://iptv.cs2017.info:9090/live/casiy/uyt/354.ts
-#EXTINF:0,Rock Nacional TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/352.ts
-#EXTINF:0,Retro Tv
-http://iptv.cs2017.info:9090/live/casiy/uyt/348.ts
-#EXTINF:0,Music Choice
-http://iptv.cs2017.info:9090/live/casiy/uyt/350.ts
-#EXTINF:0,Hit TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/345.ts
-#EXTINF:0,HEART TV
-http://iptv.cs2017.info:9090/live/casiy/uyt/351.ts
-#EXTINF:0,Dream tv
-http://iptv.cs2017.info:9090/live/casiy/uyt/353.ts
-#EXTINF:0,Capital Tv
-http://iptv.cs2017.info:9090/live/casiy/uyt/349.ts
-#EXTINF:0,SP: MTV Espana
-http://iptv.cs2017.info:9090/live/casiy/uyt/329.ts
-#EXTINF:0,SP: Sol Música
-http://iptv.cs2017.info:9090/live/casiy/uyt/310.ts
+#EXTINF:-1,>>>>>>> Espagne Channel <<<<<<<<<
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1971.ts
+#EXTINF:-1,ES: BEIN LA LIGA
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2516.ts
+#EXTINF:-1,ES: BEIN LA LIGA 1
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2517.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2432.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2518.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2519.ts
+#EXTINF:-1,ES: Beinsport HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2515.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1903.ts
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2425.ts
+#EXTINF:-1,ES: GOL TV
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2514.ts
+#EXTINF:-1,ES: Movistar moto gp
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1916.ts
+#EXTINF:-1,ES: Movistar F1
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1915.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2427.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2524.ts
+#EXTINF:-1,ES : MOVISTAR TOROS HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2525.ts
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2522.ts
+#EXTINF:-1,ES : MOVISTAR LA LIGA
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1785.ts
+#EXTINF:-1,ES: CUATRO HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2510.ts
+#EXTINF:-1,ES: MOVISTAR 0# HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2512.ts
+#EXTINF:-1,ES: MOVISTAR XTRA HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/3137.ts
+#EXTINF:-1,ES: CASA Y PESCA
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2429.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2426.ts
+#EXTINF:-1,ES: Canal Cocina
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2430.ts
+#EXTINF:-1,ES: BARCA TV
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2445.ts
+#EXTINF:-1,ES: TELECINCO
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1767.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2511.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2724.ts
+#EXTINF:-1,ES : COMEDY CENTRAL HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1907.ts
+#EXTINF:-1,ES: TCM
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2528.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2436.ts
+#EXTINF:-1,ES: MEGA
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2721.ts
+#EXTINF:-1,ES : Viajar HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1909.ts
+#EXTINF:-1,ES: La 2
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2532.ts
+#EXTINF:-1,ES: La 1
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2531.ts
+#EXTINF:-1,ES: BEIN LA LIGA 2
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2438.ts
+#EXTINF:-1,ES: ENERGY
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2530.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2529.ts
+#EXTINF:-1,ES: Baby TV
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2527.ts
+#EXTINF:-1,ES: Antena 3
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1770.ts
+#EXTINF:-1,ES: antena3 HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/3135.ts
+#EXTINF:-1,ES: Disney channel
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1793.ts
+#EXTINF:-1,ES: FOX
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1790.ts
+#EXTINF:-1,ES: History
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1928.ts
+#EXTINF:-1,ES: Hollywood HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1773.ts
+#EXTINF:-1,ES: SyFy HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1791.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2421.ts
+#EXTINF:-1,ES: LaSextaHD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1768.ts
+#EXTINF:-1,ES: AMC HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2435.ts
+#EXTINF:-1,ES: AMC
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2434.ts
+#EXTINF:-1,ES: FOX Life
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1771.ts
+#EXTINF:-1,ES: CUATRO SD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1769.ts
+#EXTINF:-1,ES: CALLE13
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2422.ts
+#EXTINF:-1,ES: Axn White
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1786.ts
+#EXTINF:-1,ES: 40 TV
+http://89.38.96.153/live/shzawi/akDBTJLmbk/2423.ts
+#EXTINF:-1,ES: TVE 24 Hora
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1923.ts
+#EXTINF:-1,ES: COSMO
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1919.ts
+#EXTINF:-1,ES: TVE 2
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1918.ts
+#EXTINF:-1,ES: TNT HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1788.ts
+#EXTINF:-1,ES: Odisea HD
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1912.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1789.ts
+#EXTINF:-1,ES: Eurosport
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1906.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1917.ts
+#EXTINF:-1,ES: AXNSpain
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1772.ts
+#EXTINF:-1,ES: Andalucia TV
+http://89.38.96.153/live/shzawi/akDBTJLmbk/1921.ts
+#EXTINF:-1,AF: RTV Rwanda
+http://89.38.96.153/live/shzawi/akDBTJLmbk/5719.ts
