@@ -1,428 +1,822 @@
 #EXTM3U
-
-#EXTINF:-1,ES:LA 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/110.ts
-#EXTINF:-1,ES:LA 1 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/489.ts
-#EXTINF:-1,ES:LA 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/109.ts
-#EXTINF:-1,ES:ANTENA 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/111.ts
-#EXTINF:-1,ES:ANTENA 3 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/500.ts
-#EXTINF:-1,ES:LA CUATRO
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/88.ts
-#EXTINF:-1,ES:LA CUATRO HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/497.ts
-#EXTINF:-1,ES:TELECINCO
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/496.ts
-#EXTINF:-1,ES:TELECINCO HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/79.ts
-#EXTINF:-1,ES:LA SEXTA OPCION 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/478.ts
-#EXTINF:-1,ES:AXN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/18.ts
-#EXTINF:-1,ES:AXN HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/494.ts
-#EXTINF:-1,ES:AXN  WHITE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/19.ts
-#EXTINF:-1,ES:AXN WHITE HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/479.ts
-#EXTINF:-1,ES:AMC
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/29.ts
-#EXTINF:-1,ES:AMC HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/493.ts
-#EXTINF:-1,ES:FOX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/28.ts
-#EXTINF:-1,ES:FOX HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/495.ts
-#EXTINF:-1,ES:FOX LIFE HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/637.ts
-#EXTINF:-1,ES:FOX LIFE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/20.ts
-#EXTINF:-1,ES:TNT
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/30.ts
-#EXTINF:-1,ES:TNT HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/492.ts
-#EXTINF:-1,ES: HOLLYWOOD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/23.ts
-#EXTINF:-1,ES:HOLLYWOOD HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/491.ts
-#EXTINF:-1,ES:CALLE 13 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/631.ts
-#EXTINF:-1,ES:CALLE 13
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/24.ts
-#EXTINF:-1,ES:SYFY HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/638.ts
-#EXTINF:-1,ES:SYFY
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/15.ts
-#EXTINF:-1,ES:COSMOPOLITAN  HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/2.ts
-#EXTINF:-1,ES:COSMOS
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/629.ts
-#EXTINF:-1,XTREM
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/827.ts
-#EXTINF:-1,ES:COMEDY  CENTRAL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/26.ts
-#EXTINF:-1,ES:PARAMOUNT CHANNEL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/86.ts
-#EXTINF:-1,ES:TCM HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/652.ts
-#EXTINF:-1,ES:TCM
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/45.ts
-#EXTINF:-1,ES: DIVINITY
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/80.ts
-#EXTINF:-1,ES:NEOX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/41.ts
-#EXTINF:-1,ES:NEOX OP2
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,ES: NOVA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/42.ts
-#EXTINF:-1,ES:NOVA op 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/503.ts
-#EXTINF:-1,ES: FDF
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/46.ts
-#EXTINF:-1,ES: ENERGY
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/72.ts
-#EXTINF:-1,ES:MEGA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/43.ts
-#EXTINF:-1,ES:DARK
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/628.ts
-#EXTINF:-1,ES:MOVISTAR  0#
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/1.ts
-#EXTINF:-1,ES:MOVISTAR 0# HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/480.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/17.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/482.ts
-#EXTINF:-1,ES:MOVISTAR  ACCION
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/21.ts
-#EXTINF:-1,ES:MOVISTAR ACCION HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/483.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/22.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/484.ts
-#EXTINF:-1,ES:MOVISTAR  DCINE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/14.ts
-#EXTINF:-1,ES:MOVISTAR DCINE HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/485.ts
-#EXTINF:-1,ES:MOVISTAR DCINE  Ñ
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/48.ts
-#EXTINF:-1,ES:MOVISTAR XTRA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/13.ts
-#EXTINF:-1,ES:MOVISTAR SERIES HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/633.ts
-#EXTINF:-1,ES:MOVISTAR  SERIES
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/32.ts
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/626.ts
-#EXTINF:-1,ES:MOVISTAR  SERIES XTRA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/33.ts
-#EXTINF:-1,ES:MOVISTAR  TOROS TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/35.ts
-#EXTINF:-1,ES:TOROS HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/582.ts
-#EXTINF:-1,ES:BARCA  TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/25.ts
-#EXTINF:-1,ES:PANDA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/55.ts
-#EXTINF:-1,ES: BOING
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/36.ts
-#EXTINF:-1,ES:DISNEY  XD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/44.ts
-#EXTINF:-1,ES:DISNEY  JUNIOR
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/8.ts
-#EXTINF:-1,ES:DISNEY CHANNEL HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/661.ts
-#EXTINF:-1,ES:DISNEY  CHANNEL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/6.ts
-#EXTINF:-1,ES:CLAN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/4.ts
-#EXTINF:-1,ES:BABY  TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/5.ts
-#EXTINF:-1,ES:NICKELODEON HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/627.ts
-#EXTINF:-1,ES:NICKELODEON
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/70.ts
-#EXTINF:-1,ES:NICK JR
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/481.ts
-#EXTINF:-1,ES:NAT GEO
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/37.ts
-#EXTINF:-1,ES:NAT GEO HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/583.ts
-#EXTINF:-1,ES:NAT GEO WILD HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/651.ts
-#EXTINF:-1,ES:NAT GEO  WILD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/34.ts
-#EXTINF:-1,ES:HISTORIA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/52.ts
-#EXTINF:-1,ES:A&E
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/27.ts
-#EXTINF:-1,ES:CI
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/40.ts
-#EXTINF:-1,ES:VIAJAR HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/632.ts
-#EXTINF:-1,ES: Viajar
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/56.ts
-#EXTINF:-1,ES:CAZA  Y PESCA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/11.ts
-#EXTINF:-1,ES:CAZA Y PESCA HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/499.ts
-#EXTINF:-1,ES:DISCOVERY  CHANNEL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/9.ts
-#EXTINF:-1,ES: ODISEA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/31.ts
-#EXTINF:-1,ES:COCINA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/117.ts
-#EXTINF:-1,ES:MTV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/7.ts
-#EXTINF:-1,ES:CASA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/449.ts
-#EXTINF:-1,ES:Non Stop People
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/507.ts
-#EXTINF:-1,ES:SUR ANDALUCIA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/498.ts
-#EXTINF:-1,ES:MOVISTAR  DEPORTE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/77.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/487.ts
-#EXTINF:-1,ES:MOVISTAR  DEPORTE 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/78.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE 2 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/488.ts
-#EXTINF:-1,ES:BEIN  LALIGA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/50.ts
-#EXTINF:-1,ES:BEIN LALIGA HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/505.ts
-#EXTINF:-1,ES:Bein Sport ESPAÑA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/49.ts
-#EXTINF:-1,ES:Bein Sport HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/486.ts
-#EXTINF:-1,ES:MOVISTAR FUTBOL HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/636.ts
-#EXTINF:-1,ES:MOVISTAR  FUTBOL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/39.ts
-#EXTINF:-1,ES:PARTIDAZOS
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/118.ts
-#EXTINF:-1,ES:PARTIDAZOS HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/504.ts
-#EXTINF:-1,ES:MOVISTAR F1 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/630.ts
-#EXTINF:-1,ES:MOVISTAR  F1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/53.ts
-#EXTINF:-1,ES:MOTO GP HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/819.ts
-#EXTINF:-1,ES:MOVISTAR  MOTO GP
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/54.ts
-#EXTINF:-1,ES:MOVISTAR  GOLF
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/16.ts
-#EXTINF:-1,ES:MOVISTAR GOLF HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/826.ts
-#EXTINF:-1,ES:EUROSPORT  ES
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/83.ts
-#EXTINF:-1,ES:Eurosport  2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/47.ts
-#EXTINF:-1,ES:BEIN LALIGA 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/245.ts
-#EXTINF:-1,ES:BEIN  LALIGA 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/246.ts
-#EXTINF:-1,ES: BEIN  LALIGA 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/247.ts
-#EXTINF:-1,ES: BEIN  LALIGA 4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/248.ts
-#EXTINF:-1,ES: BEIN  LALIGA 5
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/249.ts
-#EXTINF:-1,ES:BEIN  LALIGA 6
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/250.ts
-#EXTINF:-1,ES:BEIN LALIGA 7
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/251.ts
-#EXTINF:-1,ES:Bein Sports MAX 1  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/252.ts
-#EXTINF:-1,ES:Bein Sports MAX 2  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/253.ts
-#EXTINF:-1,ES:Bein Sports MAX 3  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/254.ts
-#EXTINF:-1,ES:Bein Sports MAX 4  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/255.ts
-#EXTINF:-1,ES:Bein Sports MAX 5  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/256.ts
-#EXTINF:-1,ES:Bein Sports MAX 6  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/257.ts
-#EXTINF:-1,ES:Bein Sports MAX 7  España
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/258.ts
-#EXTINF:-1,ES:MULTIDEPORTE  1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/268.ts
-#EXTINF:-1,ES:MULTIDEPORTE  2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/269.ts
-#EXTINF:-1,ES:MULTIDEPORTE  3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/270.ts
-#EXTINF:-1,ES:MULTIDEPORTE  4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/271.ts
-#EXTINF:-1,ES:MULTIDEPORTE  5
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/272.ts
-#EXTINF:-1,ES:MULTIDEPORTE  6
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/273.ts
-#EXTINF:-1,ES:MULTIDEPORTE  7
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/274.ts
-#EXTINF:-1,ES:MULTIFUTBOL  1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/260.ts
-#EXTINF:-1,ES:MULTIFUTBOL  2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/261.ts
-#EXTINF:-1,ES:MULTIFUTBOL  3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/262.ts
-#EXTINF:-1,ES:MULTIFUTBOL  4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/263.ts
-#EXTINF:-1,ES:MULTIFUTBOL  5
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/264.ts
-#EXTINF:-1,ES:MULTIFUTBOL  6
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/265.ts
-#EXTINF:-1,ES:MULTIFUTBOL  7
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/266.ts
-#EXTINF:-1,ES:MULTIFUTBOL  8
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/267.ts
-#EXTINF:-1,ES:GOL TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/76.ts
-#EXTINF:-1,ES:LIGATV BAR
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/454.ts
-#EXTINF:-1,ES:TELEDEPORTE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/451.ts
-#EXTINF:-1,ES:REAL MADRID TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/545.ts
-#EXTINF:-1,*********** [UK SPORT CHANNEL] ***********
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/184.ts
-#EXTINF:-1,UK: Sky Sports Main Event
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/93.ts
-#EXTINF:-1,UK:Sky Sport Cricket
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/94.ts
-#EXTINF:-1,UK:Sky Sport Action
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/95.ts
-#EXTINF:-1,UK:Sky  Sports 4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/96.ts
-#EXTINF:-1,UK: Sky Sport Premier League
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/97.ts
-#EXTINF:-1,UK:Sky  Sports  F1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/848.ts
-#EXTINF:-1,UK:BT Sports  1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/100.ts
-#EXTINF:-1,UK:BT  Sports 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/101.ts
-#EXTINF:-1,UK:BT  Sports 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/187.ts
-#EXTINF:-1,UK: Disney Channel
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/712.ts
-#EXTINF:-1,UK: Disney Junior
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/713.ts
-#EXTINF:-1,UK: Disney XD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/714.ts
-#EXTINF:-1,UK: ESPN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/716.ts
-#EXTINF:-1,UK: FOX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/719.ts
-#EXTINF:-1,UK: MTV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/728.ts
-#EXTINF:-1,UK: Setanta Sports 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/734.ts
-#EXTINF:-1,UK: Sky Sport News
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/745.ts
-#EXTINF:-1,UK:BBC 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/815.ts
-#EXTINF:-1,UK:BBC 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/816.ts
-#EXTINF:-1,UK:BBC 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/817.ts
-#EXTINF:-1,UK:BBC 4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/818.ts
-#EXTINF:-1,UK:EUROSPORT 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/812.ts
-#EXTINF:-1,UK:EUROSPORT 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/813.ts
-#EXTINF:-1,UK:FOX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/814.ts
-#EXTINF:-1,USA:NBA  TV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/65.ts
-#EXTINF:-1,USA:Tsn Sport 1 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/238.ts
-#EXTINF:-1,USA:Tsn Sport 2 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/239.ts
-#EXTINF:-1,USA:Tsn  Sport 3 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/240.ts
-#EXTINF:-1,USA:Tsn  Sport 4 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/241.ts
-#EXTINF:-1,USA:Tsn  Sport 5 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/242.ts
-#EXTINF:-1,USA:UFC NETWORK
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/294.ts
-#EXTINF:-1,USA:BOX NATION  HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/292.ts
-#EXTINF:-1,US:WWE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/663.ts
-#EXTINF:-1,US:BEIN SPORT USA
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/811.ts
-#EXTINF:-1,US:Fight Sport
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/809.ts
-#EXTINF:-1,US:NFL HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/810.ts
-#EXTINF:-1,USA:HBO
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/884.ts
-#EXTINF:-1,LATINO :SUN CHANNEL
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/148.ts
-#EXTINF:-1,LATINO:CLARO SPORT
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/467.ts
-#EXTINF:-1,LATINO:ESPN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/468.ts
-#EXTINF:-1,LATINO:ESPN 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/469.ts
-#EXTINF:-1,LATINO:ESPN 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/470.ts
-#EXTINF:-1,LATINO:FOX SPORT
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/472.ts
-#EXTINF:-1,LATINO:FOX SPORT 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/473.ts
-#EXTINF:-1,LATINO:FOX SPORT 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/662.ts
-#EXTINF:-1,LATINO:AZTECA 7
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/459.ts
-#EXTINF:-1,LATINO:FOX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/460.ts
-#EXTINF:-1,LATINO:TNT
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/465.ts
-#EXTINF:-1,LATINO:UNIVISION TDN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/448.ts
-#EXTINF:-1,LATINO:VTV  URUGAY
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/291.ts
-#EXTINF:-1,LATINO:WIN SPORT HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/466.ts
-#EXTINF:-1,LATINO:AMC
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/558.ts
-#EXTINF:-1,LATINO:AXN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/559.ts
-#EXTINF:-1,LATINO:CINEMAX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/560.ts
-#EXTINF:-1,LATINO:TELEFE
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/580.ts
-#EXTINF:-1,LATINO:TELEMUNDO
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/656.ts
-#EXTINF:-1,LATINO:RCN
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/658.ts
-#EXTINF:-1,LATINO:BEIN SPORT Ñ
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/659.ts
-#EXTINF:-1,LATINO:Caracol
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/660.ts
-#EXTINF:-1,LATINO:F1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/820.ts
-#EXTINF:-1,LATINO:GOLTV
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/821.ts
-#EXTINF:-1,LATINO:HBO 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/883.ts
-#EXTINF:-1,*********** [TURKY SPORT CHANNEL] ***********
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/204.ts
-#EXTINF:-1,TR:Ligtv  1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/203.ts
-#EXTINF:-1,TR:LIGTV 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/220.ts
-#EXTINF:-1,TR:Ligtv 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/221.ts
-#EXTINF:-1,TR:TRT 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/218.ts
+#EXTM3U
+#EXTINF:-1,#0 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
+#EXTINF:-1,LA 1 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/210.ts
+#EXTINF:-1,LA 2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/359.ts
+#EXTINF:-1,ANTENA 3 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts
+#EXTINF:-1,CUATRO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts
+#EXTINF:-1,TELECINCO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts
+#EXTINF:-1,LA SEXTA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts
+#EXTINF:-1,FOX LIFE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts
+#EXTINF:-1,FOX HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts
+#EXTINF:-1,AXN WHITE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts
+#EXTINF:-1,AXN HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts
+#EXTINF:-1,HOLLYWOODHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts
+#EXTINF:-1,M.ESTRENOSHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts
+#EXTINF:-1,M.COMEDIA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts
+#EXTINF:-1,M. XTRA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts
+#EXTINF:-1,M. SeriesXtraHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/187.ts
+#EXTINF:-1,M. SERIES HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/188.ts
+#EXTINF:-1,M. DCINE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/208.ts
+#EXTINF:-1,M. ACCI©N HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/209.ts
+#EXTINF:-1,SYFY HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/201.ts
+#EXTINF:-1,TNT HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/182.ts
+#EXTINF:-1,TCM HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/183.ts
+#EXTINF:-1,AMC HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/217.ts
+#EXTINF:-1,FDF
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/381.ts
+#EXTINF:-1,CLAN TVE
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts
+#EXTINF:-1,NICKELODEONHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts
+#EXTINF:-1,COSMO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/194.ts
+#EXTINF:-1,COMEDYCENTRALHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
+#EXTINF:-1,CALLE 13 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/196.ts
+#EXTINF:-1,MEZZO LIVE HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/380.ts
+#EXTINF:-1,BEIN SPORT HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/197.ts
+#EXTINF:-1,BEIN LALIGA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/213.ts
+#EXTINF:-1,LALIGA TV BAR HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/360.ts
+#EXTINF:-1,MOVISTAR PARTIDAZO LIVE SESSION
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/337.ts
+#EXTINF:-1,M.MOTOGPHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/220.ts
+#EXTINF:-1,M.FORMULA1HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/202.ts
+#EXTINF:-1,M. GOLF HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/189.ts
+#EXTINF:-1,M. F.TBOL HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/206.ts
+#EXTINF:-1,M. DEP 2 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/207.ts
+#EXTINF:-1,M. DEP 1 HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/190.ts
+#EXTINF:-1,GOL TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/357.ts
+#EXTINF:-1,R. MADRID TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/242.ts
+#EXTINF:-1,BARCA TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/259.ts
+#EXTINF:-1,EUROSPORT1HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/192.ts
+#EXTINF:-1,EUROSPORT 2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/355.ts
+#EXTINF:-1,TOROS TV HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/379.ts
+#EXTINF:-1,BEINLALIGA1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/384.ts
+#EXTINF:-1,BEINLALIGA2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/383.ts
+#EXTINF:-1,BEIN MAX 1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/386.ts
+#EXTINF:-1,BEIN MAX 2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/385.ts
+#EXTINF:-1,NG WILD HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/185.ts
+#EXTINF:-1,VIAJAR HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/199.ts
+#EXTINF:-1,NAT GEO HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
+#EXTINF:-1,CAZA Y PESCA HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
+#EXTINF:-1,BABY TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/260.ts
+#EXTINF:-1,DISNEY CH HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/193.ts
+#EXTINF:-1,24 HORAS
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/263.ts
+#EXTINF:-1,NEOX
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/243.ts
+#EXTINF:-1,M. Cine Espaæol
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/245.ts
+#EXTINF:-1,LTC
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/246.ts
+#EXTINF:-1,PARAMOUNT
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/375.ts
+#EXTINF:-1,CANAL ODISEA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/345.ts
+#EXTINF:-1,Canal Extremadura SAT
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/344.ts
+#EXTINF:-1,CANAL DECASA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/343.ts
+#EXTINF:-1,NONSTOPEOPLE
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/373.ts
+#EXTINF:-1,MTV ESPA¹A
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/244.ts
+#EXTINF:-1,HISTORIA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/247.ts
+#EXTINF:-1,DIVINITY
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/250.ts
+#EXTINF:-1,DISNEY XD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/251.ts
+#EXTINF:-1,DISCOVERY
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/252.ts
+#EXTINF:-1,CRIMEN INVES
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/253.ts
+#EXTINF:-1,CLASSICA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/254.ts
+#EXTINF:-1,CANAL SUR A.
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/256.ts
+#EXTINF:-1,CANAL PANDA
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/257.ts
+#EXTINF:-1,BOING
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/258.ts
+#EXTINF:-1,ARAGON TV
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/261.ts
+#EXTINF:-1,A&E
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/262.ts
+#EXTINF:-1,C&I
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/341.ts
+#EXTINF:-1,ENERGY
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/352.ts
+#EXTINF:-1,TAQUILLA_1
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/86.ts
+#EXTINF:-1,TAQUILLA_2
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/87.ts
+#EXTINF:-1,TAQUILLA_3
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/88.ts
+#EXTINF:-1,TAQUILLA_4
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/89.ts
+#EXTINF:-1,TAQUILLA_5
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/90.ts
+#EXTINF:-1,TAQUILLA_6
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/91.ts
+#EXTINF:-1,TAQUILLA_7
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/92.ts
+#EXTINF:-1,TAQUILLA_8
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/93.ts
+#EXTINF:-1,TAQUILLA_9
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/94.ts
+#EXTINF:-1,TAQUILLA_10
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/95.ts
+#EXTINF:-1,TAQUILLA_11
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/96.ts
+#EXTINF:-1,TAQUILLA_12
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/97.ts
+#EXTINF:-1,TAQUILLA_13
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/98.ts
+#EXTINF:-1,TAQUILLA_14
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/99.ts
+#EXTINF:-1,TAQUILLA_15
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/100.ts
+#EXTINF:-1,TAQUILLA_16
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/101.ts
+#EXTINF:-1,TAQUILLA_17
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/102.ts
+#EXTINF:-1,TAQUILLA_18
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/103.ts
+#EXTINF:-1,TAQUILLA_19
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/104.ts
+#EXTINF:-1,TAQUILLA_20
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/105.ts
+#EXTINF:-1,TAQUILLA_21
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/106.ts
+#EXTINF:-1,TAQUILLA_22
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/107.ts
+#EXTINF:-1,TAQUILLA_23
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/108.ts
+#EXTINF:-1,TAQUILLA_24
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/109.ts
+#EXTINF:-1,TAQUILLA_25
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/110.ts
+#EXTINF:-1,TAQUILLA_26
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/111.ts
+#EXTINF:-1,TAQUILLA_27
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/112.ts
+#EXTINF:-1,TAQUILLA_28
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/113.ts
+#EXTINF:-1,TAQUILLA_29
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/114.ts
+#EXTINF:-1,TAQUILLA_30
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/115.ts
+#EXTINF:-1,TAQUILLA_31
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/116.ts
+#EXTINF:-1,TAQUILLA_32
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/117.ts
+#EXTINF:-1,TAQUILLA_33
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/118.ts
+#EXTINF:-1,TAQUILLA_34
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/119.ts
+#EXTINF:-1,TAQUILLA_35
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/120.ts
+#EXTINF:-1,TAQUILLA_36
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/121.ts
+#EXTINF:-1,TAQUILLA_37
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/122.ts
+#EXTINF:-1,TAQUILLA_38
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/123.ts
+#EXTINF:-1,TAQUILLA_39
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
+#EXTINF:-1,TAQUILLA_40
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
+#EXTINF:-1,SP: M. MOTO GP
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15438.ts
+#EXTINF:-1,SP: #0 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/12532.ts
+#EXTINF:-1,SP: 24 Horas
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13003.ts
+#EXTINF:-1,SP: 3/24
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7642.ts
+#EXTINF:-1,SP: 40 TV
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/12534.ts
+#EXTINF:-1,SP: AMC HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15421.ts
+#EXTINF:-1,SP: Andalucia TV
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7640.ts
+#EXTINF:-1,SP: Antena 3
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15474.ts
+#EXTINF:-1,SP: Antena 3 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7710.ts
+#EXTINF:-1,SP: AXN
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7709.ts
+#EXTINF:-1,SP: AXN HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7653.ts
+#EXTINF:-1,SP: AXN WHITE HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7708.ts
+#EXTINF:-1,SP: Azteca Noticias
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7638.ts
+#EXTINF:-1,SP: Barca TV
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7662.ts
+#EXTINF:-1,SP: beIN La Liga
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/12497.ts
+#EXTINF:-1,SP: Bein La Liga HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/16981.ts
+#EXTINF:-1,SP: Bein LaLiga HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13709.ts
+#EXTINF:-1,SP: BEIN MAX 1
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15453.ts
+#EXTINF:-1,SP: BEIN MAX 1 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15450.ts
+#EXTINF:-1,SP: BEIN MAX 2
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15454.ts
+#EXTINF:-1,SP: BEIN MAX 2 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15451.ts
+#EXTINF:-1,SP: BEIN MAX 3
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15455.ts
+#EXTINF:-1,SP: BEIN MAX 3 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15452.ts
+#EXTINF:-1,SP: BEIN MAX 4
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15456.ts
+#EXTINF:-1,SP: BEIN MAX 5
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15457.ts
+#EXTINF:-1,SP: BEIN MAX 6
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15458.ts
+#EXTINF:-1,SP: BEIN MAX 7
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15459.ts
+#EXTINF:-1,SP: BEIN MAX 8
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15460.ts
+#EXTINF:-1,SP: BeIN Sports FHD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13279.ts
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15440.ts
+#EXTINF:-1,SP: Boing
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7707.ts
+#EXTINF:-1,SP: CALLE 13 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7705.ts
+#EXTINF:-1,SP: Canal 2 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7634.ts
+#EXTINF:-1,SP: Canal 3 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7633.ts
+#EXTINF:-1,SP: Canal 41 Mar Del
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7632.ts
+#EXTINF:-1,SP: Canal 7 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7631.ts
+#EXTINF:-1,SP: Canal Cocina
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7629.ts
+#EXTINF:-1,SP: Canal Costa
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7628.ts
+#EXTINF:-1,SP: Canal De Las Estrellas
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7627.ts
+#EXTINF:-1,SP: Canal+ Liga
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7715.ts
+#EXTINF:-1,SP: Caza Y Pesca HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7688.ts
+#EXTINF:-1,SP: Clan TVE
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7720.ts
+#EXTINF:-1,SP: Comedy Central HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13710.ts
+#EXTINF:-1,SP: Comedy Central.
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7687.ts
+#EXTINF:-1,SP: Cosmo
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7621.ts
+#EXTINF:-1,SP: Cosmo HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13704.ts
+#EXTINF:-1,SP: Crime + Investigation
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13004.ts
+#EXTINF:-1,SP: CUATRO HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15411.ts
+#EXTINF:-1,SP: Cuatro.
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7686.ts
+#EXTINF:-1,SP: Discovery Channel
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7620.ts
+#EXTINF:-1,SP: Disney Channel
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7684.ts
+#EXTINF:-1,SP: Disney Channel HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15910.ts
+#EXTINF:-1,SP: Disney Jr.
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7683.ts
+#EXTINF:-1,SP: DISNEY XD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7682.ts
+#EXTINF:-1,SP: DIVINITY
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7714.ts
+#EXTINF:-1,SP: Energy
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7681.ts
+#EXTINF:-1,SP: Eurosport 1
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7680.ts
+#EXTINF:-1,SP: Eurosport 1 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15439.ts
+#EXTINF:-1,SP: Eurosport 2
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15475.ts
+#EXTINF:-1,SP: Fdf
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7679.ts
+#EXTINF:-1,SP: FOX FHD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7643.ts
+#EXTINF:-1,SP: FOX LIFE
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7677.ts
+#EXTINF:-1,SP: Fox Life HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13711.ts
+#EXTINF:-1,SP: Fox.
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7678.ts
+#EXTINF:-1,SP: Gol TV
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7702.ts
+#EXTINF:-1,SP: HISTORIA
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7676.ts
+#EXTINF:-1,SP: Hollywood FHD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7689.ts
+#EXTINF:-1,SP: IBERALIA TV
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15425.ts
+#EXTINF:-1,SP: LA 1
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15907.ts
+#EXTINF:-1,SP: LA 1 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7661.ts
+#EXTINF:-1,SP: LA 2
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7660.ts
+#EXTINF:-1,SP: LA LIGA
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15441.ts
+#EXTINF:-1,SP: LA LIGA BAR TV 1
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15430.ts
+#EXTINF:-1,SP: LA LIGA HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15428.ts
+#EXTINF:-1,SP: LA LIGA TV 1 SD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15442.ts
+#EXTINF:-1,SP: LA LIGA TV 2 SD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15443.ts
+#EXTINF:-1,SP: LA LIGA TV 3 SD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15444.ts
+#EXTINF:-1,SP: LA LIGA TV 4 SD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15445.ts
+#EXTINF:-1,SP: LA LIGA TV 5 SD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15446.ts
+#EXTINF:-1,SP: LA LIGA TV 6 SD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15447.ts
+#EXTINF:-1,SP: LA LIGA TV 7 SD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15448.ts
+#EXTINF:-1,SP: LA LIGA TV 8 SD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15449.ts
+#EXTINF:-1,SP: La Liga TV Bar
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13006.ts
+#EXTINF:-1,SP: LA LIGA TV BAR HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15429.ts
+#EXTINF:-1,SP: La Sexta
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15909.ts
+#EXTINF:-1,SP: La Sexta HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7674.ts
+#EXTINF:-1,SP: M. FUTBOL FHD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15433.ts
+#EXTINF:-1,SP: M. Accion
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7698.ts
+#EXTINF:-1,SP: M. ACCION HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15415.ts
+#EXTINF:-1,SP: M. Comedia
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7697.ts
+#EXTINF:-1,SP: M. COMEDIA FHD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15416.ts
+#EXTINF:-1,SP: M. Dcine
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7652.ts
+#EXTINF:-1,SP: M. DCINE HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15417.ts
+#EXTINF:-1,SP: M. DEPORTES 1 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15434.ts
+#EXTINF:-1,SP: M. Deportes 2
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/12545.ts
+#EXTINF:-1,SP: M. DEPORTES 2 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15435.ts
+#EXTINF:-1,SP: M. Depotes 1
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13009.ts
+#EXTINF:-1,SP: M. ESTRENOS FHD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15414.ts
+#EXTINF:-1,SP: M. Formula 1
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7617.ts
+#EXTINF:-1,SP: M. Formula 1 HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15437.ts
+#EXTINF:-1,SP: M. Futbol
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13008.ts
+#EXTINF:-1,SP: M. GOLF
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13010.ts
+#EXTINF:-1,SP: M. GOLF HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15436.ts
+#EXTINF:-1,SP: M. MotoGp HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7616.ts
+#EXTINF:-1,SP: M. PARTIDAZO HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15431.ts
+#EXTINF:-1,SP: M. Series
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7691.ts
+#EXTINF:-1,SP: M. SERIES HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15419.ts
+#EXTINF:-1,SP: M. Series Xtra
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7690.ts
+#EXTINF:-1,SP: M. SERIES XTRA HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15420.ts
+#EXTINF:-1,SP: M. XTRA
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7649.ts
+#EXTINF:-1,SP: M. XTRA FHD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15418.ts
+#EXTINF:-1,SP: M.Estrenos
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7703.ts
+#EXTINF:-1,SP: Mega Tv HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7713.ts
+#EXTINF:-1,SP: MTV Espana
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/12535.ts
+#EXTINF:-1,SP: MULTIDEPORTES 1
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15461.ts
+#EXTINF:-1,SP: MULTIDEPORTES 2
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15462.ts
+#EXTINF:-1,SP: MULTIDEPORTES 3
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15463.ts
+#EXTINF:-1,SP: MULTIDEPORTES 4
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15464.ts
+#EXTINF:-1,SP: National Geo
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7671.ts
+#EXTINF:-1,SP: National Geo HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13706.ts
+#EXTINF:-1,SP: National Geo Wild
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7672.ts
+#EXTINF:-1,SP: National Geo Wild HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13707.ts
+#EXTINF:-1,SP: Neox
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/14970.ts
+#EXTINF:-1,SP: Nick Jr.
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7670.ts
+#EXTINF:-1,SP: NICKELODEON HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7669.ts
+#EXTINF:-1,SP: NON STOP PEOPLE
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15427.ts
+#EXTINF:-1,SP: NOVA
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7668.ts
+#EXTINF:-1,SP: PARAMOUNT
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7716.ts
+#EXTINF:-1,SP: Proyecto 40
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7667.ts
+#EXTINF:-1,SP: Real Madrid
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7614.ts
+#EXTINF:-1,SP: Sol Musica
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7721.ts
+#EXTINF:-1,SP: SYFY
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7666.ts
+#EXTINF:-1,SP: SYFY HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7594.ts
+#EXTINF:-1,SP: Taquilla 1
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7612.ts
+#EXTINF:-1,SP: Taquilla 10
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7611.ts
+#EXTINF:-1,SP: Taquilla 2
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7610.ts
+#EXTINF:-1,SP: Taquilla 3
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7609.ts
+#EXTINF:-1,SP: Taquilla 4
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7608.ts
+#EXTINF:-1,SP: Taquilla 5
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7607.ts
+#EXTINF:-1,SP: Taquilla 6
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7606.ts
+#EXTINF:-1,SP: Taquilla 7
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7605.ts
+#EXTINF:-1,SP: Taquilla 8
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7604.ts
+#EXTINF:-1,SP: Taquilla 9
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7603.ts
+#EXTINF:-1,SP: TCM
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7665.ts
+#EXTINF:-1,SP: TCM HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15423.ts
+#EXTINF:-1,SP: TELECINCO
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/10008.ts
+#EXTINF:-1,SP: TELECINCO FHD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15412.ts
+#EXTINF:-1,SP: Teledeporte
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7658.ts
+#EXTINF:-1,SP: TELEVISA HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7657.ts
+#EXTINF:-1,SP: TNT
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7663.ts
+#EXTINF:-1,SP: TNT HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15422.ts
+#EXTINF:-1,SP: TOROS HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/15424.ts
+#EXTINF:-1,SP: Toros Tv
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7701.ts
+#EXTINF:-1,SP: TV Galicia
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7601.ts
+#EXTINF:-1,SP: VH1
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/7591.ts
+#EXTINF:-1,SP: Viajar HD
+http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/12542.ts
+#EXTINF:-1,[po] Record News
+http://ippo.zapto.org:8000/live/caglar/caglar/47.ts
+#EXTINF:-1,[po] Canção Nova
+http://ippo.zapto.org:8000/live/caglar/caglar/48.ts
+#EXTINF:-1,[po] CM TV
+http://ippo.zapto.org:8000/live/caglar/caglar/46.ts
+#EXTINF:-1,[po] Venus TV Argentina
+http://ippo.zapto.org:8000/live/caglar/caglar/42.ts
+#EXTINF:-1,[po] TVI Ficção
+http://ippo.zapto.org:8000/live/caglar/caglar/11.ts
+#EXTINF:-1,[po] TVI 24
+http://ippo.zapto.org:8000/live/caglar/caglar/12.ts
+#EXTINF:-1,[po] TVCine 4
+http://ippo.zapto.org:8000/live/caglar/caglar/13.ts
+#EXTINF:-1,[po] TVCine 3
+http://ippo.zapto.org:8000/live/caglar/caglar/14.ts
+#EXTINF:-1,[po] TVCine 2
+http://ippo.zapto.org:8000/live/caglar/caglar/15.ts
+#EXTINF:-1,[po] TVC 1
+http://ippo.zapto.org:8000/live/caglar/caglar/16.ts
+#EXTINF:-1,[po] TV Séries
+http://ippo.zapto.org:8000/live/caglar/caglar/17.ts
+#EXTINF:-1,[po] TV Record
+http://ippo.zapto.org:8000/live/caglar/caglar/18.ts
+#EXTINF:-1,[po] TV Globo
+http://ippo.zapto.org:8000/live/caglar/caglar/6.ts
+#EXTINF:-1,[po] Trace Urban
+http://ippo.zapto.org:8000/live/caglar/caglar/19.ts
+#EXTINF:-1,[po] Sy Fy Portugal
+http://ippo.zapto.org:8000/live/caglar/caglar/20.ts
+#EXTINF:-1,[po] Sport TV 4
+http://ippo.zapto.org:8000/live/caglar/caglar/22.ts
+#EXTINF:-1,[po] Sport TV 3
+http://ippo.zapto.org:8000/live/caglar/caglar/23.ts
+#EXTINF:-1,[po] Sport TV 2
+http://ippo.zapto.org:8000/live/caglar/caglar/24.ts
+#EXTINF:-1,[po] Sport TV 1
+http://ippo.zapto.org:8000/live/caglar/caglar/21.ts
+#EXTINF:-1,[po] SIC Noticias
+http://ippo.zapto.org:8000/live/caglar/caglar/8.ts
+#EXTINF:-1,[po] SIC Kids
+http://ippo.zapto.org:8000/live/caglar/caglar/9.ts
+#EXTINF:-1,[po] SIC
+http://ippo.zapto.org:8000/live/caglar/caglar/7.ts
+#EXTINF:-1,[po] RTP Madeira
+http://ippo.zapto.org:8000/live/caglar/caglar/5.ts
+#EXTINF:-1,[po] RTP 3
+http://ippo.zapto.org:8000/live/caglar/caglar/4.ts
+#EXTINF:-1,[po] RTP Africa
+http://ippo.zapto.org:8000/live/caglar/caglar/3.ts
+#EXTINF:-1,[po] RTP Açores
+http://ippo.zapto.org:8000/live/caglar/caglar/10.ts
+#EXTINF:-1,[po] RTP 2
+http://ippo.zapto.org:8000/live/caglar/caglar/2.ts
+#EXTINF:-1,[po] RTP 1
+http://ippo.zapto.org:8000/live/caglar/caglar/1.ts
+#EXTINF:-1,[po] Odisseia
+http://ippo.zapto.org:8000/live/caglar/caglar/25.ts
+#EXTINF:-1,[po] MTV Portugal
+http://ippo.zapto.org:8000/live/caglar/caglar/26.ts
+#EXTINF:-1,[po] Motors TV
+http://ippo.zapto.org:8000/live/caglar/caglar/27.ts
+#EXTINF:-1,[po] JimJam EMEA
+http://ippo.zapto.org:8000/live/caglar/caglar/28.ts
+#EXTINF:-1,[po] Fox News
+http://ippo.zapto.org:8000/live/caglar/caglar/29.ts
+#EXTINF:-1,[po] Eurosport
+http://ippo.zapto.org:8000/live/caglar/caglar/30.ts
+#EXTINF:-1,[po] Económico TV
+http://ippo.zapto.org:8000/live/caglar/caglar/31.ts
+#EXTINF:-1,[po] Disney Channel Portugal
+http://ippo.zapto.org:8000/live/caglar/caglar/33.ts
+#EXTINF:-1,[po] Discovery Channel Spain & Portugal
+http://ippo.zapto.org:8000/live/caglar/caglar/34.ts
+#EXTINF:-1,[po] Chelsea TV
+http://ippo.zapto.org:8000/live/caglar/caglar/35.ts
+#EXTINF:-1,[po] Canal Hollywood Portugal
+http://ippo.zapto.org:8000/live/caglar/caglar/36.ts
+#EXTINF:-1,[po] Canal de Historia
+http://ippo.zapto.org:8000/live/caglar/caglar/37.ts
+#EXTINF:-1,[po] Canal Cinemundo
+http://ippo.zapto.org:8000/live/caglar/caglar/38.ts
+#EXTINF:-1,[po] C-Music
+http://ippo.zapto.org:8000/live/caglar/caglar/39.ts
+#EXTINF:-1,[po] Benfica TV 2
+http://ippo.zapto.org:8000/live/caglar/caglar/40.ts
+#EXTINF:-1,[po] Baby TV
+http://ippo.zapto.org:8000/live/caglar/caglar/41.ts
+#EXTINF:-1,[po] ARTV
+http://ippo.zapto.org:8000/live/caglar/caglar/43.ts
+#EXTINF:-1,[po] AMC (Portugal)
+http://ippo.zapto.org:8000/live/caglar/caglar/44.ts
+#EXTINF:-1,[po] A Bola TV
+http://ippo.zapto.org:8000/live/caglar/caglar/45.ts
+#EXTINF:-1,[po] Record News
+http://ippo.zapto.org:8000/live/hamid/hamid/47.ts
+#EXTINF:-1,[po] Canção Nova
+http://ippo.zapto.org:8000/live/hamid/hamid/48.ts
+#EXTINF:-1,[po] CM TV
+http://ippo.zapto.org:8000/live/hamid/hamid/46.ts
+#EXTINF:-1,[po] Venus TV Argentina
+http://ippo.zapto.org:8000/live/hamid/hamid/42.ts
+#EXTINF:-1,[po] TVI Ficção
+http://ippo.zapto.org:8000/live/hamid/hamid/11.ts
+#EXTINF:-1,[po] TVI 24
+http://ippo.zapto.org:8000/live/hamid/hamid/12.ts
+#EXTINF:-1,[po] TVCine 4
+http://ippo.zapto.org:8000/live/hamid/hamid/13.ts
+#EXTINF:-1,[po] TVCine 3
+http://ippo.zapto.org:8000/live/hamid/hamid/14.ts
+#EXTINF:-1,[po] TVCine 2
+http://ippo.zapto.org:8000/live/hamid/hamid/15.ts
+#EXTINF:-1,[po] TVC 1
+http://ippo.zapto.org:8000/live/hamid/hamid/16.ts
+#EXTINF:-1,[po] TV Séries
+http://ippo.zapto.org:8000/live/hamid/hamid/17.ts
+#EXTINF:-1,[po] TV Record
+http://ippo.zapto.org:8000/live/hamid/hamid/18.ts
+#EXTINF:-1,[po] TV Globo
+http://ippo.zapto.org:8000/live/hamid/hamid/6.ts
+#EXTINF:-1,[po] Trace Urban
+http://ippo.zapto.org:8000/live/hamid/hamid/19.ts
+#EXTINF:-1,[po] Sy Fy Portugal
+http://ippo.zapto.org:8000/live/hamid/hamid/20.ts
+#EXTINF:-1,[po] Sport TV 4
+http://ippo.zapto.org:8000/live/hamid/hamid/22.ts
+#EXTINF:-1,[po] Sport TV 3
+http://ippo.zapto.org:8000/live/hamid/hamid/23.ts
+#EXTINF:-1,[po] Sport TV 2
+http://ippo.zapto.org:8000/live/hamid/hamid/24.ts
+#EXTINF:-1,[po] Sport TV 1
+http://ippo.zapto.org:8000/live/hamid/hamid/21.ts
+#EXTINF:-1,[po] SIC Noticias
+http://ippo.zapto.org:8000/live/hamid/hamid/8.ts
+#EXTINF:-1,[po] SIC Kids
+http://ippo.zapto.org:8000/live/hamid/hamid/9.ts
+#EXTINF:-1,[po] SIC
+http://ippo.zapto.org:8000/live/hamid/hamid/7.ts
+#EXTINF:-1,[po] RTP Madeira
+http://ippo.zapto.org:8000/live/hamid/hamid/5.ts
+#EXTINF:-1,[po] RTP 3
+http://ippo.zapto.org:8000/live/hamid/hamid/4.ts
+#EXTINF:-1,[po] RTP Africa
+http://ippo.zapto.org:8000/live/hamid/hamid/3.ts
+#EXTINF:-1,[po] RTP Açores
+http://ippo.zapto.org:8000/live/hamid/hamid/10.ts
+#EXTINF:-1,[po] RTP 2
+http://ippo.zapto.org:8000/live/hamid/hamid/2.ts
+#EXTINF:-1,[po] RTP 1
+http://ippo.zapto.org:8000/live/hamid/hamid/1.ts
+#EXTINF:-1,[po] Odisseia
+http://ippo.zapto.org:8000/live/hamid/hamid/25.ts
+#EXTINF:-1,[po] MTV Portugal
+http://ippo.zapto.org:8000/live/hamid/hamid/26.ts
+#EXTINF:-1,[po] Motors TV
+http://ippo.zapto.org:8000/live/hamid/hamid/27.ts
+#EXTINF:-1,[po] JimJam EMEA
+http://ippo.zapto.org:8000/live/hamid/hamid/28.ts
+#EXTINF:-1,[po] Fox News
+http://ippo.zapto.org:8000/live/hamid/hamid/29.ts
+#EXTINF:-1,[po] Eurosport
+http://ippo.zapto.org:8000/live/hamid/hamid/30.ts
+#EXTINF:-1,[po] Económico TV
+http://ippo.zapto.org:8000/live/hamid/hamid/31.ts
+#EXTINF:-1,[po] Disney Channel Portugal
+http://ippo.zapto.org:8000/live/hamid/hamid/33.ts
+#EXTINF:-1,[po] Discovery Channel Spain & Portugal
+http://ippo.zapto.org:8000/live/hamid/hamid/34.ts
+#EXTINF:-1,[po] Chelsea TV
+http://ippo.zapto.org:8000/live/hamid/hamid/35.ts
+#EXTINF:-1,[po] Canal Hollywood Portugal
+http://ippo.zapto.org:8000/live/hamid/hamid/36.ts
+#EXTINF:-1,[po] Canal de Historia
+http://ippo.zapto.org:8000/live/hamid/hamid/37.ts
+#EXTINF:-1,[po] Canal Cinemundo
+http://ippo.zapto.org:8000/live/hamid/hamid/38.ts
+#EXTINF:-1,[po] C-Music
+http://ippo.zapto.org:8000/live/hamid/hamid/39.ts
+#EXTINF:-1,[po] Benfica TV 2
+http://ippo.zapto.org:8000/live/hamid/hamid/40.ts
+#EXTINF:-1,[po] Baby TV
+http://ippo.zapto.org:8000/live/hamid/hamid/41.ts
+#EXTINF:-1,[po] ARTV
+http://ippo.zapto.org:8000/live/hamid/hamid/43.ts
+#EXTINF:-1,[po] AMC (Portugal)
+http://ippo.zapto.org:8000/live/hamid/hamid/44.ts
+#EXTINF:-1,[po] A Bola TV
+http://ippo.zapto.org:8000/live/hamid/hamid/45.ts
+#EXTINF:-1,DE:TNT SERIE
+http://ippo.zapto.org:8000/live/hamid/hamid/49.ts
+#EXTINF:-1,DE:SUPER RTL
+http://ippo.zapto.org:8000/live/hamid/hamid/50.ts
+#EXTINF:-1,DE:SRF 1
+http://ippo.zapto.org:8000/live/hamid/hamid/51.ts
+#EXTINF:-1,DE:SKY SELECT 4
+http://ippo.zapto.org:8000/live/hamid/hamid/52.ts
+#EXTINF:-1,DE:SKY SELECT 3
+http://ippo.zapto.org:8000/live/hamid/hamid/53.ts
+#EXTINF:-1,DE:SKY SELECT 2
+http://ippo.zapto.org:8000/live/hamid/hamid/54.ts
+#EXTINF:-1,DE:ZDF
+http://ippo.zapto.org:8000/live/hamid/hamid/70.ts
+#EXTINF:-1,DE:WDR
+http://ippo.zapto.org:8000/live/hamid/hamid/71.ts
+#EXTINF:-1,DE:VOX
+http://ippo.zapto.org:8000/live/hamid/hamid/72.ts
+#EXTINF:-1,DE:TNT FILM
+http://ippo.zapto.org:8000/live/hamid/hamid/73.ts
+#EXTINF:-1,DE:SKY SPORT 2
+http://ippo.zapto.org:8000/live/hamid/hamid/74.ts
+#EXTINF:-1,DE:SKY SPORT 1
+http://ippo.zapto.org:8000/live/hamid/hamid/75.ts
+#EXTINF:-1,DE:SKY SELECT 1
+http://ippo.zapto.org:8000/live/hamid/hamid/55.ts
+#EXTINF:-1,DE:SKY KRIMI
+http://ippo.zapto.org:8000/live/hamid/hamid/56.ts
+#EXTINF:-1,DE:SKY HITS
+http://ippo.zapto.org:8000/live/hamid/hamid/76.ts
+#EXTINF:-1,DE:SKY EMOTION
+http://ippo.zapto.org:8000/live/hamid/hamid/77.ts
+#EXTINF:-1,DE:SKY COMEDY
+http://ippo.zapto.org:8000/live/hamid/hamid/79.ts
+#EXTINF:-1,DE:SKY CINEMA 24
+http://ippo.zapto.org:8000/live/hamid/hamid/80.ts
+#EXTINF:-1,DE:SKY CINEMA 1
+http://ippo.zapto.org:8000/live/hamid/hamid/57.ts
+#EXTINF:-1,DE:SKY CINEMA
+http://ippo.zapto.org:8000/live/hamid/hamid/81.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA
+http://ippo.zapto.org:8000/live/hamid/hamid/82.ts
+#EXTINF:-1,DE:SKY ATLANTIC
+http://ippo.zapto.org:8000/live/hamid/hamid/78.ts
+#EXTINF:-1,DE:SKY ACTION
+http://ippo.zapto.org:8000/live/hamid/hamid/83.ts
+#EXTINF:-1,DE:SIXX
+http://ippo.zapto.org:8000/live/hamid/hamid/58.ts
+#EXTINF:-1,DE:SAT 1
+http://ippo.zapto.org:8000/live/hamid/hamid/84.ts
+#EXTINF:-1,DE:RTL CRIME
+http://ippo.zapto.org:8000/live/hamid/hamid/59.ts
+#EXTINF:-1,DE:RTL 2
+http://ippo.zapto.org:8000/live/hamid/hamid/85.ts
+#EXTINF:-1,DE:RTL 1
+http://ippo.zapto.org:8000/live/hamid/hamid/86.ts
+#EXTINF:-1,DE:PRO 7 MAXX
+http://ippo.zapto.org:8000/live/hamid/hamid/60.ts
+#EXTINF:-1,DE:PRO 7
+http://ippo.zapto.org:8000/live/hamid/hamid/87.ts
+#EXTINF:-1,DE:ORF 2
+http://ippo.zapto.org:8000/live/hamid/hamid/88.ts
+#EXTINF:-1,DE:ORF 1
+http://ippo.zapto.org:8000/live/hamid/hamid/89.ts
+#EXTINF:-1,DE:NATIONAL GEOGRAPHIC
+http://ippo.zapto.org:8000/live/hamid/hamid/62.ts
+#EXTINF:-1,DE:MGM
+http://ippo.zapto.org:8000/live/hamid/hamid/63.ts
+#EXTINF:-1,DE:KINOWELT TV
+http://ippo.zapto.org:8000/live/hamid/hamid/64.ts
+#EXTINF:-1,DE:DMAX
+http://ippo.zapto.org:8000/live/hamid/hamid/65.ts
+#EXTINF:-1,DE:DISNEY XD
+http://ippo.zapto.org:8000/live/hamid/hamid/66.ts
+#EXTINF:-1,DE:DISNEY JUNIOR
+http://ippo.zapto.org:8000/live/hamid/hamid/67.ts
+#EXTINF:-1,DE:DISNEY
+http://ippo.zapto.org:8000/live/hamid/hamid/68.ts
+#EXTINF:-1,DE:BOOMERANG
+http://ippo.zapto.org:8000/live/hamid/hamid/69.ts
+#EXTINF:-1,DE:ARD
+http://ippo.zapto.org:8000/live/hamid/hamid/61.ts
