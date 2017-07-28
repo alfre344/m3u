@@ -1,0 +1,36 @@
+
+#EXTM3U Thai
+#EXTINF:0, BANG TV
+rtsp://210.1.60.208:1935/live/bang.sdp
+#EXTINF:0, GRAND PRIX CHANNEL
+rtmp://27.131.141.254/grandprix/live
+#EXTINF:0, http://www.puangpaka.com:8134/AP001
+http://www.puangpaka.com:8134/AP001
+#EXTINF:0, INFINITY TV
+rtsp://202.142.207.150:1935/live/liveinfinity1
+#EXTINF:0, lu lek
+http://siptv.dyndns.tv:1935/sipbroadcast/_definst_/cop_gu_de_nug_i_here.stream/playlist.m3u8
+#EXTINF:0, lu lek
+http://siptv.dyndns.tv:1935/sipbroadcast/_definst_/cop_gu_de_nug_i_here.stream/playlist.m3u8
+#EXTINF:0, SABAIDEE TV
+rtsp://202.142.207.150:1935/live/livesabaidee1
+#EXTINF:0, Sun
+http://www.iyatv.com/Sports/Sun-Channel/
+#EXTINF:0, SUN
+rtmp://$OPT:rtmp-raw=rtmp://103.22.182.168/live/stream99 Playpath=stream99 swfUrl=http://player.longtailvideo.com/player5.9.swf
+#EXTINF:0, Thai
+http://180.183.184.217:9000/playlist.m3u8
+#EXTINF:0, Thai:CHANNEL 7
+http://je7.bugaboo.tv/liveedgech7_partner/720p/playlist.m3u8
+#EXTINF:0, TV MUSLIM
+rtmp://203.146.129.248/live5/livestream
+#EXTINF:0, TV online CH
+http://www.tvonlinech.com
+#EXTINF:0, VV
+http://yupptvrtmp-lh.akamaihd.net/i/blore_5@35278/master.m3u8
+#EXTINF:0, YAAKTV
+rtsp://202.142.207.150:1935/live/liveyaaktv1
+#EXTINF:0, YOU
+rtsp://202.142.207.150:1935/live/liveyouchannel1
+#EXTINF:0, ZAA NETWORK
+rtmp://110.164.48.249:1936/edgezaanetwork/zaa.stream_360p
