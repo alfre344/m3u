@@ -1,234 +1,428 @@
 #EXTM3U
-#EXTINF:-1,[007] #0
-rtp://@239.0.0.108:8208
-#EXTINF:-1,[030] Movistar Disney Pixar
-rtp://@239.0.1.188:8208
-#EXTINF:-1,[013] FOX
-rtp://@239.0.0.74:8208
-#EXTINF:-1,[020] FOX life
-rtp://@239.0.0.43:8208
-#EXTINF:-1,[014] AXN
-rtp://@239.0.0.14:8208
-#EXTINF:-1,[021] AXN White
-rtp://@239.0.0.62:8208
-#EXTINF:-1,[015] TNT
-rtp://@239.0.0.44:8208
-#EXTINF:-1,[017] Calle 13
-rtp://@239.0.0.13:8208
-#EXTINF:-1,[019] AMC
-rtp://@239.0.0.8:8208
-#EXTINF:-1,[022] Syfy
-rtp://@239.0.0.111:8208
-#EXTINF:-1,[038] Hollywood
-rtp://@239.0.0.16:8208
-#EXTINF:-1,[040] DARK
-rtp://@239.0.0.39:8208
-#EXTINF:-1,[037] TCM
-rtp://@239.0.6.5:8208
-#EXTINF:-1,[016] Comedy Central
-rtp://@239.0.0.68:8208
-#EXTINF:-1,[023] Non Stop People
-rtp://@239.0.0.212:8208
-#EXTINF:-1,[024] MTV España
-rtp://@239.0.0.211:8208
-#EXTINF:-1,[039] Sundance Channel
-rtp://@239.0.0.102:8208
-#EXTINF:-1,[018] COSMO
-rtp://@239.0.0.15:8208
-#EXTINF:-1,[070] National Geographic
-rtp://@239.0.0.103:8208
-#EXTINF:-1,[071] NAT GEO Wild
-rtp://@239.0.0.89:8208
-#EXTINF:-1,[072] Historia
-rtp://@239.0.0.19:8208
-#EXTINF:-1,[073] Discovery Channel
-rtp://@239.0.0.21:8208
-#EXTINF:-1,[074] ODISEA
-rtp://@239.0.0.22:8208
-#EXTINF:-1,[076] Viajar
-rtp://@239.0.0.20:8208
-#EXTINF:-1,[077] Discovery Max
-rtp://@239.0.0.32:8208
-#EXTINF:-1,[078] Crimen + Investigación
-rtp://@239.0.0.57:8208
-#EXTINF:-1,[079] CGTN Español
-rtp://@239.0.0.65:8208
-#EXTINF:-1,[080] Cocina
-rtp://@239.0.0.27:8208
-#EXTINF:-1,[081] Decasa
-rtp://@239.0.0.71:8208
-#EXTINF:-1,[087] Garage TV
-rtp://@239.0.0.99:8208
-#EXTINF:-1,[088] Canal Orbe 21
-rtp://@239.0.0.45:8208
-#EXTINF:-1,[090] Baby TV
-rtp://@239.0.0.113:8208
-#EXTINF:-1,[091] Disney Junior
-rtp://@239.0.0.10:8208
-#EXTINF:-1,[092] Canal Panda
-rtp://@239.0.0.117:8208
-#EXTINF:-1,[093] Nick Jr
-rtp://@239.0.0.115:8208
-#EXTINF:-1,[094] Nickelodeon
-rtp://@239.0.0.69:8208
-#EXTINF:-1,[095] Disney XD
-rtp://@239.0.0.11:8208
-#EXTINF:-1,[096] Disney Channel
-rtp://@239.0.0.64:8208
-#EXTINF:-1,[096] Disney Channel HD
-rtp://@239.0.0.173:8208
-#EXTINF:-1,[105] VH1
-rtp://@239.0.0.75:8208
-#EXTINF:-1,[112] Canal 24 Horas
-rtp://@239.0.0.78:8208
-#EXTINF:-1,[113] BBC world
-rtp://@239.0.0.30:8208
-#EXTINF:-1,[114] CNNi
-rtp://@239.0.0.40:8208
-#EXTINF:-1,[115] Fox News
-rtp://@239.0.7.65:8208
-#EXTINF:-1,[116] Euronews
-rtp://@239.0.0.28:8208
-#EXTINF:-1,[117] Al Jazeera 
-rtp://@239.0.7.66:8208
-#EXTINF:-1,[118] France 24
-rtp://@239.0.7.67:8208
-#EXTINF:-1,[119] Russia Today 
-rtp://@239.0.7.68:8208
-#EXTINF:-1,[120] CNBC Europe
-rtp://@239.0.7.69:8208
-#EXTINF:-1,[122] TV5 Monde Europe
-rtp://@239.0.0.31:8208
-#EXTINF:-1,[123] Bloomberg
-rtp://@239.0.0.29:8208
-#EXTINF:-1,[124] Intereconomía TV
-rtp://@239.0.0.63:8208
-#EXTINF:-1,[125] Libertad Digital
-rtp://@239.0.0.85:8208
-#EXTINF:-1,[129] CNC World
-rtp://@239.0.0.221:8208
-#EXTINF:-1,[143] EWTN
-rtp://@239.0.0.72:8208
-#EXTINF:-1,[150] Canal Sur Andalucía
-rtp://@239.0.0.1:8208
-#EXTINF:-1,[151] Galicia TV Europa
-rtp://@239.0.3.37:8208
-#EXTINF:-1,[152] Canal Extremadura SAT
-rtp://@239.0.0.52:8208
-#EXTINF:-1,[153] TV3CAT 
-rtp://@239.0.3.36:8208
-#EXTINF:-1,[008] TV3 HD
-rtp://@239.0.5.186:8208
-#EXTINF:-1,[154] ETB Sat
-rtp://@239.0.0.60:8208
-#EXTINF:-1,[155] Aragón TV Int
-rtp://@239.0.0.81:8208
-#EXTINF:-1,[010] beIN LaLiga
-rtp://@239.0.0.252:8208
-#EXTINF:-1,[047] beIN LaLiga HD
-rtp://@239.0.5.252:8208
-#EXTINF:-1,[048] beIN LaLiga 1
-rtp://@239.0.0.253:8208
-#EXTINF:-1,[048] beIN LaLiga 1 HD
-rtp://@239.0.5.253:8208
-#EXTINF:-1,[049] beIN LaLiga 2
-rtp://@239.0.0.254:8208
-#EXTINF:-1,[049] beIN LaLiga 2 HD
-rtp://@239.0.5.254:8208
-#EXTINF:-1,[050] beIN SPORTS
-rtp://@239.0.3.100:8208
-#EXTINF:-1,[050] beIN SPORTS HD 
-rtp://@239.0.9.80:8208
-#EXTINF:-1,[051] beIN MAX 1 
-rtp://@239.0.3.101:8208
-#EXTINF:-1,[051] beIN MAX 1 HD
-rtp://@239.0.9.81:8208
-#EXTINF:-1,[052] beIN MAX 2
-rtp://@239.0.3.102:8208
-#EXTINF:-1,[052] beIN MAX 2 HD
-rtp://@239.0.9.82:8208
-#EXTINF:-1,[060] Eurosport 1
-rtp://@239.0.0.18:8208
-#EXTINF:-1,[060] Eurosport 1 HD
-rtp://@239.0.9.135:8208
-#EXTINF:-1,[060] Eurosport 1 HD Nuevos paquetes
-rtp://@239.0.9.144:8208
-#EXTINF:-1,[061] Eurosport 2
-rtp://@239.0.0.37:8208
-#EXTINF:-1,[061] Eurosport 2 HD
-rtp://@239.0.5.105:8208
-#EXTINF:-1,[062] GOL 
-rtp://@239.0.0.7:8208
-#EXTINF:-1,[062] GOL HD
-rtp://@239.0.5.189:8208
-#EXTINF:-1,[063] Teledeporte
-rtp://@239.0.0.79:8208
-#EXTINF:-1,[063] Teledeporte HD
-rtp://@239.0.0.188:8208
-#EXTINF:-1,[064] Fútbol Replay
-rtp://@239.0.0.97:8208
-#EXTINF:-1,[029] M. eSports
-rtp://@239.0.3.30:8208
-#EXTINF:-1,[029] M. eSports HD
-rtp://@239.0.0.178:8208
-#EXTINF:-1,[053] Real Madrid TV 
-rtp://@239.0.0.83:8208
-#EXTINF:-1,[053] Real Madrid TV HD
-rtp://@239.0.0.179:8208
-#EXTINF:-1, [054] Barça TV
-rtp://@239.0.3.65:8208
-#EXTINF:-1,[001] La 1
-rtp://@239.0.0.76:8208
-#EXTINF:-1,[002] La 2
-rtp://@239.0.0.2:8208
-#EXTINF:-1,[003] Antena 3
-rtp://@239.0.0.3:8208
-#EXTINF:-1,[004] Cuatro
-rtp://@239.0.0.4:8208
-#EXTINF:-1,[005] Tele 5
-rtp://@239.0.0.5:8208
-#EXTINF:-1,[006] La Sexta
-rtp://@239.0.0.58:8208
-#EXTINF:-1,[025] FDF
-rtp://@239.0.0.84:8208
-#EXTINF:-1,[026] Neox
-rtp://@239.0.0.107:8208
-#EXTINF:-1,[027] Atreseries
-rtp://@239.0.3.29:8208
-#EXTINF:-1,[028] Energy
-rtp://@239.0.0.59:8208
-#EXTINF:-1,[041] 13 TV
-rtp://@239.0.0.91:8208
-#EXTINF:-1,[042] Ten
-rtp://@239.0.0.34:8208
-#EXTINF:-1,[043] Paramount Channel
-rtp://@239.0.0.90:8208
-#EXTINF:-1,[082] DKISS 
-rtp://@239.0.0.6:8208
-#EXTINF:-1,[083] Divinity
-rtp://@239.0.0.48:8208
-#EXTINF:-1,[084] Nova
-rtp://@239.0.0.106:8208
-#EXTINF:-1,[085] MEGA
-rtp://@239.0.3.31:8208
-#EXTINF:-1,[086] BeMad
-rtp://@239.0.0.17:8208
-#EXTINF:-1,[097] Boing
-rtp://@239.0.0.66:8208
-#EXTINF:-1,[098] Clan TVE
-rtp://@239.0.0.80:8208
-rtp://@239.0.7.133:8208
-#EXTINF:-1,[001] La 1 HD
-rtp://@239.0.0.185:8208
-#EXTINF:-1,[003] Antena 3 HD
-rtp://@239.0.0.186:8208
-#EXTINF:-1,[004] Cuatro HD
-rtp://@239.0.0.177:8208
-#EXTINF:-1,[005] Tele 5 HD
-rtp://@239.0.0.176:8208
-#EXTINF:-1,[006] La Sexta HD
-rtp://@239.0.0.187:8208
-#EXTINF:-1,[027] Atreseries HD
-rtp://@239.0.0.181:8208
-#EXTINF:-1,[086] BeMad HD
-rtp://@239.0.0.182:8208
+
+#EXTINF:-1,ES:LA 1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/110.ts
+#EXTINF:-1,ES:LA 1 HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/489.ts
+#EXTINF:-1,ES:LA 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/109.ts
+#EXTINF:-1,ES:ANTENA 3
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/111.ts
+#EXTINF:-1,ES:ANTENA 3 HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/500.ts
+#EXTINF:-1,ES:LA CUATRO
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/88.ts
+#EXTINF:-1,ES:LA CUATRO HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/497.ts
+#EXTINF:-1,ES:TELECINCO
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/496.ts
+#EXTINF:-1,ES:TELECINCO HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/79.ts
+#EXTINF:-1,ES:LA SEXTA OPCION 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/478.ts
+#EXTINF:-1,ES:AXN
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/18.ts
+#EXTINF:-1,ES:AXN HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/494.ts
+#EXTINF:-1,ES:AXN  WHITE
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/19.ts
+#EXTINF:-1,ES:AXN WHITE HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/479.ts
+#EXTINF:-1,ES:AMC
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/29.ts
+#EXTINF:-1,ES:AMC HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/493.ts
+#EXTINF:-1,ES:FOX
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/28.ts
+#EXTINF:-1,ES:FOX HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/495.ts
+#EXTINF:-1,ES:FOX LIFE HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/637.ts
+#EXTINF:-1,ES:FOX LIFE
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/20.ts
+#EXTINF:-1,ES:TNT
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/30.ts
+#EXTINF:-1,ES:TNT HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/492.ts
+#EXTINF:-1,ES: HOLLYWOOD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/23.ts
+#EXTINF:-1,ES:HOLLYWOOD HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/491.ts
+#EXTINF:-1,ES:CALLE 13 HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/631.ts
+#EXTINF:-1,ES:CALLE 13
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/24.ts
+#EXTINF:-1,ES:SYFY HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/638.ts
+#EXTINF:-1,ES:SYFY
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/15.ts
+#EXTINF:-1,ES:COSMOPOLITAN  HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/2.ts
+#EXTINF:-1,ES:COSMOS
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/629.ts
+#EXTINF:-1,XTREM
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/827.ts
+#EXTINF:-1,ES:COMEDY  CENTRAL
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/26.ts
+#EXTINF:-1,ES:PARAMOUNT CHANNEL
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/86.ts
+#EXTINF:-1,ES:TCM HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/652.ts
+#EXTINF:-1,ES:TCM
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/45.ts
+#EXTINF:-1,ES: DIVINITY
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/80.ts
+#EXTINF:-1,ES:NEOX
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/41.ts
+#EXTINF:-1,ES:NEOX OP2
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,ES: NOVA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/42.ts
+#EXTINF:-1,ES:NOVA op 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/503.ts
+#EXTINF:-1,ES: FDF
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/46.ts
+#EXTINF:-1,ES: ENERGY
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/72.ts
+#EXTINF:-1,ES:MEGA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/43.ts
+#EXTINF:-1,ES:DARK
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/628.ts
+#EXTINF:-1,ES:MOVISTAR  0#
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/1.ts
+#EXTINF:-1,ES:MOVISTAR 0# HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/480.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/17.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/482.ts
+#EXTINF:-1,ES:MOVISTAR  ACCION
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/21.ts
+#EXTINF:-1,ES:MOVISTAR ACCION HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/483.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/22.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/484.ts
+#EXTINF:-1,ES:MOVISTAR  DCINE
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/14.ts
+#EXTINF:-1,ES:MOVISTAR DCINE HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/485.ts
+#EXTINF:-1,ES:MOVISTAR DCINE  Ñ
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/48.ts
+#EXTINF:-1,ES:MOVISTAR XTRA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/13.ts
+#EXTINF:-1,ES:MOVISTAR SERIES HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/633.ts
+#EXTINF:-1,ES:MOVISTAR  SERIES
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/32.ts
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/626.ts
+#EXTINF:-1,ES:MOVISTAR  SERIES XTRA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/33.ts
+#EXTINF:-1,ES:MOVISTAR  TOROS TV
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/35.ts
+#EXTINF:-1,ES:TOROS HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/582.ts
+#EXTINF:-1,ES:BARCA  TV
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/25.ts
+#EXTINF:-1,ES:PANDA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/55.ts
+#EXTINF:-1,ES: BOING
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/36.ts
+#EXTINF:-1,ES:DISNEY  XD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/44.ts
+#EXTINF:-1,ES:DISNEY  JUNIOR
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/8.ts
+#EXTINF:-1,ES:DISNEY CHANNEL HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/661.ts
+#EXTINF:-1,ES:DISNEY  CHANNEL
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/6.ts
+#EXTINF:-1,ES:CLAN
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/4.ts
+#EXTINF:-1,ES:BABY  TV
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/5.ts
+#EXTINF:-1,ES:NICKELODEON HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/627.ts
+#EXTINF:-1,ES:NICKELODEON
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/70.ts
+#EXTINF:-1,ES:NICK JR
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/481.ts
+#EXTINF:-1,ES:NAT GEO
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/37.ts
+#EXTINF:-1,ES:NAT GEO HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/583.ts
+#EXTINF:-1,ES:NAT GEO WILD HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/651.ts
+#EXTINF:-1,ES:NAT GEO  WILD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/34.ts
+#EXTINF:-1,ES:HISTORIA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/52.ts
+#EXTINF:-1,ES:A&E
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/27.ts
+#EXTINF:-1,ES:CI
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/40.ts
+#EXTINF:-1,ES:VIAJAR HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/632.ts
+#EXTINF:-1,ES: Viajar
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/56.ts
+#EXTINF:-1,ES:CAZA  Y PESCA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/11.ts
+#EXTINF:-1,ES:CAZA Y PESCA HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/499.ts
+#EXTINF:-1,ES:DISCOVERY  CHANNEL
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/9.ts
+#EXTINF:-1,ES: ODISEA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/31.ts
+#EXTINF:-1,ES:COCINA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/117.ts
+#EXTINF:-1,ES:MTV
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/7.ts
+#EXTINF:-1,ES:CASA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/449.ts
+#EXTINF:-1,ES:Non Stop People
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/507.ts
+#EXTINF:-1,ES:SUR ANDALUCIA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/498.ts
+#EXTINF:-1,ES:MOVISTAR  DEPORTE
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/77.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/487.ts
+#EXTINF:-1,ES:MOVISTAR  DEPORTE 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/78.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE 2 HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/488.ts
+#EXTINF:-1,ES:BEIN  LALIGA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/50.ts
+#EXTINF:-1,ES:BEIN LALIGA HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/505.ts
+#EXTINF:-1,ES:Bein Sport ESPAÑA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/49.ts
+#EXTINF:-1,ES:Bein Sport HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/486.ts
+#EXTINF:-1,ES:MOVISTAR FUTBOL HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/636.ts
+#EXTINF:-1,ES:MOVISTAR  FUTBOL
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/39.ts
+#EXTINF:-1,ES:PARTIDAZOS
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/118.ts
+#EXTINF:-1,ES:PARTIDAZOS HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/504.ts
+#EXTINF:-1,ES:MOVISTAR F1 HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/630.ts
+#EXTINF:-1,ES:MOVISTAR  F1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/53.ts
+#EXTINF:-1,ES:MOTO GP HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/819.ts
+#EXTINF:-1,ES:MOVISTAR  MOTO GP
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/54.ts
+#EXTINF:-1,ES:MOVISTAR  GOLF
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/16.ts
+#EXTINF:-1,ES:MOVISTAR GOLF HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/826.ts
+#EXTINF:-1,ES:EUROSPORT  ES
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/83.ts
+#EXTINF:-1,ES:Eurosport  2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/47.ts
+#EXTINF:-1,ES:BEIN LALIGA 1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/245.ts
+#EXTINF:-1,ES:BEIN  LALIGA 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/246.ts
+#EXTINF:-1,ES: BEIN  LALIGA 3
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/247.ts
+#EXTINF:-1,ES: BEIN  LALIGA 4
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/248.ts
+#EXTINF:-1,ES: BEIN  LALIGA 5
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/249.ts
+#EXTINF:-1,ES:BEIN  LALIGA 6
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/250.ts
+#EXTINF:-1,ES:BEIN LALIGA 7
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/251.ts
+#EXTINF:-1,ES:Bein Sports MAX 1  España
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/252.ts
+#EXTINF:-1,ES:Bein Sports MAX 2  España
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/253.ts
+#EXTINF:-1,ES:Bein Sports MAX 3  España
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/254.ts
+#EXTINF:-1,ES:Bein Sports MAX 4  España
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/255.ts
+#EXTINF:-1,ES:Bein Sports MAX 5  España
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/256.ts
+#EXTINF:-1,ES:Bein Sports MAX 6  España
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/257.ts
+#EXTINF:-1,ES:Bein Sports MAX 7  España
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/258.ts
+#EXTINF:-1,ES:MULTIDEPORTE  1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/268.ts
+#EXTINF:-1,ES:MULTIDEPORTE  2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/269.ts
+#EXTINF:-1,ES:MULTIDEPORTE  3
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/270.ts
+#EXTINF:-1,ES:MULTIDEPORTE  4
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/271.ts
+#EXTINF:-1,ES:MULTIDEPORTE  5
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/272.ts
+#EXTINF:-1,ES:MULTIDEPORTE  6
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/273.ts
+#EXTINF:-1,ES:MULTIDEPORTE  7
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/274.ts
+#EXTINF:-1,ES:MULTIFUTBOL  1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/260.ts
+#EXTINF:-1,ES:MULTIFUTBOL  2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/261.ts
+#EXTINF:-1,ES:MULTIFUTBOL  3
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/262.ts
+#EXTINF:-1,ES:MULTIFUTBOL  4
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/263.ts
+#EXTINF:-1,ES:MULTIFUTBOL  5
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/264.ts
+#EXTINF:-1,ES:MULTIFUTBOL  6
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/265.ts
+#EXTINF:-1,ES:MULTIFUTBOL  7
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/266.ts
+#EXTINF:-1,ES:MULTIFUTBOL  8
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/267.ts
+#EXTINF:-1,ES:GOL TV
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/76.ts
+#EXTINF:-1,ES:LIGATV BAR
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/454.ts
+#EXTINF:-1,ES:TELEDEPORTE
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/451.ts
+#EXTINF:-1,ES:REAL MADRID TV
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/545.ts
+#EXTINF:-1,*********** [UK SPORT CHANNEL] ***********
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/184.ts
+#EXTINF:-1,UK: Sky Sports Main Event
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/93.ts
+#EXTINF:-1,UK:Sky Sport Cricket
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/94.ts
+#EXTINF:-1,UK:Sky Sport Action
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/95.ts
+#EXTINF:-1,UK:Sky  Sports 4
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/96.ts
+#EXTINF:-1,UK: Sky Sport Premier League
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/97.ts
+#EXTINF:-1,UK:Sky  Sports  F1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/848.ts
+#EXTINF:-1,UK:BT Sports  1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/100.ts
+#EXTINF:-1,UK:BT  Sports 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/101.ts
+#EXTINF:-1,UK:BT  Sports 3
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/187.ts
+#EXTINF:-1,UK: Disney Channel
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/712.ts
+#EXTINF:-1,UK: Disney Junior
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/713.ts
+#EXTINF:-1,UK: Disney XD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/714.ts
+#EXTINF:-1,UK: ESPN
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/716.ts
+#EXTINF:-1,UK: FOX
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/719.ts
+#EXTINF:-1,UK: MTV
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/728.ts
+#EXTINF:-1,UK: Setanta Sports 1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/734.ts
+#EXTINF:-1,UK: Sky Sport News
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/745.ts
+#EXTINF:-1,UK:BBC 1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/815.ts
+#EXTINF:-1,UK:BBC 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/816.ts
+#EXTINF:-1,UK:BBC 3
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/817.ts
+#EXTINF:-1,UK:BBC 4
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/818.ts
+#EXTINF:-1,UK:EUROSPORT 1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/812.ts
+#EXTINF:-1,UK:EUROSPORT 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/813.ts
+#EXTINF:-1,UK:FOX
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/814.ts
+#EXTINF:-1,USA:NBA  TV
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/65.ts
+#EXTINF:-1,USA:Tsn Sport 1 HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/238.ts
+#EXTINF:-1,USA:Tsn Sport 2 HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/239.ts
+#EXTINF:-1,USA:Tsn  Sport 3 HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/240.ts
+#EXTINF:-1,USA:Tsn  Sport 4 HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/241.ts
+#EXTINF:-1,USA:Tsn  Sport 5 HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/242.ts
+#EXTINF:-1,USA:UFC NETWORK
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/294.ts
+#EXTINF:-1,USA:BOX NATION  HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/292.ts
+#EXTINF:-1,US:WWE
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/663.ts
+#EXTINF:-1,US:BEIN SPORT USA
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/811.ts
+#EXTINF:-1,US:Fight Sport
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/809.ts
+#EXTINF:-1,US:NFL HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/810.ts
+#EXTINF:-1,USA:HBO
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/884.ts
+#EXTINF:-1,LATINO :SUN CHANNEL
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/148.ts
+#EXTINF:-1,LATINO:CLARO SPORT
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/467.ts
+#EXTINF:-1,LATINO:ESPN
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/468.ts
+#EXTINF:-1,LATINO:ESPN 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/469.ts
+#EXTINF:-1,LATINO:ESPN 3
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/470.ts
+#EXTINF:-1,LATINO:FOX SPORT
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/472.ts
+#EXTINF:-1,LATINO:FOX SPORT 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/473.ts
+#EXTINF:-1,LATINO:FOX SPORT 3
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/662.ts
+#EXTINF:-1,LATINO:AZTECA 7
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/459.ts
+#EXTINF:-1,LATINO:FOX
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/460.ts
+#EXTINF:-1,LATINO:TNT
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/465.ts
+#EXTINF:-1,LATINO:UNIVISION TDN
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/448.ts
+#EXTINF:-1,LATINO:VTV  URUGAY
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/291.ts
+#EXTINF:-1,LATINO:WIN SPORT HD
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/466.ts
+#EXTINF:-1,LATINO:AMC
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/558.ts
+#EXTINF:-1,LATINO:AXN
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/559.ts
+#EXTINF:-1,LATINO:CINEMAX
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/560.ts
+#EXTINF:-1,LATINO:TELEFE
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/580.ts
+#EXTINF:-1,LATINO:TELEMUNDO
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/656.ts
+#EXTINF:-1,LATINO:RCN
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/658.ts
+#EXTINF:-1,LATINO:BEIN SPORT Ñ
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/659.ts
+#EXTINF:-1,LATINO:Caracol
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/660.ts
+#EXTINF:-1,LATINO:F1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/820.ts
+#EXTINF:-1,LATINO:GOLTV
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/821.ts
+#EXTINF:-1,LATINO:HBO 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/883.ts
+#EXTINF:-1,*********** [TURKY SPORT CHANNEL] ***********
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/204.ts
+#EXTINF:-1,TR:Ligtv  1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/203.ts
+#EXTINF:-1,TR:LIGTV 2
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/220.ts
+#EXTINF:-1,TR:Ligtv 3
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/221.ts
+#EXTINF:-1,TR:TRT 1
+http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/218.ts
