@@ -1,339 +1,45 @@
 #EXTM3U
-
-
-
-#EXTINF:-1, caracol tv
-
-http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?&dnt=true&ref=http
-
-
-
-%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html
-
-#EXTINF:-1, cinemax tv
-
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/481.flv
-
-#EXTINF:-1,claro sport tv
-
-http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
-
-#EXTINF:-1,fox tv
-
-http://edge7.telesport.pw/live/foxlatino/index.m3u8
-
-#EXTINF:-1,sony tv
-
-http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1,a&e
-
-http://edge5204.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
-
-#EXTINF:-1,espn
-
-http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
-
-#EXTINF:-1,fox live
-
-http://edge3.telesport.pw/live/foxlife/index.m3u8
-
-#EXTINF:-1,fox
-
-http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ
-
-
-
-%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1,warner chanel
-
-http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ
-
-
-
-%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1,tdn ecuador
-
-http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1,golden hd
-
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/436.flv
-
-#EXTINF:-1,discovery channel
-
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/371.flv
-
-#EXTINF:-1,tnt hd
-
-http://edge1.telesport.pw/live/tnt/index.m3u8
-
-#EXTINF:-1,rcn hd
-
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
-
-#EXTINF:-1,latina peru
-
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
-
-#EXTINF:-1,fox sport 1
-
-http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live
-
-
-
-%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?
-
-
-
-chile.m3u8
-
-#EXTINF:-1,sky sport
-
-http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299//index_3400_av-p.m3u8
-
-#EXTINF:-1,nat geo
-
-http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1,cdf premiun
-
-http://cdn2.shurs.xyz/verliga/2/chunks.m3u8
-
-#EXTINF:-1,ectv
-
-http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,pinguino tv
-
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?tecnotv.info?
-
-
-
-iptv.m3u8
-
-#EXTINF:-1,univision tdn
-
-http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,logan
-
-http://bit.ly/LOGANMOVIE
-
-#EXTINF:-1,la gran muralla
-
-http://bit.ly/MRAQCWALL
-
-#EXTINF:-1,la mina
-
-http://bit.ly/THEMINE
-
-#EXTINF:-1,la bella y la bestia
-
-http://bit.ly/LABELLAYLABESTIAMOVIE
-
-#EXTINF:-1,sandy wesler
-
-http://bit.ly/MRAQCSAND
-
-#EXTINF:-1,National geography
-
-http://edge3.telesport.pw/live/nationalgeo/index.m3u8
-
-#EXTINF:-1,universal channel
-
-http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ
-
-
-
-%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1,axn
-
-http://edge1.telesport.pw/live/axn/index.m3u8
-
-#EXTINF:-1,panamericana
-
-https://cdnh15.iblups.com/hls/ptv.m3u8
-
-#EXTINF:-1,mi musica
-
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-
-#EXTINF:-1,tdn
-
-http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
-
-#EXTINF:-1, dark españa
-
-http://edge5204.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
-
-#EXTINF:-1,tc hd
-
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-
-#EXTINF:-1,oromar tv
-
-http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1,directv sport 2
-
-http://madevalchile.com/latino2bsdlcj5454-106.m3u8
-
-#EXTINF:-1,fox sport 2
-
-http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1,amc
-
-http://edge4.telesport.pw/live/amc/index.m3u8
-
-#EXTINF:-1,movistar estrenos
-
-http://edge1.telesport.pw/live/plusestrenos/index.m3u8
-
-#EXTINF:-1,space hd
-
-http://23.237.22.2:8080/lstream4/402/10/5bac2479610bead6bf7939891285f5fd/445.flv
-
-#EXTINF:-1,hbo famyli
-
-https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
-
-#EXTINF:-1,hbo
-
-https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
-
-#EXTINF:-1,hbo 2
-
-https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
-
-#EXTINF:-1,espn+
-
-https://freedom.dreamsmx.com/freedom/espn+/playlist.m3u8
-
-#EXTINF:-1,de film zone
-
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/440.flv
-
-#EXTINF:-1,dragon ball z
-
-http://s2.tvplayerlatino.com/dragonball/index.m3u8
-
-#EXTINF:-1,tnt latino
-
-http://edge9.verliga.club/live/tntlatino/index.m3u8
-
-#EXTINF:-1,espn
-
-https://live94.vkuserlive.com/637611/live/1gJD5yNAfz8WazIP/playlist.m3u8
-
-#EXTINF:-1,espn 2
-
-https://live55.vkuserlive.com/639911/live/1kYH5yNAfz9tbQ0g/playlist.m3u8
-
-#EXTINF:-1,espn 3
-
-http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1,claro sport
-
-http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u
-
-
-
-8
-
-#EXTINF:-1,fox famili
-
-https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
-
-#EXTINF:-1,disney junior
-
+#EXTINF:-1,DARK
+http://flus1.sanpedrowifi.com/live/buzzrojo.SD.IRD/mono.m3u8
+#EXTINF:-1,XTRM
+http://flus1.sanpedrowifi.com/live/xtrm.SD.IRD/mono.m3u8
+#EXTINF:-1,XTRM HD
+http://flus1.sanpedrowifi.com/live/xtreme.HD.xtra/mono.m3u8
+#EXTINF:-1,Somos
+http://flus1.sanpedrowifi.com/live/somos.SD.IRD/mono.m3u8
+#EXTINF:-1,Hollywood
+http://flus1.sanpedrowifi.com/live/hollywood.SD.IRD/mono.m3u8
+#EXTINF:-1,Hollywood HD
+http://flus1.sanpedrowifi.com/live/hollywood.HD.xtra/mono.m3u8
+#EXTINF:-1,Paramount
+http://flus1.sanpedrowifi.com/live/paramount.sd.ird/mono.m3u8
+#EXTINF:-1,Decasa
+http://flus1.sanpedrowifi.com/live/decasa.SD.IRD/mono.m3u8
+#EXTINF:-1,Decasa HD
+http://flus1.sanpedrowifi.com/live/decasa.HD.xtra/mono.m3u8
+#EXTINF:-1,DKISS
+http://flus1.sanpedrowifi.com/live/dkiss.SD.IRD/mono.m3u8
+#EXTINF:-1,Canal Panda
+http://flus1.sanpedrowifi.com/live/panda.SD.IRD/mono.m3u8
+#EXTINF:-1,Disney Junior
+http://flus1.sanpedrowifi.com/live/disneyjnr.SD.IRD/mono.m3u8
+#EXTINF:-1,Nick Junior
+http://flus1.sanpedrowifi.com/live/nickjnr.SD.IRD/mono.m3u8
+#EXTINF:-1,Disney Channel
 http://flus1.sanpedrowifi.com/live/disneychannel.sd.ird/mono.m3u8
-
-#EXTINF:-1,disney channel
-
-http://edge5201.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
-
-#EXTINF:-1,cine ñ
-
-http://bit.ly/2sX0gUg
-
-#EXTINF:-1,animal planet
-
-http://23.237.22.2:8080/lstream4/402/10/5bac2479610bead6bf7939891285f5fd/373.flv
-
-#EXTINF:-1,sahara
-
-http://bit.ly/SAHARAMOVIE
-
-#EXTINF:-1,GENEPELICULAS:el-mensajero-de-la-oscuridad
-
-http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,GENEPELICULAS:hermanos grimm
-
-http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,GENEPELICULAS:peligro en bangkok
-
-http://discontrol@media-es-am.crackle.com/1/o/n0/cdoyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,GENEPELICULAS:perfume
-
-http://discontrol@media-es-am.crackle.com/1/0/n0/seoyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,GENEPELICULAS:alto impacto
-
-http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,GENEPELICULAS:el gran robo
-
-http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,GENEPELICULAS:zona de miedo
-
-http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,GENEPELICULAS:el dia del apocalipsis
-
-http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,GENEPELICULAS el senor de la guerra
-
-http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,GENEPELICULAS fiesta de bodas
-
-http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,La Mujer Maravillas
-
-http://cecegeek@goo.gl/BDYRae
-
-#EXTINF:-1,Kong
-
-http://cecegeek@goo.gl/Jnwp4r
-
-#EXTINF:-1,Power Rangers
-
-http://cecegeek@goo.gl/mVz755
-
-#EXTINF:-1,Feed
-
-http://cecegeek@goo.gl/5YmT75
-
-#EXTINF:-1,No Toques 2 Veces
-
-http://cecegeek@goo.gl/mT1X47
-
-#EXTINF:-1,Mio o De Nadie
-
-http://cecegeek@goo.gl/otWAv3
-
-#EXTINF:-1,sin nombre
-
-http://cecegeek@goo.gl/qTbqAc
+#EXTINF:-1,Disney XD
+http://flus1.sanpedrowifi.com/live/disneyxd.SD.IRD/mono.m3u8
+#EXTINF:-1,Boing
+http://flus1.sanpedrowifi.com/live/boing.SD.IRD/mono.m3u8
+#EXTINF:-1,Clan
+http://flus1.sanpedrowifi.com/live/clan.SD.ird/mono.m3u8
+#EXTINF:-1,Nickelodeon
+http://flus1.sanpedrowifi.com/live/nickelodeon.SD.IRD/mono.m3u8
+#EXTINF:-1,Canal 24 Horas
+http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
+#EXTINF:-1,Canal Sur
+http://flus1.sanpedrowifi.com/live/canalsur.SD.xtra/mono.m3u8
+#EXTINF:-1,Telemadrid HD
+http://flus1.sanpedrowifi.com/live/telemadrid.HD.xtra/mono.m3u8
+#EXTINF:-1,TV3
+http://flus1.sanpedrowifi.com/live/tv3.SD.xtra/mono.m3u8
