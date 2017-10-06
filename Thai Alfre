@@ -2,8 +2,7 @@
 #EXTINF:-1 tvg-logo="https://photos.app.goo.gl/nEXKxjOxqz53AVPI3" group-title="LABEL",* Alfre Thai TV
 https://photos.app.goo.gl/LoJEhxWuvfqmh3LR2
 #EXTINF:-1,CH3 (33) TH
-http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-
-v2&x_ark_expires=1507324865&x_ark_path_prefix=/live/&x_ark_signature=B1raZMo53BiztVDr4P3S3w&x_ark_user_agent=1
+http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1507324865&x_ark_path_prefix=/live/&x_ark_signature=B1raZMo53BiztVDr4P3S3w&x_ark_user_agent=1
 #EXTINF:-1,CH3 (28) TH
 http://ch3-28-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=lGu9hVLP35R8nmsn&x_ark_auth_type=ark-v2&x_ark_expires=1507324602&x_ark_path_prefix=/live/&x_ark_signature=JLNHb2oiydN4Nk0pYGxWBA&x_ark_user_agent=1
 #EXTINF:-1,CH3 (13 Family) TH
