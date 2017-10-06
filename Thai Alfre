@@ -5,3 +5,5 @@ http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
 http://203.146.129.233:1935/live/suwan/playlist.m3u8
 #EXTINF:-1,Spring TH
 http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1,Thai PBS TH
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
