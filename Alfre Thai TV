@@ -6,7 +6,7 @@ http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5
 #EXTINF:-1,CH3 (28) TH
 http://ch3-28-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=lGu9hVLP35R8nmsn&x_ark_auth_type=ark-v2&x_ark_expires=1507324602&x_ark_path_prefix=/live/&x_ark_signature=JLNHb2oiydN4Nk0pYGxWBA&x_ark_user_agent=1
 #EXTINF:-1,CH3 (13 Family) TH
-http://ch3-13-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=PXiuC2eRe3Z4Yyrs&x_ark_auth_type=ark-v2&x_ark_expires=1507325041&x_ark_path_prefix=/live/&x_ark_signature=4ER5C5ezRbgz3Qa5nX4IdQ&x_ark_user_agent=1
+http://ch3-13-web.cdn.byteark.com/live/playlist_240p/index.m3u8?x_ark_access_id=PXiuC2eRe3Z4Yyrs&x_ark_auth_type=ark-v2&x_ark_expires=1507527155&x_ark_path_prefix=/live/&x_ark_signature=3jxXhjFjIX_ExhlCdNCIDw&x_ark_user_agent=1
 #EXTINF:-1,CH5 TH
 http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
 #EXTINF:-1,CH5 Source 2 TH
