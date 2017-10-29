@@ -1,26 +1,24 @@
 #EXTM3U
-group,Thai - Spanish
-#EXTINF:-1 group-title="Thai"  tvg-logo="https://lh3.googleusercontent.com/GqTkEjHGsxJjD0XkqGW7T7z3XARpK1LtiK7zMF36dpG1G_sXRgPB5pdxt7tcCS_ADIpdfgCS8s7zbZwCUiOHXrzJZTe5BWZPHefIf-SqRYiWvdf5TjrUybKoPnBBScnal7wttQl0eyXfErmD95McbZhzyYnFUpygv3q_DyfbJvgBjvq9OmgabTkH8uh_q2j-Q6JMLRJuRu4Ai6I3g4m9zZMIdR8rFvU25lSy7GrNFAWDsXMpwFhBqbEUXjAGm3j9ivrgmKEhqsJ1NVMhRxhGO4Qa8Q65pWR08TZTXF31xEWs34SlftlX9kmp4s_Newg3DzRlc1gqjNgIDgvjs7KFoISD46nixD81h8XgHeZwIYeAkKt25AU8fOiQkrkjljPPrvORWdumlBvggR4oOvzOy83T2Ldf7EAz8yGd1Khm_yZsNnNO6p2J_5yriHVKaLJTIVmz4lAAS7ngCKw0YP6u5QtOjCBuHsHUCpqrnffcmy2r0BxckmlK3GPu4EfoGbuEXXW1ysG0oWPg3e6HjTm8NwcH51SRfAOct6b9_9MYso5tqFIVbQDeVIt2jyF3VEscngTceLOq1OL4ZksZoLT-eCcufsBMfPCUjHqzZloHQTyA8CDicGgwqvU4wO5XVA_GWaVBs_j6zrEZsyF0zJWSlXgEEBwLRim7gG7H=w612-h1086-no" group-title="LABEL",* Alfre Thai TV
-https://video-downloads.googleusercontent.com/AB5UKHa_0g8llYkil_OSLIt_gHEL3Fh8oZYEG7XQbqlm4vr_L53Gar7EH6mCLTCkfYeTc0rxI1sMxg1a-wfacjArivMBXfuAJmTKF51SGfk0pmj5DOR_j0aQFqjtW1FszWCoS4JKHibxbY6evM8cOdGd1XTX-mdStQInCIPG1aLM3utcCw_Sdiu01RRuS-FjvpSPwZF_mVlRw1apurbkvhYzg51HWX1lkce50M7cIZuSOATHHDHsDoiFdB9uc3xNfq5iczdEZkcQ5ciOUQi3QPNZgG0z1gq_1qS2Q_dburv6RAwtrqzS2WJuHRYIwv16fOsFIQAw2yorkxaYl9KDUY4gY46OnsbgRhI7wYMSjE15Lz9Jbzo-fwiMexZjG5bxeWLsPcgcM00u8voKiYjDtSpLAmCIk1wJE6I5H9mm72dLxA4239mxUy147jw8ZBoyykKa4-Y6OaVc4WjSGFYVU_xEU6EPZIlddOyvSFi0crpuMgYBuVfunSk5Kx18rqxJRACG3xJaFyGNKjHNqQMTCxzv6jfzHuPdYJnQO1f9kO_XaqrFOCQTvnqdrP33vayDW7yUyokhUOwK5uxcTvGpLhW3Cg4dHXLN2D37KWd5l6UtrMGKxmc-e3wQE6tEvaRzFMy2jUMQ8WkfTcED5hxklPTvxTe4DucHKikj_9-qZ_g8LXWBoKuRLjftUGBBm2A1UHqVgNokLT5mEMiDYg928S25UauKg9knJaDHCeID1DPv4SoWTfyPSnDTxR0Hm5uFQCGMplCFG3LBBefKgrBSpxaokcRnY5sJJgiSWD_6fln6K4kb1o2x6eTmYkEhwqFHI2LPBFLBxne28HDRfeIUGy--x7Gfc-Lw-rRpcIzHfx7pltGV7q4toadfOuEOVv5RwP6qi8Mn8kAaXk9GIlh3Ir6_Gwwzlz3bpsmSBOAIRf9XdUiJFv-14fUV7THErQnS_B4RPyXPSd0q
+
 #EXTINF:-1  ,CH3 (33) TH
 http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1507324865&x_ark_path_prefix=/live/&x_ark_signature=B1raZMo53BiztVDr4P3S3w&x_ark_user_agent=1
-#EXTINF:-1 ,CH3 (28) TH
+#EXTINF:-1 group-title="THAI", CH3 (28) TH
 http://ch3-28-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=lGu9hVLP35R8nmsn&x_ark_auth_type=ark-v2&x_ark_expires=1507527771&x_ark_path_prefix=/live/&x_ark_signature=dcuMcX_86S_JKO8Q7_RAjA&x_ark_user_agent=1
-#EXTINF:-1 ,CH3 (13 Family) TH
+#EXTINF:-1 group-title="THAI", CH3 (13 Family) TH
 http://ch3-13-web.cdn.byteark.com/live/playlist_240p/index.m3u8?x_ark_access_id=PXiuC2eRe3Z4Yyrs&x_ark_auth_type=ark-v2&x_ark_expires=1507527155&x_ark_path_prefix=/live/&x_ark_signature=3jxXhjFjIX_ExhlCdNCIDw&x_ark_user_agent=1
-#EXTINF:-1, CH5 TH
+#EXTINF:-1 group-title="THAI", CH5 TH
 http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
-#EXTINF:-1, CH5 Source 2 TH
+#EXTINF:-1 group-title="THAI", CH5 Source 2 TH
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
-#EXTINF:-1,  Suvarnabhumi TV
+#EXTINF:-1 group-title="THAI",  Suvarnabhumi TV
 http://203.146.129.233:1935/live/suwan/playlist.m3u8
-#EXTINF:-1, Spring TH
+#EXTINF:-1 group-title="THAI", Spring TH
 http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1, Thai PBS TH
+#EXTINF:-1 group-title="THAI", Thai PBS TH
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1, MCOT Family TH
+#EXTINF:-1 group-title="THAI", MCOT Family TH
 http://lb-media.mcot.net:1935/mcotfamily_edge/smil:mcotfamily.smil/chunklist_w1961884432_b300000.m3u8
-#EXTINF:-1, Amarin 34 TH
+#EXTINF:-1 group-title="THAI", Amarin 34 TH
 http://s2.live14.com/stream/5195e80fe1ed0/playlist.m3u8
-#EXTINF:-1, GMM TH
+#EXTINF:-1 group-title="THAI", GMM TH
 http://202.43.34.234:1935/GMM/s1/chunklist.m3u8?wowzasessionid=1199044289
