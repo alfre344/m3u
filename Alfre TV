@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  ,CH3 (33) TH
+#EXTINF:-1  group-title="THAI", CH3 (33) TH
 http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1507324865&x_ark_path_prefix=/live/&x_ark_signature=B1raZMo53BiztVDr4P3S3w&x_ark_user_agent=1
 #EXTINF:-1 group-title="THAI", CH3 (28) TH
 http://ch3-28-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=lGu9hVLP35R8nmsn&x_ark_auth_type=ark-v2&x_ark_expires=1507527771&x_ark_path_prefix=/live/&x_ark_signature=dcuMcX_86S_JKO8Q7_RAjA&x_ark_user_agent=1
