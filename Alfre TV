@@ -18,6 +18,8 @@ http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="THAI", MCOT Family TH
 http://lb-media.mcot.net:1935/mcotfamily_edge/smil:mcotfamily.smil/chunklist_w1961884432_b300000.m3u8
+#EXTINF:-1 group-title="THAI", MCOT Family Source 2 TH
+http://lb-media.mcot.net:1935/mcotfamily_edge/smil:mcotfamily.smil/playlist.m3u8
 #EXTINF:-1 group-title="THAI", Amarin 34 TH
 http://s2.live14.com/stream/5195e80fe1ed0/playlist.m3u8
 #EXTINF:-1 group-title="THAI", GMM TH
