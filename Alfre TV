@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1 group-title="Alfre" tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", =Alfredo TV ---------------------
-#EXTINF:-1 group-title="THAI" tvg-id="CH3 HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png", CH3 (33) TH
+#EXTINF:-1 group-title="THAI"  tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png", CH3 (33) TH
 http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1507324865&x_ark_path_prefix=/live/&x_ark_signature=B1raZMo53BiztVDr4P3S3w&x_ark_user_agent=1
 #EXTINF:-1 group-title="THAI", CH3 (28) TH
 http://ch3-28.cdn.byteark.com/live/playlist.m3u8
