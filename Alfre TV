@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1 group-title="Alfre" tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", =Alfredo TV ---------------------
-#EXTINF:-1 group-title="THAI"  tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png", CH3 (33) TH
+#EXTINF:-1 group-title="THAI" , CH3 (33) TH
 http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1507324865&x_ark_path_prefix=/live/&x_ark_signature=B1raZMo53BiztVDr4P3S3w&x_ark_user_agent=1
 #EXTINF:-1 group-title="THAI", CH3 (28) TH
 http://ch3-28.cdn.byteark.com/live/playlist.m3u8
@@ -42,14 +42,14 @@ http://103.77.116.250/boboapp6/DISNEY_JUNIOR_ASIA/playlist.m3u8
 http://103.77.116.250/boboapp6/BBC_CBEEBIES/playlist.m3u8
 #EXTINF:-1 group-title="THAI" ,BBC earth
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_bbcearth_720p/playlist.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="DMAX" tvg-logo="http://iheartmovie.com/assets/201709051838412126240409.jpg",DMAX
+#EXTINF:-1 group-title="THAI" ,DMAX
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_dmaxhd_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="CI" tvg-logo="http://iheartmovie.com/assets/201709051834571569459908.jpg",CI
+#EXTINF:-1 group-title="THAI" ,CI
 http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_cihd_720p/chunks.m3u8?
 http://103.77.116.250/boboapp1/a_zeenung.stream/playlist.m3u8?userid=174906&e=1507380292&st=Mrn_Gvcydh46_GqVDeDzZA
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/hbo_hits.png",HBO hits
+#EXTINF:-1 group-title="THAI" ,HBO hits
 http://103.77.116.250/boboapp1/a_hbohit.stream/playlist.m3u8?userid=174906&e=1507380027&st=J56KubENM6nuA0bDrYv9sQ
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/hbofm.png",HBO family
+#EXTINF:-1 group-title="THAI",HBO family
 http://103.77.116.250/boboapp1/a_hbofam.stream/playlist.m3u8?userid=174906&e=1507380142&st=3UIgSbAJiAmrRPiA1o7FeQ
 #EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/hbo_sn.png",HBO signature
 http://103.77.116.250/boboapp1/a_hbosignature.stream/playlist.m3u8?userid=174906&e=1507380060&st=Zhk3WjNM3ViMIbmzaDzCtQ
