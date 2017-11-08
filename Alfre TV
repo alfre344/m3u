@@ -4,7 +4,7 @@
 http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1507324865&x_ark_path_prefix=/live/&x_ark_signature=B1raZMo53BiztVDr4P3S3w&x_ark_user_agent=1
 #EXTINF:-1 group-title="THAI", CH3 (28) TH
 http://ch3-28.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-id="CH 3 Family" tvg-logo="https://www.doohdbox.com/assets/20170708154908866898905.jpg", CH3 (13 Family) TH
+#EXTINF:-1 group-title="THAI", CH3 (13 Family) TH
 http://ch3-13-web.cdn.byteark.com/live/playlist_240p/index.m3u8?x_ark_access_id=PXiuC2eRe3Z4Yyrs&x_ark_auth_type=ark-v2&x_ark_expires=1507527155&x_ark_path_prefix=/live/&x_ark_signature=3jxXhjFjIX_ExhlCdNCIDw&x_ark_user_agent=1
 #EXTINF:-1 group-title="THAI", CH5 TH
 http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
@@ -12,35 +12,35 @@ http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
 #EXTINF:-1 group-title="THAI",  Suvarnabhumi TV
 http://203.146.129.233:1935/live/suwan/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-id="MONO Plus" tvg-logo="http://www.totiptv.com/Product/Channel/images/MonoPlus.png",MONO Plus
+#EXTINF:-1 group-title="THAI" ,MONO Plus
 http://27.254.63.162/stream/tot4k.php?channel_id=9623847065ba466e90632cf686fade0b
-#EXTINF:0 group-title="THAI" tvg-id="new tv" tvg-logo="https://www.doohdbox.com/assets/20170708160015210301920.jpg",new tv
+#EXTINF:0 group-title="THAI" ,New TV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:-1 group-title="THAI", Spring TH
 http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
-#EXTINF:0 group-title="THAI" tvg-id="PPTV" tvg-logo="https://www.doohdbox.com/assets/201708042024212062387887.jpg",PPTV HD
+#EXTINF:0 group-title="THAI" ,PPTV HD
 http://103.77.116.250/boboapp5/pptvs/playlist.m3u8?userid=174906&e=1506093170&st=2V8bjniFKYRaZgVIAJkUsg
-#EXTINF:-1 group-title="THAI" tvg-logo="http://tv.guchill.com/images/img_tv/tv/ch1041.gif",TV 24
+#EXTINF:-1 group-title="THAI" ,TV 24
 http://vdo.plathong.net:1935/flash2837//flash2837/chunklist_w517673240.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/BabyTVHD.png",Baby TV
+#EXTINF:-1 group-title="THAI" ,Baby TV
 http://27.254.63.162/stream/totnew.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/NiCKJr.png",Nick Jr
+#EXTINF:-1 group-title="THAI" ,Nick Jr
 http://27.254.63.162/stream/tot4k.php?channel_id=2b72986be9314c139db95f6098d1c413
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/DisneyChannel.png",Disney Channel
+#EXTINF:-1 group-title="THAI" ,Disney Channel
 http://iptvthailand.dyndns.biz:8081/iheartmovie136/00_disney_480p/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.onlinethailand.net/tv_online/images/cartoon-network.jpg",Cartoon Network
+#EXTINF:-1 group-title="THAI" ,Cartoon Network
 http://103.77.116.250/boboapp5/cnetwork/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/TrueSparkJump.png",True spark jump
+#EXTINF:-1 group-title="THAI",True spark jump
 http://103.77.116.250/boboapp3/SPK_JUMP/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/TrueSparkplay.png",True spark play
+#EXTINF:-1 group-title="THAI" ,True spark play
 http://103.77.116.250/boboapp3/SPK_PLAY/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="https://cartoon.mthai.com/app/uploads/2012/05/Untitleccccccccccd-111.jpg",Cartoon Club
+#EXTINF:-1 group-title="THAI" ,Cartoon Club
 http://27.254.63.162/stream/totnew.php?channel_id=860605f7e16d4c6cacef72ef02ffa2c1
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.2017auditions.com/wp-content/uploads/2016/10/unnamed.png",Disney Jr.[EN]
+#EXTINF:-1 group-title="THAI" ,Disney Jr.[EN]
 http://103.77.116.250/boboapp6/DISNEY_JUNIOR_ASIA/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-id="BBC CBeeBies" tvg-logo="https://www.doohdbox.com/assets/20170722121008742056600.jpg",BBC CBeeBies [EN]
+#EXTINF:-1 group-title="THAI" ,BBC CBeeBies [EN]
 http://103.77.116.250/boboapp6/BBC_CBEEBIES/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-id="BBC earth" tvg-logo="https://www.doohdbox.com/assets/201707072054401232290511.jpg",BBC earth
+#EXTINF:-1 group-title="THAI" ,BBC earth
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_bbcearth_720p/playlist.m3u8?
 #EXTINF:-1 group-title="THAI" tvg-id="DMAX" tvg-logo="http://iheartmovie.com/assets/201709051838412126240409.jpg",DMAX
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_dmaxhd_720p/chunks.m3u8?
@@ -124,5 +124,5 @@ http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_bbcearth_720p/playlist.m
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_dmaxhd_720p/chunks.m3u8?
 #EXTINF:-1 group-title="THAI" tvg-id="CI" tvg-logo="http://iheartmovie.com/assets/201709051834571569459908.jpg",CI
 http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_cihd_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI", UNKNOWN CHANNEL
+#EXTINF:-1 group-title="THAI", Z CHANNEL
 http://103.77.116.250/boboapp1/a_zeenung.stream/playlist.m3u8?userid=174906&e=1507380292&st=Mrn_Gvcydh46_GqVDeDzZA
