@@ -67,19 +67,18 @@ http://103.77.116.250/boboapp1/warner.stream/playlist.m3u8?userid=174906&e=15073
 http://27.254.63.162/stream/tot4k.php?channel_id=2e0e4b05aa6e428593f3b45b710045b7
 #EXTINF:-1 group-title="THAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Fox_life_hd.png",FoxLife
 http://27.254.63.162/stream/totnew.php?channel_id=65f7358b813048a0898f5677e1793cf9
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/thrill.png",Thrill
+#EXTINF:-1 group-title="THAI" ,Thrill
 http://27.254.63.162/stream/totnew.php?channel_id=c316ed9333e54442b25077f0bb3cc269
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.zaatvhd.com/wp-content/uploads/2017/02/Movie-HD-Icon-96x64.png",Inter Movie Hits
+#EXTINF:-1 group-title="THAI" ,Inter Movie Hits
 http://103.77.116.250/boboapp5/interm/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/tfa.png",True film asia
+#EXTINF:-1 group-title="THAI" ,True film asia
 http://103.77.116.250/boboapp3/FL_A/playlist.m3u8?userid=174906&e=1507381155&st=sQ-fPIOwgddDlDnbp8C10A
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/truethaifirm.png",True thai film
+#EXTINF:-1 group-title="THAI" ,True thai film
 http://103.77.116.250/boboapp3/TFLM/playlist.m3u8?userid=174906&e=1507381126&st=NY734LZrxOGwSmXRsP1b6w
-#EXTINF:-1 group-title="THAI" tvg-logo="https://www.jpopthailand.com/th/wp-content/uploads/2015/05/1538640_693124430722119_360876245_n.jpg",True asian HD
+#EXTINF:-1 group-title="THAI" ,True asian HD
 http://103.77.116.250/boboapp3/ASER/playlist.m3u8?userid=174906&e=1507381103&st=W94E7ftHa4kgOeJVaNbkFw
-#EXTINF:-1 group-title="THAI" tvg-logo="https://cdn.picodi.com/th/shop/thumb_200/doonee_161_001.png",DOONEE 
+#EXTINF:-1 group-title="THAI" ,DOONEE 
 http://103.77.116.250/boboapp1/a_doonee.stream/playlist.m3u8?userid=174906&e=1507380236&st=Kjv-RajD5scOSYf4uqogOg
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.thaiptv.com/img/zeenung_logo3.png",Z nang
 #EXTINF:-1 group-title="THAI" tvg-logo="http://www.totiptv.com/Product/Channel/images/STARChineseMoviesLegend.png",Star Chinese Movies
 http://27.254.63.162/stream/tot4k.php?channel_id=c8233976dbba4a06a101780907447375
 #EXTINF:-1 group-title="THAI" tvg-logo="http://www.thaiptv.com/img/monopluslogo.png",MONO Plus+
@@ -124,5 +123,5 @@ http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_bbcearth_720p/playlist.m
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_dmaxhd_720p/chunks.m3u8?
 #EXTINF:-1 group-title="THAI" tvg-id="CI" tvg-logo="http://iheartmovie.com/assets/201709051834571569459908.jpg",CI
 http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_cihd_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI", Z CHANNEL
+#EXTINF:-1 group-title="THAI", Z Nang
 http://103.77.116.250/boboapp1/a_zeenung.stream/playlist.m3u8?userid=174906&e=1507380292&st=Mrn_Gvcydh46_GqVDeDzZA
