@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1 group-title="Alfredo" tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", =Alfredo TV ---------------------
+#EXTINF:1 group-title="Alfre" tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", =Alfredo TV ---------------------
 #EXTINF:-1 group-title="THAI" , CH3 (33) TH
 http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1507324865&x_ark_path_prefix=/live/&x_ark_signature=B1raZMo53BiztVDr4P3S3w&x_ark_user_agent=1
 #EXTINF:-1 group-title="THAI", CH3 (28) TH
@@ -14,11 +14,11 @@ http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
 http://203.146.129.233:1935/live/suwan/playlist.m3u8
 #EXTINF:-1 group-title="THAI" ,MONO Plus
 http://27.254.63.162/stream/tot4k.php?channel_id=9623847065ba466e90632cf686fade0b
-#EXTINF:0 group-title="THAI" ,New TV
+#EXTINF:-1 group-title="THAI" ,New TV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:-1 group-title="THAI", Spring TH
 http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
-#EXTINF:0 group-title="THAI" ,PPTV HD
+#EXTINF:-1 group-title="THAI" ,PPTV HD
 http://103.77.116.250/boboapp5/pptvs/playlist.m3u8?userid=174906&e=1506093170&st=2V8bjniFKYRaZgVIAJkUsg
 #EXTINF:-1 group-title="THAI" ,TV 24
 http://vdo.plathong.net:1935/flash2837//flash2837/chunklist_w517673240.m3u8
@@ -84,15 +84,15 @@ http://103.77.116.250/boboapp1/a_doonee.stream/playlist.m3u8?userid=174906&e=150
 http://27.254.63.162/stream/tot4k.php?channel_id=c8233976dbba4a06a101780907447375
 #EXTINF:-1 group-title="THAI" tvg-logo="http://www.thaiptv.com/img/monopluslogo.png",MONO Plus+
 http://27.254.63.162/stream/totnew.php?channel_id=9623847065ba466e90632cf686fade0b
-#EXTINF:0 group-title="THAI" tvg-id="FAN TV HD" tvg-logo="http://www.thaiptv.com/img/sabaidee_tv.png",SABAYDEE TV
+#EXTINF:-1 group-title="THAI" tvg-id="FAN TV HD" tvg-logo="http://www.thaiptv.com/img/sabaidee_tv.png",SABAYDEE TV
 http://27.254.63.162/stream/tot4k.php?channel_id=b9bedb1b0539456dbc84542cf2ebca7b
 #EXTINF:-1 group-title="THAI" tvg-logo="http://www.travelchannel.co.th/design/images/no_image.jpg",Travel Channel  
 http://103.77.116.250/boboapp3/TRAV/playlist.m3u8?userid=174906&e=1507381278&st=iGUiN_9egaNZAX5NIhW6_w
 #EXTINF:-1 group-title="THAI" tvg-id="FYI HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/fyi.png",FYI HD  
 http://103.77.116.250/boboapp2/FYI_HD_Thailand/playlist.m3u8?userid=174906&e=1507380576&st=zosyHW9YgWr-Nt-HQp67yw
-#EXTINF:0 group-title="THAI" tvg-id="Nat Geo Wild HD (Thai)" tvg-logo="http://www.totiptv.com/Product/Channel/images/NatGeoWild.png",NAT GEO WILD HD  TH
+#EXTINF:-1 group-title="THAI" tvg-id="Nat Geo Wild HD (Thai)" tvg-logo="http://www.totiptv.com/Product/Channel/images/NatGeoWild.png",NAT GEO WILD HD  TH
 http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_natgeowild_720p/chunks.m3u8?
-#EXTINF:0 group-title="THAI" tvg-id="Nat Geo People HD (Thai)" tvg-logo="http://www.totiptv.com/Product/Channel/images/NatGeoWild.png",NAT GEO PEOPLE HD
+#EXTINF:-1 group-title="THAI" tvg-id="Nat Geo People HD (Thai)" tvg-logo="http://www.totiptv.com/Product/Channel/images/NatGeoWild.png",NAT GEO PEOPLE HD
 http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_natgeopeople_720p/chunks.m3u8?
 #EXTINF:-1 group-title="THAI" tvg-id="National Geographic HD(Thai)" tvg-logo="http://www.sine.tv/images/icon/NationalGeographicHD.png",National Geographic HD
 http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_natgeographic_720p/chunks.m3u8?
