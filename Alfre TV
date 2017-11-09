@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1 group-title="Alfredo" tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", =Alfredo TV ---------------------
+#EXTINF:1 group-title="Alfre" tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", =Alfredo TV ---------------------
 #EXTINF:-1 group-title="THAI" , CH3 (33) TH
 http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1507324865&x_ark_path_prefix=/live/&x_ark_signature=B1raZMo53BiztVDr4P3S3w&x_ark_user_agent=1
 #EXTINF:-1 group-title="THAI", CH3 (28) TH
@@ -61,9 +61,9 @@ http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_cihd_720p/chunks.m3u8?
 http://103.77.116.250/boboapp1/a_zeenung.stream/playlist.m3u8?userid=174906&e=1507380292&st=Mrn_Gvcydh46_GqVDeDzZA
 #EXTINF:-1 group-title="THAI" ,HBO hits
 http://103.77.116.250/boboapp1/a_hbohit.stream/playlist.m3u8?userid=174906&e=1507380027&st=J56KubENM6nuA0bDrYv9sQ
-#EXTINF:-1 group-title="THAI",HBO family
+#EXTINF:-1 group-title="THAI" ,HBO family
 http://103.77.116.250/boboapp1/a_hbofam.stream/playlist.m3u8?userid=174906&e=1507380142&st=3UIgSbAJiAmrRPiA1o7FeQ
-#EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/hbo_sn.png",HBO signature
+#EXTINF:-1 group-title="THAI" ,HBO signature
 http://103.77.116.250/boboapp1/a_hbosignature.stream/playlist.m3u8?userid=174906&e=1507380060&st=Zhk3WjNM3ViMIbmzaDzCtQ
 #EXTINF:-1 group-title="THAI" tvg-logo="http://www.sine.tv/images/icon/foxaction.png",Fox Action Movies
 http://103.77.116.250/boboapp1/fox_action.stream/playlist.m3u8?userid=174906&e=1507380332&st=9TLg2668SFOhnT5V379eQA
@@ -95,45 +95,45 @@ http://103.77.116.250/boboapp1/a_doonee.stream/playlist.m3u8?userid=174906&e=150
 http://27.254.63.162/stream/tot4k.php?channel_id=c8233976dbba4a06a101780907447375
 #EXTINF:-1 group-title="THAI" tvg-logo="http://www.thaiptv.com/img/monopluslogo.png",MONO Plus+
 http://27.254.63.162/stream/totnew.php?channel_id=9623847065ba466e90632cf686fade0b
-#EXTINF:-1 group-title="THAI" tvg-id="FAN TV HD" tvg-logo="http://www.thaiptv.com/img/sabaidee_tv.png",SABAYDEE TV
+#EXTINF:-1 group-title="THAI" ,SABAYDEE TV
 http://27.254.63.162/stream/tot4k.php?channel_id=b9bedb1b0539456dbc84542cf2ebca7b
 #EXTINF:-1 group-title="THAI" tvg-logo="http://www.travelchannel.co.th/design/images/no_image.jpg",Travel Channel  
 http://103.77.116.250/boboapp3/TRAV/playlist.m3u8?userid=174906&e=1507381278&st=iGUiN_9egaNZAX5NIhW6_w
-#EXTINF:-1 group-title="THAI" tvg-id="FYI HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/fyi.png",FYI HD  
+#EXTINF:-1 group-title="THAI" ,FYI HD  
 http://103.77.116.250/boboapp2/FYI_HD_Thailand/playlist.m3u8?userid=174906&e=1507380576&st=zosyHW9YgWr-Nt-HQp67yw
-#EXTINF:-1 group-title="THAI" tvg-id="Nat Geo Wild HD (Thai)" tvg-logo="http://www.totiptv.com/Product/Channel/images/NatGeoWild.png",NAT GEO WILD HD  TH
+#EXTINF:-1 group-title="THAI" ,NAT GEO WILD HD  TH
 http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_natgeowild_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="Nat Geo People HD (Thai)" tvg-logo="http://www.totiptv.com/Product/Channel/images/NatGeoWild.png",NAT GEO PEOPLE HD
+#EXTINF:-1 group-title="THAI" ,NAT GEO PEOPLE HD
 http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_natgeopeople_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="National Geographic HD(Thai)" tvg-logo="http://www.sine.tv/images/icon/NationalGeographicHD.png",National Geographic HD
+#EXTINF:-1 group-title="THAI" ,National Geographic HD
 http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_natgeographic_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="mysci hd" tvg-logo="http://www.sine.tv/images/icon/MYSCI.png",mysci hd
+#EXTINF:-1 group-title="THAI" ,mysci hd
 http://freedooballt1.blogdns.com:8081/iheartmovie41/0x222_mysci_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="Samrujlok" tvg-logo="http://www.sine.tv/images/icon/SAMROJLOK.png",สำรวจโลก
+#EXTINF:-1 group-title="THAI" ,สำรวจโลก
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_samrujlok_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="HISTORY HD" tvg-logo="http://www.sine.tv/images/icon/HistoryChannelHD.png",HISTORY HD  
+#EXTINF:-1 group-title="THAI" ,HISTORY HD  
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_historyhd_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="H2 HD" tvg-logo="http://www.sine.tv/images/icon/H2.png",H2 HD  
+#EXTINF:-1 group-title="THAI" ,H2 HD  
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_h2hd_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="DISCOVERY CHANNEL" tvg-logo="http://www.sine.tv/images/icon/DiscoveryChannel.png",DISCOVERY CHANNEL
+#EXTINF:-1 group-title="THAI" ,DISCOVERY CHANNEL
 http://onetime001-uouxgd.cdn.byteark.com/documentary/discovery_channel_480p.stream/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-id="DISCOVERY SCIENCE" tvg-logo="http://www.sine.tv/images/icon/DiscoveryScience.png",DISCOVERY SCIENCE
+#EXTINF:-1 group-title="THAI" ,DISCOVERY SCIENCE
 http://freedooballt1.blogdns.com:8081/iheartmovie41/0x777_dissci_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="DISCOVERY HD WORLD" tvg-logo="http://www.sine.tv/images/icon/DiscoveryHDWorld.png",DISCOVERY HD WORLD
+#EXTINF:-1 group-title="THAI" ,DISCOVERY HD WORLD
 http://onetime001-uouxgd.cdn.byteark.com/documentary/discovery_hd_world_720p.stream/playlist.m3u8
-#EXTINF:-1 group-title="THAI" tvg-id="ANIMAL PLANET" tvg-logo="http://www.sine.tv/images/icon/AnimalPlanet.png",ANIMAL PLANET  
+#EXTINF:-1 group-title="THAI" ,ANIMAL PLANET  
 http://freedooballt1.blogdns.com:8081/iheartmovie41/0x777_animalplanet_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="true_explore_wild" tvg-logo="http://www.sine.tv/images/icon/TrueExploreWild.png",true_explore_wild
+#EXTINF:-1 group-title="THAI" ,true_explore_wild
 http://iptvthailand.dyndns.biz:8081/iheartmovie136/00_exp1_480p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="true_explore_life" tvg-logo="http://www.sine.tv/images/icon/TrueExploreLife.png",true_explore_life
+#EXTINF:-1 group-title="THAI" ,true_explore_life
 http://iptvthailand.dyndns.biz:8081/iheartmovie53/00_exp2_480p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="true_explore_sci" tvg-logo="http://www.sine.tv/images/icon/TrueExploreSci.png",true_explore_sci
+#EXTINF:-1 group-title="THAI" ,true_explore_sci
 http://iptvthailand.dyndns.biz:8081/iheartmovie53/00_exp3_480p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="BBC earth" tvg-logo="https://www.doohdbox.com/assets/201707072054401232290511.jpg",BBC earth
+#EXTINF:-1 group-title="THAI" ,BBC earth
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_bbcearth_720p/playlist.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="DMAX" tvg-logo="http://iheartmovie.com/assets/201709051838412126240409.jpg",DMAX
+#EXTINF:-1 group-title="THAI" ,DMAX
 http://iptvthailand.dyndns.biz:8081/iheartmovie41/0x777_dmaxhd_720p/chunks.m3u8?
-#EXTINF:-1 group-title="THAI" tvg-id="CI" tvg-logo="http://iheartmovie.com/assets/201709051834571569459908.jpg",CI
+#EXTINF:-1 group-title="THAI" ,CI
 http://iptvthailand.dyndns.biz:8081/iheartmovie54/0x222_cihd_720p/chunks.m3u8?
 #EXTINF:-1 group-title="THAI", Z Nang
 http://103.77.116.250/boboapp1/a_zeenung.stream/playlist.m3u8?userid=174906&e=1507380292&st=Mrn_Gvcydh46_GqVDeDzZA
