@@ -7,7 +7,7 @@ http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="THAI", CH3 (33) TH (3) 
 http://ch3-33-web.cdn.byteark.com/live/playlist_480p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1510298707&x_ark_path_prefix=/live/&x_ark_signature=YNnw2gbCe0JTSyI5FGsCcw&x_ark_user_agent=1
 #EXTINF:-1 group-title="THAI", CH3 (28) TH
-http://ch3-28.cdn.byteark.com/live/playlist.m3u8
+http://103.233.195.147:8081/edgelive/0x_3sd/chunks.m3u8
 #EXTINF:-1 group-title="THAI", CH3 (28) TH(2)
 https://www.google-analytics.com/collect?v=1&_v=j65&a=775886676&t=event&_s=2&dl=http%3A%2F%2Fwww.ch3thailand.com%2F%25E0%25B8%2594%25E0%25B8%25B9%25E0%25B8%2597%25E0%25B8%25B5%25E0%25B8%25A7%25E0%25B8%25B5%25E0%25B8%25AD%25E0%25B8%25AD%25E0%25B8%2599%25E0%25B9%2584%25E0%25B8%25A5%25E0%25B8%2599%25E0%25B9%258C%2F28&ul=en-us&de=UTF-8&dt=watch%20online%20TV%20Watch%20TV%20Online%20Channel%203%20Online%20TV%20Channel%203%2033%2028%2013&sd=24-bit&sr=1280x720&vp=1280x629&je=0&fl=27.0%20r0&ec=JWPlayer%20TV3%20Live&ea=adImpression&el=http%3A%2F%2Fch3-28-web.cdn.byteark.com%2Flive%2Fplaylist.m3u8%3Fx_ark_access_id%3DlGu9hVLP35R8nmsn%26x_ark_auth_type%3Dark-v2%26x_ark_expires%3D1510299049%26x_ark_path_prefix%3D%2Flive%2F%26x_ark_signature%3DDR5Kxwl3UdQ9F9oCqRhHeA%26x_ark_user_agent%3D1&_u=CACAAMABI~&jid=&gjid=&cid=1961533045.1507313639&tid=UA-29322680-2&_gid=1697715423.1510287888&z=314164465
 #EXTINF:-1 group-title="THAI", CH3 (13 Family) TH
